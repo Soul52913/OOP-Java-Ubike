@@ -1,0 +1,10634 @@
+[
+	{
+		"DockUID": "TPE500101029_01",
+		"DockID": "01",
+		"StationUID": "TPE500101029",
+		"Bike": "F00286"
+	},
+	{
+		"DockUID": "TPE500101029_02",
+		"DockID": "02",
+		"StationUID": "TPE500101029",
+		"Bike": "A01775"
+	},
+	{
+		"DockUID": "TPE500101029_03",
+		"DockID": "03",
+		"StationUID": "TPE500101029",
+		"Bike": "A01253"
+	},
+	{
+		"DockUID": "TPE500101029_04",
+		"DockID": "04",
+		"StationUID": "TPE500101029",
+		"Bike": "A00732"
+	},
+	{
+		"DockUID": "TPE500101029_05",
+		"DockID": "05",
+		"StationUID": "TPE500101029",
+		"Bike": "A02711"
+	},
+	{
+		"DockUID": "TPE500101029_06",
+		"DockID": "06",
+		"StationUID": "TPE500101029",
+		"Bike": "A02547"
+	},
+	{
+		"DockUID": "TPE500101029_07",
+		"DockID": "07",
+		"StationUID": "TPE500101029",
+		"Bike": "A00474"
+	},
+	{
+		"DockUID": "TPE500101029_08",
+		"DockID": "08",
+		"StationUID": "TPE500101029",
+		"Bike": "A02366"
+	},
+	{
+		"DockUID": "TPE500101029_09",
+		"DockID": "09",
+		"StationUID": "TPE500101029",
+		"Bike": "A02328"
+	},
+	{
+		"DockUID": "TPE500101029_10",
+		"DockID": "10",
+		"StationUID": "TPE500101029",
+		"Bike": "A00162"
+	},
+	{
+		"DockUID": "TPE500101029_11",
+		"DockID": "11",
+		"StationUID": "TPE500101029",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101029_12",
+		"DockID": "12",
+		"StationUID": "TPE500101029",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101029_13",
+		"DockID": "13",
+		"StationUID": "TPE500101029",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101029_14",
+		"DockID": "14",
+		"StationUID": "TPE500101029",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101029_15",
+		"DockID": "15",
+		"StationUID": "TPE500101029",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_01",
+		"DockID": "01",
+		"StationUID": "TPE500101030",
+		"Bike": "A01780"
+	},
+	{
+		"DockUID": "TPE500101030_02",
+		"DockID": "02",
+		"StationUID": "TPE500101030",
+		"Bike": "A03698"
+	},
+	{
+		"DockUID": "TPE500101030_03",
+		"DockID": "03",
+		"StationUID": "TPE500101030",
+		"Bike": "A03690"
+	},
+	{
+		"DockUID": "TPE500101030_04",
+		"DockID": "04",
+		"StationUID": "TPE500101030",
+		"Bike": "A01310"
+	},
+	{
+		"DockUID": "TPE500101030_05",
+		"DockID": "05",
+		"StationUID": "TPE500101030",
+		"Bike": "A01151"
+	},
+	{
+		"DockUID": "TPE500101030_06",
+		"DockID": "06",
+		"StationUID": "TPE500101030",
+		"Bike": "A02738"
+	},
+	{
+		"DockUID": "TPE500101030_07",
+		"DockID": "07",
+		"StationUID": "TPE500101030",
+		"Bike": "A02702"
+	},
+	{
+		"DockUID": "TPE500101030_08",
+		"DockID": "08",
+		"StationUID": "TPE500101030",
+		"Bike": "A02392"
+	},
+	{
+		"DockUID": "TPE500101030_09",
+		"DockID": "09",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_10",
+		"DockID": "10",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_11",
+		"DockID": "11",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_12",
+		"DockID": "12",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_13",
+		"DockID": "13",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_14",
+		"DockID": "14",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_15",
+		"DockID": "15",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_16",
+		"DockID": "16",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_17",
+		"DockID": "17",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_18",
+		"DockID": "18",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_19",
+		"DockID": "19",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_20",
+		"DockID": "20",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_21",
+		"DockID": "21",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_22",
+		"DockID": "22",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_23",
+		"DockID": "23",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_24",
+		"DockID": "24",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_25",
+		"DockID": "25",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_26",
+		"DockID": "26",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_27",
+		"DockID": "27",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_28",
+		"DockID": "28",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_29",
+		"DockID": "29",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_30",
+		"DockID": "30",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_31",
+		"DockID": "31",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_32",
+		"DockID": "32",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_33",
+		"DockID": "33",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101030_34",
+		"DockID": "34",
+		"StationUID": "TPE500101030",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_01",
+		"DockID": "01",
+		"StationUID": "TPE500101031",
+		"Bike": "A03847"
+	},
+	{
+		"DockUID": "TPE500101031_02",
+		"DockID": "02",
+		"StationUID": "TPE500101031",
+		"Bike": "A03769"
+	},
+	{
+		"DockUID": "TPE500101031_03",
+		"DockID": "03",
+		"StationUID": "TPE500101031",
+		"Bike": "A03704"
+	},
+	{
+		"DockUID": "TPE500101031_04",
+		"DockID": "04",
+		"StationUID": "TPE500101031",
+		"Bike": "A03687"
+	},
+	{
+		"DockUID": "TPE500101031_05",
+		"DockID": "05",
+		"StationUID": "TPE500101031",
+		"Bike": "A02382"
+	},
+	{
+		"DockUID": "TPE500101031_06",
+		"DockID": "06",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_07",
+		"DockID": "07",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_08",
+		"DockID": "08",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_09",
+		"DockID": "09",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_10",
+		"DockID": "10",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_11",
+		"DockID": "11",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_12",
+		"DockID": "12",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_13",
+		"DockID": "13",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_14",
+		"DockID": "14",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_15",
+		"DockID": "15",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_16",
+		"DockID": "16",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_17",
+		"DockID": "17",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_18",
+		"DockID": "18",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_19",
+		"DockID": "19",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101031_20",
+		"DockID": "20",
+		"StationUID": "TPE500101031",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_01",
+		"DockID": "01",
+		"StationUID": "TPE500101032",
+		"Bike": "A03870"
+	},
+	{
+		"DockUID": "TPE500101032_02",
+		"DockID": "02",
+		"StationUID": "TPE500101032",
+		"Bike": "A01606"
+	},
+	{
+		"DockUID": "TPE500101032_03",
+		"DockID": "03",
+		"StationUID": "TPE500101032",
+		"Bike": "A01535"
+	},
+	{
+		"DockUID": "TPE500101032_04",
+		"DockID": "04",
+		"StationUID": "TPE500101032",
+		"Bike": "A03529"
+	},
+	{
+		"DockUID": "TPE500101032_05",
+		"DockID": "05",
+		"StationUID": "TPE500101032",
+		"Bike": "A03480"
+	},
+	{
+		"DockUID": "TPE500101032_06",
+		"DockID": "06",
+		"StationUID": "TPE500101032",
+		"Bike": "A01350"
+	},
+	{
+		"DockUID": "TPE500101032_07",
+		"DockID": "07",
+		"StationUID": "TPE500101032",
+		"Bike": "A00841"
+	},
+	{
+		"DockUID": "TPE500101032_08",
+		"DockID": "08",
+		"StationUID": "TPE500101032",
+		"Bike": "A02604"
+	},
+	{
+		"DockUID": "TPE500101032_09",
+		"DockID": "09",
+		"StationUID": "TPE500101032",
+		"Bike": "A00099"
+	},
+	{
+		"DockUID": "TPE500101032_10",
+		"DockID": "10",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_11",
+		"DockID": "11",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_12",
+		"DockID": "12",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_13",
+		"DockID": "13",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_14",
+		"DockID": "14",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_15",
+		"DockID": "15",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_16",
+		"DockID": "16",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_17",
+		"DockID": "17",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_18",
+		"DockID": "18",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_19",
+		"DockID": "19",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_20",
+		"DockID": "20",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_21",
+		"DockID": "21",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_22",
+		"DockID": "22",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_23",
+		"DockID": "23",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_24",
+		"DockID": "24",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_25",
+		"DockID": "25",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_26",
+		"DockID": "26",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_27",
+		"DockID": "27",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_28",
+		"DockID": "28",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_29",
+		"DockID": "29",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_30",
+		"DockID": "30",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_31",
+		"DockID": "31",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_32",
+		"DockID": "32",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_33",
+		"DockID": "33",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_34",
+		"DockID": "34",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_35",
+		"DockID": "35",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_36",
+		"DockID": "36",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_37",
+		"DockID": "37",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_38",
+		"DockID": "38",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_39",
+		"DockID": "39",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_40",
+		"DockID": "40",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_41",
+		"DockID": "41",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_42",
+		"DockID": "42",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_43",
+		"DockID": "43",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_44",
+		"DockID": "44",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_45",
+		"DockID": "45",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_46",
+		"DockID": "46",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_47",
+		"DockID": "47",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_48",
+		"DockID": "48",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_49",
+		"DockID": "49",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_50",
+		"DockID": "50",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_51",
+		"DockID": "51",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_52",
+		"DockID": "52",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_53",
+		"DockID": "53",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_54",
+		"DockID": "54",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_55",
+		"DockID": "55",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_56",
+		"DockID": "56",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_57",
+		"DockID": "57",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_58",
+		"DockID": "58",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_59",
+		"DockID": "59",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_60",
+		"DockID": "60",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101032_61",
+		"DockID": "61",
+		"StationUID": "TPE500101032",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_01",
+		"DockID": "01",
+		"StationUID": "TPE500101033",
+		"Bike": "A03941"
+	},
+	{
+		"DockUID": "TPE500101033_02",
+		"DockID": "02",
+		"StationUID": "TPE500101033",
+		"Bike": "A01818"
+	},
+	{
+		"DockUID": "TPE500101033_03",
+		"DockID": "03",
+		"StationUID": "TPE500101033",
+		"Bike": "A01789"
+	},
+	{
+		"DockUID": "TPE500101033_04",
+		"DockID": "04",
+		"StationUID": "TPE500101033",
+		"Bike": "A03109"
+	},
+	{
+		"DockUID": "TPE500101033_05",
+		"DockID": "05",
+		"StationUID": "TPE500101033",
+		"Bike": "A00240"
+	},
+	{
+		"DockUID": "TPE500101033_06",
+		"DockID": "06",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_07",
+		"DockID": "07",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_08",
+		"DockID": "08",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_09",
+		"DockID": "09",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_10",
+		"DockID": "10",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_11",
+		"DockID": "11",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_12",
+		"DockID": "12",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_13",
+		"DockID": "13",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_14",
+		"DockID": "14",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_15",
+		"DockID": "15",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_16",
+		"DockID": "16",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_17",
+		"DockID": "17",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_18",
+		"DockID": "18",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_19",
+		"DockID": "19",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_20",
+		"DockID": "20",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_21",
+		"DockID": "21",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_22",
+		"DockID": "22",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_23",
+		"DockID": "23",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_24",
+		"DockID": "24",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_25",
+		"DockID": "25",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_26",
+		"DockID": "26",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_27",
+		"DockID": "27",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_28",
+		"DockID": "28",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_29",
+		"DockID": "29",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_30",
+		"DockID": "30",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_31",
+		"DockID": "31",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_32",
+		"DockID": "32",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_33",
+		"DockID": "33",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_34",
+		"DockID": "34",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_35",
+		"DockID": "35",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_36",
+		"DockID": "36",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_37",
+		"DockID": "37",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_38",
+		"DockID": "38",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_39",
+		"DockID": "39",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_40",
+		"DockID": "40",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_41",
+		"DockID": "41",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_42",
+		"DockID": "42",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_43",
+		"DockID": "43",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_44",
+		"DockID": "44",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_45",
+		"DockID": "45",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101033_46",
+		"DockID": "46",
+		"StationUID": "TPE500101033",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_01",
+		"DockID": "01",
+		"StationUID": "TPE500101034",
+		"Bike": "A02045"
+	},
+	{
+		"DockUID": "TPE500101034_02",
+		"DockID": "02",
+		"StationUID": "TPE500101034",
+		"Bike": "A01506"
+	},
+	{
+		"DockUID": "TPE500101034_03",
+		"DockID": "03",
+		"StationUID": "TPE500101034",
+		"Bike": "A00671"
+	},
+	{
+		"DockUID": "TPE500101034_04",
+		"DockID": "04",
+		"StationUID": "TPE500101034",
+		"Bike": "A00340"
+	},
+	{
+		"DockUID": "TPE500101034_05",
+		"DockID": "05",
+		"StationUID": "TPE500101034",
+		"Bike": "A00256"
+	},
+	{
+		"DockUID": "TPE500101034_06",
+		"DockID": "06",
+		"StationUID": "TPE500101034",
+		"Bike": "A02143"
+	},
+	{
+		"DockUID": "TPE500101034_07",
+		"DockID": "07",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_08",
+		"DockID": "08",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_09",
+		"DockID": "09",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_10",
+		"DockID": "10",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_11",
+		"DockID": "11",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_12",
+		"DockID": "12",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_13",
+		"DockID": "13",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_14",
+		"DockID": "14",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_15",
+		"DockID": "15",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_16",
+		"DockID": "16",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_17",
+		"DockID": "17",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101034_18",
+		"DockID": "18",
+		"StationUID": "TPE500101034",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_01",
+		"DockID": "01",
+		"StationUID": "TPE500101035",
+		"Bike": "A01875"
+	},
+	{
+		"DockUID": "TPE500101035_02",
+		"DockID": "02",
+		"StationUID": "TPE500101035",
+		"Bike": "A03806"
+	},
+	{
+		"DockUID": "TPE500101035_03",
+		"DockID": "03",
+		"StationUID": "TPE500101035",
+		"Bike": "A03734"
+	},
+	{
+		"DockUID": "TPE500101035_04",
+		"DockID": "04",
+		"StationUID": "TPE500101035",
+		"Bike": "A01415"
+	},
+	{
+		"DockUID": "TPE500101035_05",
+		"DockID": "05",
+		"StationUID": "TPE500101035",
+		"Bike": "A00695"
+	},
+	{
+		"DockUID": "TPE500101035_06",
+		"DockID": "06",
+		"StationUID": "TPE500101035",
+		"Bike": "A00530"
+	},
+	{
+		"DockUID": "TPE500101035_07",
+		"DockID": "07",
+		"StationUID": "TPE500101035",
+		"Bike": "A02152"
+	},
+	{
+		"DockUID": "TPE500101035_08",
+		"DockID": "08",
+		"StationUID": "TPE500101035",
+		"Bike": "A02149"
+	},
+	{
+		"DockUID": "TPE500101035_09",
+		"DockID": "09",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_10",
+		"DockID": "10",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_11",
+		"DockID": "11",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_12",
+		"DockID": "12",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_13",
+		"DockID": "13",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_14",
+		"DockID": "14",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_15",
+		"DockID": "15",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_16",
+		"DockID": "16",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_17",
+		"DockID": "17",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_18",
+		"DockID": "18",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_19",
+		"DockID": "19",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_20",
+		"DockID": "20",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_21",
+		"DockID": "21",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_22",
+		"DockID": "22",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_23",
+		"DockID": "23",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101035_24",
+		"DockID": "24",
+		"StationUID": "TPE500101035",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_01",
+		"DockID": "01",
+		"StationUID": "TPE500101036",
+		"Bike": "A03948"
+	},
+	{
+		"DockUID": "TPE500101036_02",
+		"DockID": "02",
+		"StationUID": "TPE500101036",
+		"Bike": "A01650"
+	},
+	{
+		"DockUID": "TPE500101036_03",
+		"DockID": "03",
+		"StationUID": "TPE500101036",
+		"Bike": "A01567"
+	},
+	{
+		"DockUID": "TPE500101036_04",
+		"DockID": "04",
+		"StationUID": "TPE500101036",
+		"Bike": "A02868"
+	},
+	{
+		"DockUID": "TPE500101036_05",
+		"DockID": "05",
+		"StationUID": "TPE500101036",
+		"Bike": "A00490"
+	},
+	{
+		"DockUID": "TPE500101036_06",
+		"DockID": "06",
+		"StationUID": "TPE500101036",
+		"Bike": "A00052"
+	},
+	{
+		"DockUID": "TPE500101036_07",
+		"DockID": "07",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_08",
+		"DockID": "08",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_09",
+		"DockID": "09",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_10",
+		"DockID": "10",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_11",
+		"DockID": "11",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_12",
+		"DockID": "12",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_13",
+		"DockID": "13",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_14",
+		"DockID": "14",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_15",
+		"DockID": "15",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_16",
+		"DockID": "16",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_17",
+		"DockID": "17",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_18",
+		"DockID": "18",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_19",
+		"DockID": "19",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101036_20",
+		"DockID": "20",
+		"StationUID": "TPE500101036",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_01",
+		"DockID": "01",
+		"StationUID": "TPE500101037",
+		"Bike": "A03617"
+	},
+	{
+		"DockUID": "TPE500101037_02",
+		"DockID": "02",
+		"StationUID": "TPE500101037",
+		"Bike": "A00605"
+	},
+	{
+		"DockUID": "TPE500101037_03",
+		"DockID": "03",
+		"StationUID": "TPE500101037",
+		"Bike": "A00527"
+	},
+	{
+		"DockUID": "TPE500101037_04",
+		"DockID": "04",
+		"StationUID": "TPE500101037",
+		"Bike": "A02230"
+	},
+	{
+		"DockUID": "TPE500101037_05",
+		"DockID": "05",
+		"StationUID": "TPE500101037",
+		"Bike": "A00177"
+	},
+	{
+		"DockUID": "TPE500101037_06",
+		"DockID": "06",
+		"StationUID": "TPE500101037",
+		"Bike": "A02215"
+	},
+	{
+		"DockUID": "TPE500101037_07",
+		"DockID": "07",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_08",
+		"DockID": "08",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_09",
+		"DockID": "09",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_10",
+		"DockID": "10",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_11",
+		"DockID": "11",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_12",
+		"DockID": "12",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_13",
+		"DockID": "13",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_14",
+		"DockID": "14",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_15",
+		"DockID": "15",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_16",
+		"DockID": "16",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_17",
+		"DockID": "17",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_18",
+		"DockID": "18",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_19",
+		"DockID": "19",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101037_20",
+		"DockID": "20",
+		"StationUID": "TPE500101037",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_01",
+		"DockID": "01",
+		"StationUID": "TPE500101038",
+		"Bike": "A03909"
+	},
+	{
+		"DockUID": "TPE500101038_02",
+		"DockID": "02",
+		"StationUID": "TPE500101038",
+		"Bike": "A01805"
+	},
+	{
+		"DockUID": "TPE500101038_03",
+		"DockID": "03",
+		"StationUID": "TPE500101038",
+		"Bike": "A03524"
+	},
+	{
+		"DockUID": "TPE500101038_04",
+		"DockID": "04",
+		"StationUID": "TPE500101038",
+		"Bike": "A02997"
+	},
+	{
+		"DockUID": "TPE500101038_05",
+		"DockID": "05",
+		"StationUID": "TPE500101038",
+		"Bike": "A02971"
+	},
+	{
+		"DockUID": "TPE500101038_06",
+		"DockID": "06",
+		"StationUID": "TPE500101038",
+		"Bike": "A00857"
+	},
+	{
+		"DockUID": "TPE500101038_07",
+		"DockID": "07",
+		"StationUID": "TPE500101038",
+		"Bike": "A02730"
+	},
+	{
+		"DockUID": "TPE500101038_08",
+		"DockID": "08",
+		"StationUID": "TPE500101038",
+		"Bike": "A02722"
+	},
+	{
+		"DockUID": "TPE500101038_09",
+		"DockID": "09",
+		"StationUID": "TPE500101038",
+		"Bike": "A02667"
+	},
+	{
+		"DockUID": "TPE500101038_10",
+		"DockID": "10",
+		"StationUID": "TPE500101038",
+		"Bike": "A00547"
+	},
+	{
+		"DockUID": "TPE500101038_11",
+		"DockID": "11",
+		"StationUID": "TPE500101038",
+		"Bike": "A00394"
+	},
+	{
+		"DockUID": "TPE500101038_12",
+		"DockID": "12",
+		"StationUID": "TPE500101038",
+		"Bike": "A02408"
+	},
+	{
+		"DockUID": "TPE500101038_13",
+		"DockID": "13",
+		"StationUID": "TPE500101038",
+		"Bike": "A00210"
+	},
+	{
+		"DockUID": "TPE500101038_14",
+		"DockID": "14",
+		"StationUID": "TPE500101038",
+		"Bike": "A02195"
+	},
+	{
+		"DockUID": "TPE500101038_15",
+		"DockID": "15",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_16",
+		"DockID": "16",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_17",
+		"DockID": "17",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_18",
+		"DockID": "18",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_19",
+		"DockID": "19",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_20",
+		"DockID": "20",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_21",
+		"DockID": "21",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_22",
+		"DockID": "22",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_23",
+		"DockID": "23",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_24",
+		"DockID": "24",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_25",
+		"DockID": "25",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_26",
+		"DockID": "26",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101038_27",
+		"DockID": "27",
+		"StationUID": "TPE500101038",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_01",
+		"DockID": "01",
+		"StationUID": "TPE500101039",
+		"Bike": "A01989"
+	},
+	{
+		"DockUID": "TPE500101039_02",
+		"DockID": "02",
+		"StationUID": "TPE500101039",
+		"Bike": "A03990"
+	},
+	{
+		"DockUID": "TPE500101039_03",
+		"DockID": "03",
+		"StationUID": "TPE500101039",
+		"Bike": "A03971"
+	},
+	{
+		"DockUID": "TPE500101039_04",
+		"DockID": "04",
+		"StationUID": "TPE500101039",
+		"Bike": "A03164"
+	},
+	{
+		"DockUID": "TPE500101039_05",
+		"DockID": "05",
+		"StationUID": "TPE500101039",
+		"Bike": "A02626"
+	},
+	{
+		"DockUID": "TPE500101039_06",
+		"DockID": "06",
+		"StationUID": "TPE500101039",
+		"Bike": "A00136"
+	},
+	{
+		"DockUID": "TPE500101039_07",
+		"DockID": "07",
+		"StationUID": "TPE500101039",
+		"Bike": "A02126"
+	},
+	{
+		"DockUID": "TPE500101039_08",
+		"DockID": "08",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_09",
+		"DockID": "09",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_10",
+		"DockID": "10",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_11",
+		"DockID": "11",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_12",
+		"DockID": "12",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_13",
+		"DockID": "13",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_14",
+		"DockID": "14",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_15",
+		"DockID": "15",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_16",
+		"DockID": "16",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_17",
+		"DockID": "17",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_18",
+		"DockID": "18",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_19",
+		"DockID": "19",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_20",
+		"DockID": "20",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_21",
+		"DockID": "21",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_22",
+		"DockID": "22",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_23",
+		"DockID": "23",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_24",
+		"DockID": "24",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_25",
+		"DockID": "25",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_26",
+		"DockID": "26",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_27",
+		"DockID": "27",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101039_28",
+		"DockID": "28",
+		"StationUID": "TPE500101039",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_01",
+		"DockID": "01",
+		"StationUID": "TPE500101040",
+		"Bike": "A01982"
+	},
+	{
+		"DockUID": "TPE500101040_02",
+		"DockID": "02",
+		"StationUID": "TPE500101040",
+		"Bike": "A01835"
+	},
+	{
+		"DockUID": "TPE500101040_03",
+		"DockID": "03",
+		"StationUID": "TPE500101040",
+		"Bike": "A01382"
+	},
+	{
+		"DockUID": "TPE500101040_04",
+		"DockID": "04",
+		"StationUID": "TPE500101040",
+		"Bike": "A02814"
+	},
+	{
+		"DockUID": "TPE500101040_05",
+		"DockID": "05",
+		"StationUID": "TPE500101040",
+		"Bike": "A02785"
+	},
+	{
+		"DockUID": "TPE500101040_06",
+		"DockID": "06",
+		"StationUID": "TPE500101040",
+		"Bike": "A00715"
+	},
+	{
+		"DockUID": "TPE500101040_07",
+		"DockID": "07",
+		"StationUID": "TPE500101040",
+		"Bike": "A00705"
+	},
+	{
+		"DockUID": "TPE500101040_08",
+		"DockID": "08",
+		"StationUID": "TPE500101040",
+		"Bike": "A02671"
+	},
+	{
+		"DockUID": "TPE500101040_09",
+		"DockID": "09",
+		"StationUID": "TPE500101040",
+		"Bike": "A02639"
+	},
+	{
+		"DockUID": "TPE500101040_10",
+		"DockID": "10",
+		"StationUID": "TPE500101040",
+		"Bike": "A00589"
+	},
+	{
+		"DockUID": "TPE500101040_11",
+		"DockID": "11",
+		"StationUID": "TPE500101040",
+		"Bike": "A00453"
+	},
+	{
+		"DockUID": "TPE500101040_12",
+		"DockID": "12",
+		"StationUID": "TPE500101040",
+		"Bike": "A02313"
+	},
+	{
+		"DockUID": "TPE500101040_13",
+		"DockID": "13",
+		"StationUID": "TPE500101040",
+		"Bike": "A02161"
+	},
+	{
+		"DockUID": "TPE500101040_14",
+		"DockID": "14",
+		"StationUID": "TPE500101040",
+		"Bike": "A02080"
+	},
+	{
+		"DockUID": "TPE500101040_15",
+		"DockID": "15",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_16",
+		"DockID": "16",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_17",
+		"DockID": "17",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_18",
+		"DockID": "18",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_19",
+		"DockID": "19",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_20",
+		"DockID": "20",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_21",
+		"DockID": "21",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_22",
+		"DockID": "22",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_23",
+		"DockID": "23",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_24",
+		"DockID": "24",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101040_25",
+		"DockID": "25",
+		"StationUID": "TPE500101040",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_01",
+		"DockID": "01",
+		"StationUID": "TPE500101209",
+		"Bike": "F01422"
+	},
+	{
+		"DockUID": "TPE500101209_02",
+		"DockID": "02",
+		"StationUID": "TPE500101209",
+		"Bike": "A03566"
+	},
+	{
+		"DockUID": "TPE500101209_03",
+		"DockID": "03",
+		"StationUID": "TPE500101209",
+		"Bike": "A01015"
+	},
+	{
+		"DockUID": "TPE500101209_04",
+		"DockID": "04",
+		"StationUID": "TPE500101209",
+		"Bike": "A02834"
+	},
+	{
+		"DockUID": "TPE500101209_05",
+		"DockID": "05",
+		"StationUID": "TPE500101209",
+		"Bike": "A02817"
+	},
+	{
+		"DockUID": "TPE500101209_06",
+		"DockID": "06",
+		"StationUID": "TPE500101209",
+		"Bike": "A02490"
+	},
+	{
+		"DockUID": "TPE500101209_07",
+		"DockID": "07",
+		"StationUID": "TPE500101209",
+		"Bike": "A02434"
+	},
+	{
+		"DockUID": "TPE500101209_08",
+		"DockID": "08",
+		"StationUID": "TPE500101209",
+		"Bike": "A00041"
+	},
+	{
+		"DockUID": "TPE500101209_09",
+		"DockID": "09",
+		"StationUID": "TPE500101209",
+		"Bike": "A00040"
+	},
+	{
+		"DockUID": "TPE500101209_10",
+		"DockID": "10",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_11",
+		"DockID": "11",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_12",
+		"DockID": "12",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_13",
+		"DockID": "13",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_14",
+		"DockID": "14",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_15",
+		"DockID": "15",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_16",
+		"DockID": "16",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_17",
+		"DockID": "17",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_18",
+		"DockID": "18",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_19",
+		"DockID": "19",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_20",
+		"DockID": "20",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_21",
+		"DockID": "21",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_22",
+		"DockID": "22",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_23",
+		"DockID": "23",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_24",
+		"DockID": "24",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_25",
+		"DockID": "25",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_26",
+		"DockID": "26",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_27",
+		"DockID": "27",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_28",
+		"DockID": "28",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_29",
+		"DockID": "29",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_30",
+		"DockID": "30",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_31",
+		"DockID": "31",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_32",
+		"DockID": "32",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_33",
+		"DockID": "33",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_34",
+		"DockID": "34",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_35",
+		"DockID": "35",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_36",
+		"DockID": "36",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_37",
+		"DockID": "37",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_38",
+		"DockID": "38",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_39",
+		"DockID": "39",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500101209_40",
+		"DockID": "40",
+		"StationUID": "TPE500101209",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_01",
+		"DockID": "01",
+		"StationUID": "TPE500119005",
+		"Bike": "A03640"
+	},
+	{
+		"DockUID": "TPE500119005_02",
+		"DockID": "02",
+		"StationUID": "TPE500119005",
+		"Bike": "A03602"
+	},
+	{
+		"DockUID": "TPE500119005_03",
+		"DockID": "03",
+		"StationUID": "TPE500119005",
+		"Bike": "A03596"
+	},
+	{
+		"DockUID": "TPE500119005_04",
+		"DockID": "04",
+		"StationUID": "TPE500119005",
+		"Bike": "A03166"
+	},
+	{
+		"DockUID": "TPE500119005_05",
+		"DockID": "05",
+		"StationUID": "TPE500119005",
+		"Bike": "A02999"
+	},
+	{
+		"DockUID": "TPE500119005_06",
+		"DockID": "06",
+		"StationUID": "TPE500119005",
+		"Bike": "A02681"
+	},
+	{
+		"DockUID": "TPE500119005_07",
+		"DockID": "07",
+		"StationUID": "TPE500119005",
+		"Bike": "A00426"
+	},
+	{
+		"DockUID": "TPE500119005_08",
+		"DockID": "08",
+		"StationUID": "TPE500119005",
+		"Bike": "A02388"
+	},
+	{
+		"DockUID": "TPE500119005_09",
+		"DockID": "09",
+		"StationUID": "TPE500119005",
+		"Bike": "A02302"
+	},
+	{
+		"DockUID": "TPE500119005_10",
+		"DockID": "10",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_11",
+		"DockID": "11",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_12",
+		"DockID": "12",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_13",
+		"DockID": "13",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_14",
+		"DockID": "14",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_15",
+		"DockID": "15",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_16",
+		"DockID": "16",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_17",
+		"DockID": "17",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_18",
+		"DockID": "18",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_19",
+		"DockID": "19",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_20",
+		"DockID": "20",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_21",
+		"DockID": "21",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_22",
+		"DockID": "22",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_23",
+		"DockID": "23",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_24",
+		"DockID": "24",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_25",
+		"DockID": "25",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_26",
+		"DockID": "26",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_27",
+		"DockID": "27",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_28",
+		"DockID": "28",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_29",
+		"DockID": "29",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_30",
+		"DockID": "30",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_31",
+		"DockID": "31",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_32",
+		"DockID": "32",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_33",
+		"DockID": "33",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_34",
+		"DockID": "34",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_35",
+		"DockID": "35",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_36",
+		"DockID": "36",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119005_37",
+		"DockID": "37",
+		"StationUID": "TPE500119005",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_01",
+		"DockID": "01",
+		"StationUID": "TPE500119006",
+		"Bike": "A03956"
+	},
+	{
+		"DockUID": "TPE500119006_02",
+		"DockID": "02",
+		"StationUID": "TPE500119006",
+		"Bike": "A01745"
+	},
+	{
+		"DockUID": "TPE500119006_03",
+		"DockID": "03",
+		"StationUID": "TPE500119006",
+		"Bike": "A01714"
+	},
+	{
+		"DockUID": "TPE500119006_04",
+		"DockID": "04",
+		"StationUID": "TPE500119006",
+		"Bike": "A01366"
+	},
+	{
+		"DockUID": "TPE500119006_05",
+		"DockID": "05",
+		"StationUID": "TPE500119006",
+		"Bike": "A01002"
+	},
+	{
+		"DockUID": "TPE500119006_06",
+		"DockID": "06",
+		"StationUID": "TPE500119006",
+		"Bike": "A02852"
+	},
+	{
+		"DockUID": "TPE500119006_07",
+		"DockID": "07",
+		"StationUID": "TPE500119006",
+		"Bike": "A00700"
+	},
+	{
+		"DockUID": "TPE500119006_08",
+		"DockID": "08",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_09",
+		"DockID": "09",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_10",
+		"DockID": "10",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_11",
+		"DockID": "11",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_12",
+		"DockID": "12",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_13",
+		"DockID": "13",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_14",
+		"DockID": "14",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_15",
+		"DockID": "15",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_16",
+		"DockID": "16",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_17",
+		"DockID": "17",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_18",
+		"DockID": "18",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_19",
+		"DockID": "19",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_20",
+		"DockID": "20",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_21",
+		"DockID": "21",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_22",
+		"DockID": "22",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_23",
+		"DockID": "23",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_24",
+		"DockID": "24",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_25",
+		"DockID": "25",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_26",
+		"DockID": "26",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_27",
+		"DockID": "27",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_28",
+		"DockID": "28",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_29",
+		"DockID": "29",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_30",
+		"DockID": "30",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_31",
+		"DockID": "31",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119006_32",
+		"DockID": "32",
+		"StationUID": "TPE500119006",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_01",
+		"DockID": "01",
+		"StationUID": "TPE500119007",
+		"Bike": "A01371"
+	},
+	{
+		"DockUID": "TPE500119007_02",
+		"DockID": "02",
+		"StationUID": "TPE500119007",
+		"Bike": "A00976"
+	},
+	{
+		"DockUID": "TPE500119007_03",
+		"DockID": "03",
+		"StationUID": "TPE500119007",
+		"Bike": "A02368"
+	},
+	{
+		"DockUID": "TPE500119007_04",
+		"DockID": "04",
+		"StationUID": "TPE500119007",
+		"Bike": "A02340"
+	},
+	{
+		"DockUID": "TPE500119007_05",
+		"DockID": "05",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_06",
+		"DockID": "06",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_07",
+		"DockID": "07",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_08",
+		"DockID": "08",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_09",
+		"DockID": "09",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_10",
+		"DockID": "10",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_11",
+		"DockID": "11",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_12",
+		"DockID": "12",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_13",
+		"DockID": "13",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_14",
+		"DockID": "14",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_15",
+		"DockID": "15",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_16",
+		"DockID": "16",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_17",
+		"DockID": "17",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119007_18",
+		"DockID": "18",
+		"StationUID": "TPE500119007",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119008_01",
+		"DockID": "01",
+		"StationUID": "TPE500119008",
+		"Bike": "A03612"
+	},
+	{
+		"DockUID": "TPE500119008_02",
+		"DockID": "02",
+		"StationUID": "TPE500119008",
+		"Bike": "A01495"
+	},
+	{
+		"DockUID": "TPE500119008_03",
+		"DockID": "03",
+		"StationUID": "TPE500119008",
+		"Bike": "A02937"
+	},
+	{
+		"DockUID": "TPE500119008_04",
+		"DockID": "04",
+		"StationUID": "TPE500119008",
+		"Bike": "A02400"
+	},
+	{
+		"DockUID": "TPE500119008_05",
+		"DockID": "05",
+		"StationUID": "TPE500119008",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119008_06",
+		"DockID": "06",
+		"StationUID": "TPE500119008",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119008_07",
+		"DockID": "07",
+		"StationUID": "TPE500119008",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119008_08",
+		"DockID": "08",
+		"StationUID": "TPE500119008",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119008_09",
+		"DockID": "09",
+		"StationUID": "TPE500119008",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119008_10",
+		"DockID": "10",
+		"StationUID": "TPE500119008",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_01",
+		"DockID": "01",
+		"StationUID": "TPE500119009",
+		"Bike": "A01915"
+	},
+	{
+		"DockUID": "TPE500119009_02",
+		"DockID": "02",
+		"StationUID": "TPE500119009",
+		"Bike": "A03815"
+	},
+	{
+		"DockUID": "TPE500119009_03",
+		"DockID": "03",
+		"StationUID": "TPE500119009",
+		"Bike": "A01249"
+	},
+	{
+		"DockUID": "TPE500119009_04",
+		"DockID": "04",
+		"StationUID": "TPE500119009",
+		"Bike": "A00545"
+	},
+	{
+		"DockUID": "TPE500119009_05",
+		"DockID": "05",
+		"StationUID": "TPE500119009",
+		"Bike": "A00328"
+	},
+	{
+		"DockUID": "TPE500119009_06",
+		"DockID": "06",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_07",
+		"DockID": "07",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_08",
+		"DockID": "08",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_09",
+		"DockID": "09",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_10",
+		"DockID": "10",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_11",
+		"DockID": "11",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_12",
+		"DockID": "12",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_13",
+		"DockID": "13",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_14",
+		"DockID": "14",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_15",
+		"DockID": "15",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_16",
+		"DockID": "16",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_17",
+		"DockID": "17",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_18",
+		"DockID": "18",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_19",
+		"DockID": "19",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_20",
+		"DockID": "20",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_21",
+		"DockID": "21",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_22",
+		"DockID": "22",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_23",
+		"DockID": "23",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_24",
+		"DockID": "24",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_25",
+		"DockID": "25",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_26",
+		"DockID": "26",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_27",
+		"DockID": "27",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_28",
+		"DockID": "28",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_29",
+		"DockID": "29",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119009_30",
+		"DockID": "30",
+		"StationUID": "TPE500119009",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_01",
+		"DockID": "01",
+		"StationUID": "TPE500119043",
+		"Bike": "A02043"
+	},
+	{
+		"DockUID": "TPE500119043_02",
+		"DockID": "02",
+		"StationUID": "TPE500119043",
+		"Bike": "A01713"
+	},
+	{
+		"DockUID": "TPE500119043_03",
+		"DockID": "03",
+		"StationUID": "TPE500119043",
+		"Bike": "A01637"
+	},
+	{
+		"DockUID": "TPE500119043_04",
+		"DockID": "04",
+		"StationUID": "TPE500119043",
+		"Bike": "A03218"
+	},
+	{
+		"DockUID": "TPE500119043_05",
+		"DockID": "05",
+		"StationUID": "TPE500119043",
+		"Bike": "A03118"
+	},
+	{
+		"DockUID": "TPE500119043_06",
+		"DockID": "06",
+		"StationUID": "TPE500119043",
+		"Bike": "A00709"
+	},
+	{
+		"DockUID": "TPE500119043_07",
+		"DockID": "07",
+		"StationUID": "TPE500119043",
+		"Bike": "A02689"
+	},
+	{
+		"DockUID": "TPE500119043_08",
+		"DockID": "08",
+		"StationUID": "TPE500119043",
+		"Bike": "A00179"
+	},
+	{
+		"DockUID": "TPE500119043_09",
+		"DockID": "09",
+		"StationUID": "TPE500119043",
+		"Bike": "A02173"
+	},
+	{
+		"DockUID": "TPE500119043_10",
+		"DockID": "10",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_11",
+		"DockID": "11",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_12",
+		"DockID": "12",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_13",
+		"DockID": "13",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_14",
+		"DockID": "14",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_15",
+		"DockID": "15",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_16",
+		"DockID": "16",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_17",
+		"DockID": "17",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_18",
+		"DockID": "18",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_19",
+		"DockID": "19",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_20",
+		"DockID": "20",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_21",
+		"DockID": "21",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_22",
+		"DockID": "22",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_23",
+		"DockID": "23",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_24",
+		"DockID": "24",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_25",
+		"DockID": "25",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_26",
+		"DockID": "26",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_27",
+		"DockID": "27",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_28",
+		"DockID": "28",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_29",
+		"DockID": "29",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_30",
+		"DockID": "30",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_31",
+		"DockID": "31",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_32",
+		"DockID": "32",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_33",
+		"DockID": "33",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_34",
+		"DockID": "34",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_35",
+		"DockID": "35",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_36",
+		"DockID": "36",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_37",
+		"DockID": "37",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_38",
+		"DockID": "38",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_39",
+		"DockID": "39",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_40",
+		"DockID": "40",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_41",
+		"DockID": "41",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119043_42",
+		"DockID": "42",
+		"StationUID": "TPE500119043",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_01",
+		"DockID": "01",
+		"StationUID": "TPE500119044",
+		"Bike": "A03189"
+	},
+	{
+		"DockUID": "TPE500119044_02",
+		"DockID": "02",
+		"StationUID": "TPE500119044",
+		"Bike": "A03044"
+	},
+	{
+		"DockUID": "TPE500119044_03",
+		"DockID": "03",
+		"StationUID": "TPE500119044",
+		"Bike": "A00660"
+	},
+	{
+		"DockUID": "TPE500119044_04",
+		"DockID": "04",
+		"StationUID": "TPE500119044",
+		"Bike": "A02448"
+	},
+	{
+		"DockUID": "TPE500119044_05",
+		"DockID": "05",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_06",
+		"DockID": "06",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_07",
+		"DockID": "07",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_08",
+		"DockID": "08",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_09",
+		"DockID": "09",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_10",
+		"DockID": "10",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_11",
+		"DockID": "11",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_12",
+		"DockID": "12",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_13",
+		"DockID": "13",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_14",
+		"DockID": "14",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_15",
+		"DockID": "15",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_16",
+		"DockID": "16",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_17",
+		"DockID": "17",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_18",
+		"DockID": "18",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_19",
+		"DockID": "19",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_20",
+		"DockID": "20",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_21",
+		"DockID": "21",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_22",
+		"DockID": "22",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119044_23",
+		"DockID": "23",
+		"StationUID": "TPE500119044",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_01",
+		"DockID": "01",
+		"StationUID": "TPE500119045",
+		"Bike": "A02010"
+	},
+	{
+		"DockUID": "TPE500119045_02",
+		"DockID": "02",
+		"StationUID": "TPE500119045",
+		"Bike": "A03837"
+	},
+	{
+		"DockUID": "TPE500119045_03",
+		"DockID": "03",
+		"StationUID": "TPE500119045",
+		"Bike": "A03831"
+	},
+	{
+		"DockUID": "TPE500119045_04",
+		"DockID": "04",
+		"StationUID": "TPE500119045",
+		"Bike": "A01437"
+	},
+	{
+		"DockUID": "TPE500119045_05",
+		"DockID": "05",
+		"StationUID": "TPE500119045",
+		"Bike": "A00807"
+	},
+	{
+		"DockUID": "TPE500119045_06",
+		"DockID": "06",
+		"StationUID": "TPE500119045",
+		"Bike": "A00297"
+	},
+	{
+		"DockUID": "TPE500119045_07",
+		"DockID": "07",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_08",
+		"DockID": "08",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_09",
+		"DockID": "09",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_10",
+		"DockID": "10",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_11",
+		"DockID": "11",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_12",
+		"DockID": "12",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_13",
+		"DockID": "13",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_14",
+		"DockID": "14",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_15",
+		"DockID": "15",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_16",
+		"DockID": "16",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_17",
+		"DockID": "17",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_18",
+		"DockID": "18",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_19",
+		"DockID": "19",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_20",
+		"DockID": "20",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_21",
+		"DockID": "21",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_22",
+		"DockID": "22",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_23",
+		"DockID": "23",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_24",
+		"DockID": "24",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_25",
+		"DockID": "25",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_26",
+		"DockID": "26",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_27",
+		"DockID": "27",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_28",
+		"DockID": "28",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_29",
+		"DockID": "29",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_30",
+		"DockID": "30",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_31",
+		"DockID": "31",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_32",
+		"DockID": "32",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_33",
+		"DockID": "33",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_34",
+		"DockID": "34",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_35",
+		"DockID": "35",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_36",
+		"DockID": "36",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_37",
+		"DockID": "37",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_38",
+		"DockID": "38",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_39",
+		"DockID": "39",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_40",
+		"DockID": "40",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_41",
+		"DockID": "41",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_42",
+		"DockID": "42",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_43",
+		"DockID": "43",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_44",
+		"DockID": "44",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119045_45",
+		"DockID": "45",
+		"StationUID": "TPE500119045",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_01",
+		"DockID": "01",
+		"StationUID": "TPE500119046",
+		"Bike": "A01727"
+	},
+	{
+		"DockUID": "TPE500119046_02",
+		"DockID": "02",
+		"StationUID": "TPE500119046",
+		"Bike": "A01570"
+	},
+	{
+		"DockUID": "TPE500119046_03",
+		"DockID": "03",
+		"StationUID": "TPE500119046",
+		"Bike": "A03555"
+	},
+	{
+		"DockUID": "TPE500119046_04",
+		"DockID": "04",
+		"StationUID": "TPE500119046",
+		"Bike": "A02792"
+	},
+	{
+		"DockUID": "TPE500119046_05",
+		"DockID": "05",
+		"StationUID": "TPE500119046",
+		"Bike": "A02737"
+	},
+	{
+		"DockUID": "TPE500119046_06",
+		"DockID": "06",
+		"StationUID": "TPE500119046",
+		"Bike": "A02426"
+	},
+	{
+		"DockUID": "TPE500119046_07",
+		"DockID": "07",
+		"StationUID": "TPE500119046",
+		"Bike": "A02227"
+	},
+	{
+		"DockUID": "TPE500119046_08",
+		"DockID": "08",
+		"StationUID": "TPE500119046",
+		"Bike": "A02104"
+	},
+	{
+		"DockUID": "TPE500119046_09",
+		"DockID": "09",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_10",
+		"DockID": "10",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_11",
+		"DockID": "11",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_12",
+		"DockID": "12",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_13",
+		"DockID": "13",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_14",
+		"DockID": "14",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_15",
+		"DockID": "15",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_16",
+		"DockID": "16",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_17",
+		"DockID": "17",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_18",
+		"DockID": "18",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_19",
+		"DockID": "19",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_20",
+		"DockID": "20",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_21",
+		"DockID": "21",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_22",
+		"DockID": "22",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_23",
+		"DockID": "23",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_24",
+		"DockID": "24",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_25",
+		"DockID": "25",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_26",
+		"DockID": "26",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_27",
+		"DockID": "27",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_28",
+		"DockID": "28",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_29",
+		"DockID": "29",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_30",
+		"DockID": "30",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_31",
+		"DockID": "31",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_32",
+		"DockID": "32",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_33",
+		"DockID": "33",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_34",
+		"DockID": "34",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_35",
+		"DockID": "35",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_36",
+		"DockID": "36",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_37",
+		"DockID": "37",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_38",
+		"DockID": "38",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_39",
+		"DockID": "39",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119046_40",
+		"DockID": "40",
+		"StationUID": "TPE500119046",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_01",
+		"DockID": "01",
+		"StationUID": "TPE500119047",
+		"Bike": "A01886"
+	},
+	{
+		"DockUID": "TPE500119047_02",
+		"DockID": "02",
+		"StationUID": "TPE500119047",
+		"Bike": "A03862"
+	},
+	{
+		"DockUID": "TPE500119047_03",
+		"DockID": "03",
+		"StationUID": "TPE500119047",
+		"Bike": "A01773"
+	},
+	{
+		"DockUID": "TPE500119047_04",
+		"DockID": "04",
+		"StationUID": "TPE500119047",
+		"Bike": "A01532"
+	},
+	{
+		"DockUID": "TPE500119047_05",
+		"DockID": "05",
+		"StationUID": "TPE500119047",
+		"Bike": "A01352"
+	},
+	{
+		"DockUID": "TPE500119047_06",
+		"DockID": "06",
+		"StationUID": "TPE500119047",
+		"Bike": "A00898"
+	},
+	{
+		"DockUID": "TPE500119047_07",
+		"DockID": "07",
+		"StationUID": "TPE500119047",
+		"Bike": "A02633"
+	},
+	{
+		"DockUID": "TPE500119047_08",
+		"DockID": "08",
+		"StationUID": "TPE500119047",
+		"Bike": "A00561"
+	},
+	{
+		"DockUID": "TPE500119047_09",
+		"DockID": "09",
+		"StationUID": "TPE500119047",
+		"Bike": "A00493"
+	},
+	{
+		"DockUID": "TPE500119047_10",
+		"DockID": "10",
+		"StationUID": "TPE500119047",
+		"Bike": "A02473"
+	},
+	{
+		"DockUID": "TPE500119047_11",
+		"DockID": "11",
+		"StationUID": "TPE500119047",
+		"Bike": "A00267"
+	},
+	{
+		"DockUID": "TPE500119047_12",
+		"DockID": "12",
+		"StationUID": "TPE500119047",
+		"Bike": "A02251"
+	},
+	{
+		"DockUID": "TPE500119047_13",
+		"DockID": "13",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_14",
+		"DockID": "14",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_15",
+		"DockID": "15",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_16",
+		"DockID": "16",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_17",
+		"DockID": "17",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_18",
+		"DockID": "18",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_19",
+		"DockID": "19",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_20",
+		"DockID": "20",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_21",
+		"DockID": "21",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_22",
+		"DockID": "22",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_23",
+		"DockID": "23",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_24",
+		"DockID": "24",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_25",
+		"DockID": "25",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_26",
+		"DockID": "26",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_27",
+		"DockID": "27",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_28",
+		"DockID": "28",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_29",
+		"DockID": "29",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119047_30",
+		"DockID": "30",
+		"StationUID": "TPE500119047",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_01",
+		"DockID": "01",
+		"StationUID": "TPE500119048",
+		"Bike": "A03336"
+	},
+	{
+		"DockUID": "TPE500119048_02",
+		"DockID": "02",
+		"StationUID": "TPE500119048",
+		"Bike": "A01037"
+	},
+	{
+		"DockUID": "TPE500119048_03",
+		"DockID": "03",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_04",
+		"DockID": "04",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_05",
+		"DockID": "05",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_06",
+		"DockID": "06",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_07",
+		"DockID": "07",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_08",
+		"DockID": "08",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_09",
+		"DockID": "09",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_10",
+		"DockID": "10",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_11",
+		"DockID": "11",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_12",
+		"DockID": "12",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_13",
+		"DockID": "13",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_14",
+		"DockID": "14",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_15",
+		"DockID": "15",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_16",
+		"DockID": "16",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_17",
+		"DockID": "17",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_18",
+		"DockID": "18",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_19",
+		"DockID": "19",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_20",
+		"DockID": "20",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_21",
+		"DockID": "21",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_22",
+		"DockID": "22",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_23",
+		"DockID": "23",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_24",
+		"DockID": "24",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_25",
+		"DockID": "25",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_26",
+		"DockID": "26",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_27",
+		"DockID": "27",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_28",
+		"DockID": "28",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_29",
+		"DockID": "29",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_30",
+		"DockID": "30",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_31",
+		"DockID": "31",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_32",
+		"DockID": "32",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_33",
+		"DockID": "33",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_34",
+		"DockID": "34",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_35",
+		"DockID": "35",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_36",
+		"DockID": "36",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_37",
+		"DockID": "37",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_38",
+		"DockID": "38",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_39",
+		"DockID": "39",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_40",
+		"DockID": "40",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_41",
+		"DockID": "41",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_42",
+		"DockID": "42",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_43",
+		"DockID": "43",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_44",
+		"DockID": "44",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_45",
+		"DockID": "45",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_46",
+		"DockID": "46",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_47",
+		"DockID": "47",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_48",
+		"DockID": "48",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_49",
+		"DockID": "49",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_50",
+		"DockID": "50",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_51",
+		"DockID": "51",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_52",
+		"DockID": "52",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119048_53",
+		"DockID": "53",
+		"StationUID": "TPE500119048",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_01",
+		"DockID": "01",
+		"StationUID": "TPE500119049",
+		"Bike": "A01868"
+	},
+	{
+		"DockUID": "TPE500119049_02",
+		"DockID": "02",
+		"StationUID": "TPE500119049",
+		"Bike": "A03125"
+	},
+	{
+		"DockUID": "TPE500119049_03",
+		"DockID": "03",
+		"StationUID": "TPE500119049",
+		"Bike": "A01013"
+	},
+	{
+		"DockUID": "TPE500119049_04",
+		"DockID": "04",
+		"StationUID": "TPE500119049",
+		"Bike": "A02864"
+	},
+	{
+		"DockUID": "TPE500119049_05",
+		"DockID": "05",
+		"StationUID": "TPE500119049",
+		"Bike": "A02598"
+	},
+	{
+		"DockUID": "TPE500119049_06",
+		"DockID": "06",
+		"StationUID": "TPE500119049",
+		"Bike": "A00194"
+	},
+	{
+		"DockUID": "TPE500119049_07",
+		"DockID": "07",
+		"StationUID": "TPE500119049",
+		"Bike": "A00114"
+	},
+	{
+		"DockUID": "TPE500119049_08",
+		"DockID": "08",
+		"StationUID": "TPE500119049",
+		"Bike": "A02052"
+	},
+	{
+		"DockUID": "TPE500119049_09",
+		"DockID": "09",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_10",
+		"DockID": "10",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_11",
+		"DockID": "11",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_12",
+		"DockID": "12",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_13",
+		"DockID": "13",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_14",
+		"DockID": "14",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_15",
+		"DockID": "15",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_16",
+		"DockID": "16",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_17",
+		"DockID": "17",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_18",
+		"DockID": "18",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_19",
+		"DockID": "19",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_20",
+		"DockID": "20",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_21",
+		"DockID": "21",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_22",
+		"DockID": "22",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_23",
+		"DockID": "23",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_24",
+		"DockID": "24",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_25",
+		"DockID": "25",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_26",
+		"DockID": "26",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_27",
+		"DockID": "27",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_28",
+		"DockID": "28",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_29",
+		"DockID": "29",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_30",
+		"DockID": "30",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_31",
+		"DockID": "31",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_32",
+		"DockID": "32",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_33",
+		"DockID": "33",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_34",
+		"DockID": "34",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_35",
+		"DockID": "35",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_36",
+		"DockID": "36",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_37",
+		"DockID": "37",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_38",
+		"DockID": "38",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_39",
+		"DockID": "39",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_40",
+		"DockID": "40",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_41",
+		"DockID": "41",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_42",
+		"DockID": "42",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_43",
+		"DockID": "43",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_44",
+		"DockID": "44",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_45",
+		"DockID": "45",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_46",
+		"DockID": "46",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_47",
+		"DockID": "47",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_48",
+		"DockID": "48",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_49",
+		"DockID": "49",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_50",
+		"DockID": "50",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_51",
+		"DockID": "51",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_52",
+		"DockID": "52",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_53",
+		"DockID": "53",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_54",
+		"DockID": "54",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_55",
+		"DockID": "55",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_56",
+		"DockID": "56",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_57",
+		"DockID": "57",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_58",
+		"DockID": "58",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_59",
+		"DockID": "59",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_60",
+		"DockID": "60",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_61",
+		"DockID": "61",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119049_62",
+		"DockID": "62",
+		"StationUID": "TPE500119049",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_01",
+		"DockID": "01",
+		"StationUID": "TPE500119050",
+		"Bike": "A01524"
+	},
+	{
+		"DockUID": "TPE500119050_02",
+		"DockID": "02",
+		"StationUID": "TPE500119050",
+		"Bike": "A03357"
+	},
+	{
+		"DockUID": "TPE500119050_03",
+		"DockID": "03",
+		"StationUID": "TPE500119050",
+		"Bike": "A02843"
+	},
+	{
+		"DockUID": "TPE500119050_04",
+		"DockID": "04",
+		"StationUID": "TPE500119050",
+		"Bike": "A02376"
+	},
+	{
+		"DockUID": "TPE500119050_05",
+		"DockID": "05",
+		"StationUID": "TPE500119050",
+		"Bike": "A00073"
+	},
+	{
+		"DockUID": "TPE500119050_06",
+		"DockID": "06",
+		"StationUID": "TPE500119050",
+		"Bike": "A02115"
+	},
+	{
+		"DockUID": "TPE500119050_07",
+		"DockID": "07",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_08",
+		"DockID": "08",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_09",
+		"DockID": "09",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_10",
+		"DockID": "10",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_11",
+		"DockID": "11",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_12",
+		"DockID": "12",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_13",
+		"DockID": "13",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_14",
+		"DockID": "14",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_15",
+		"DockID": "15",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_16",
+		"DockID": "16",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_17",
+		"DockID": "17",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_18",
+		"DockID": "18",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_19",
+		"DockID": "19",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_20",
+		"DockID": "20",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_21",
+		"DockID": "21",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_22",
+		"DockID": "22",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_23",
+		"DockID": "23",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_24",
+		"DockID": "24",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_25",
+		"DockID": "25",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_26",
+		"DockID": "26",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_27",
+		"DockID": "27",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_28",
+		"DockID": "28",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_29",
+		"DockID": "29",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_30",
+		"DockID": "30",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119050_31",
+		"DockID": "31",
+		"StationUID": "TPE500119050",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_01",
+		"DockID": "01",
+		"StationUID": "TPE500119051",
+		"Bike": "A01986"
+	},
+	{
+		"DockUID": "TPE500119051_02",
+		"DockID": "02",
+		"StationUID": "TPE500119051",
+		"Bike": "A03715"
+	},
+	{
+		"DockUID": "TPE500119051_03",
+		"DockID": "03",
+		"StationUID": "TPE500119051",
+		"Bike": "A01063"
+	},
+	{
+		"DockUID": "TPE500119051_04",
+		"DockID": "04",
+		"StationUID": "TPE500119051",
+		"Bike": "A03087"
+	},
+	{
+		"DockUID": "TPE500119051_05",
+		"DockID": "05",
+		"StationUID": "TPE500119051",
+		"Bike": "A02903"
+	},
+	{
+		"DockUID": "TPE500119051_06",
+		"DockID": "06",
+		"StationUID": "TPE500119051",
+		"Bike": "A02812"
+	},
+	{
+		"DockUID": "TPE500119051_07",
+		"DockID": "07",
+		"StationUID": "TPE500119051",
+		"Bike": "A00532"
+	},
+	{
+		"DockUID": "TPE500119051_08",
+		"DockID": "08",
+		"StationUID": "TPE500119051",
+		"Bike": "A02540"
+	},
+	{
+		"DockUID": "TPE500119051_09",
+		"DockID": "09",
+		"StationUID": "TPE500119051",
+		"Bike": "A00198"
+	},
+	{
+		"DockUID": "TPE500119051_10",
+		"DockID": "10",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_11",
+		"DockID": "11",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_12",
+		"DockID": "12",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_13",
+		"DockID": "13",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_14",
+		"DockID": "14",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_15",
+		"DockID": "15",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_16",
+		"DockID": "16",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_17",
+		"DockID": "17",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_18",
+		"DockID": "18",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_19",
+		"DockID": "19",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_20",
+		"DockID": "20",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_21",
+		"DockID": "21",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_22",
+		"DockID": "22",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_23",
+		"DockID": "23",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_24",
+		"DockID": "24",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_25",
+		"DockID": "25",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_26",
+		"DockID": "26",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119051_27",
+		"DockID": "27",
+		"StationUID": "TPE500119051",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_01",
+		"DockID": "01",
+		"StationUID": "TPE500119052",
+		"Bike": "A03665"
+	},
+	{
+		"DockUID": "TPE500119052_02",
+		"DockID": "02",
+		"StationUID": "TPE500119052",
+		"Bike": "A01267"
+	},
+	{
+		"DockUID": "TPE500119052_03",
+		"DockID": "03",
+		"StationUID": "TPE500119052",
+		"Bike": "A01173"
+	},
+	{
+		"DockUID": "TPE500119052_04",
+		"DockID": "04",
+		"StationUID": "TPE500119052",
+		"Bike": "A03212"
+	},
+	{
+		"DockUID": "TPE500119052_05",
+		"DockID": "05",
+		"StationUID": "TPE500119052",
+		"Bike": "A03060"
+	},
+	{
+		"DockUID": "TPE500119052_06",
+		"DockID": "06",
+		"StationUID": "TPE500119052",
+		"Bike": "A00925"
+	},
+	{
+		"DockUID": "TPE500119052_07",
+		"DockID": "07",
+		"StationUID": "TPE500119052",
+		"Bike": "A02887"
+	},
+	{
+		"DockUID": "TPE500119052_08",
+		"DockID": "08",
+		"StationUID": "TPE500119052",
+		"Bike": "A00770"
+	},
+	{
+		"DockUID": "TPE500119052_09",
+		"DockID": "09",
+		"StationUID": "TPE500119052",
+		"Bike": "A02707"
+	},
+	{
+		"DockUID": "TPE500119052_10",
+		"DockID": "10",
+		"StationUID": "TPE500119052",
+		"Bike": "A02656"
+	},
+	{
+		"DockUID": "TPE500119052_11",
+		"DockID": "11",
+		"StationUID": "TPE500119052",
+		"Bike": "A00407"
+	},
+	{
+		"DockUID": "TPE500119052_12",
+		"DockID": "12",
+		"StationUID": "TPE500119052",
+		"Bike": "A02383"
+	},
+	{
+		"DockUID": "TPE500119052_13",
+		"DockID": "13",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_14",
+		"DockID": "14",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_15",
+		"DockID": "15",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_16",
+		"DockID": "16",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_17",
+		"DockID": "17",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_18",
+		"DockID": "18",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_19",
+		"DockID": "19",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_20",
+		"DockID": "20",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_21",
+		"DockID": "21",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_22",
+		"DockID": "22",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_23",
+		"DockID": "23",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_24",
+		"DockID": "24",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_25",
+		"DockID": "25",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119052_26",
+		"DockID": "26",
+		"StationUID": "TPE500119052",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_01",
+		"DockID": "01",
+		"StationUID": "TPE500119053",
+		"Bike": "A03782"
+	},
+	{
+		"DockUID": "TPE500119053_02",
+		"DockID": "02",
+		"StationUID": "TPE500119053",
+		"Bike": "A03758"
+	},
+	{
+		"DockUID": "TPE500119053_03",
+		"DockID": "03",
+		"StationUID": "TPE500119053",
+		"Bike": "A03705"
+	},
+	{
+		"DockUID": "TPE500119053_04",
+		"DockID": "04",
+		"StationUID": "TPE500119053",
+		"Bike": "A03565"
+	},
+	{
+		"DockUID": "TPE500119053_05",
+		"DockID": "05",
+		"StationUID": "TPE500119053",
+		"Bike": "A01510"
+	},
+	{
+		"DockUID": "TPE500119053_06",
+		"DockID": "06",
+		"StationUID": "TPE500119053",
+		"Bike": "A01130"
+	},
+	{
+		"DockUID": "TPE500119053_07",
+		"DockID": "07",
+		"StationUID": "TPE500119053",
+		"Bike": "A01108"
+	},
+	{
+		"DockUID": "TPE500119053_08",
+		"DockID": "08",
+		"StationUID": "TPE500119053",
+		"Bike": "A02996"
+	},
+	{
+		"DockUID": "TPE500119053_09",
+		"DockID": "09",
+		"StationUID": "TPE500119053",
+		"Bike": "A00900"
+	},
+	{
+		"DockUID": "TPE500119053_10",
+		"DockID": "10",
+		"StationUID": "TPE500119053",
+		"Bike": "A00152"
+	},
+	{
+		"DockUID": "TPE500119053_11",
+		"DockID": "11",
+		"StationUID": "TPE500119053",
+		"Bike": "A02150"
+	},
+	{
+		"DockUID": "TPE500119053_12",
+		"DockID": "12",
+		"StationUID": "TPE500119053",
+		"Bike": "A00084"
+	},
+	{
+		"DockUID": "TPE500119053_13",
+		"DockID": "13",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_14",
+		"DockID": "14",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_15",
+		"DockID": "15",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_16",
+		"DockID": "16",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_17",
+		"DockID": "17",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_18",
+		"DockID": "18",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119053_19",
+		"DockID": "19",
+		"StationUID": "TPE500119053",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_01",
+		"DockID": "01",
+		"StationUID": "TPE500119054",
+		"Bike": "F00901"
+	},
+	{
+		"DockUID": "TPE500119054_02",
+		"DockID": "02",
+		"StationUID": "TPE500119054",
+		"Bike": "A03845"
+	},
+	{
+		"DockUID": "TPE500119054_03",
+		"DockID": "03",
+		"StationUID": "TPE500119054",
+		"Bike": "A01322"
+	},
+	{
+		"DockUID": "TPE500119054_04",
+		"DockID": "04",
+		"StationUID": "TPE500119054",
+		"Bike": "A03294"
+	},
+	{
+		"DockUID": "TPE500119054_05",
+		"DockID": "05",
+		"StationUID": "TPE500119054",
+		"Bike": "A02964"
+	},
+	{
+		"DockUID": "TPE500119054_06",
+		"DockID": "06",
+		"StationUID": "TPE500119054",
+		"Bike": "A00622"
+	},
+	{
+		"DockUID": "TPE500119054_07",
+		"DockID": "07",
+		"StationUID": "TPE500119054",
+		"Bike": "A02286"
+	},
+	{
+		"DockUID": "TPE500119054_08",
+		"DockID": "08",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_09",
+		"DockID": "09",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_10",
+		"DockID": "10",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_11",
+		"DockID": "11",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_12",
+		"DockID": "12",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_13",
+		"DockID": "13",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_14",
+		"DockID": "14",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_15",
+		"DockID": "15",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_16",
+		"DockID": "16",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_17",
+		"DockID": "17",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_18",
+		"DockID": "18",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_19",
+		"DockID": "19",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_20",
+		"DockID": "20",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_21",
+		"DockID": "21",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_22",
+		"DockID": "22",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_23",
+		"DockID": "23",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_24",
+		"DockID": "24",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_25",
+		"DockID": "25",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_26",
+		"DockID": "26",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_27",
+		"DockID": "27",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_28",
+		"DockID": "28",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_29",
+		"DockID": "29",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119054_30",
+		"DockID": "30",
+		"StationUID": "TPE500119054",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_01",
+		"DockID": "01",
+		"StationUID": "TPE500119055",
+		"Bike": "F02442"
+	},
+	{
+		"DockUID": "TPE500119055_02",
+		"DockID": "02",
+		"StationUID": "TPE500119055",
+		"Bike": "A01525"
+	},
+	{
+		"DockUID": "TPE500119055_03",
+		"DockID": "03",
+		"StationUID": "TPE500119055",
+		"Bike": "A03557"
+	},
+	{
+		"DockUID": "TPE500119055_04",
+		"DockID": "04",
+		"StationUID": "TPE500119055",
+		"Bike": "A03360"
+	},
+	{
+		"DockUID": "TPE500119055_05",
+		"DockID": "05",
+		"StationUID": "TPE500119055",
+		"Bike": "A03355"
+	},
+	{
+		"DockUID": "TPE500119055_06",
+		"DockID": "06",
+		"StationUID": "TPE500119055",
+		"Bike": "A03227"
+	},
+	{
+		"DockUID": "TPE500119055_07",
+		"DockID": "07",
+		"StationUID": "TPE500119055",
+		"Bike": "A03082"
+	},
+	{
+		"DockUID": "TPE500119055_08",
+		"DockID": "08",
+		"StationUID": "TPE500119055",
+		"Bike": "A00914"
+	},
+	{
+		"DockUID": "TPE500119055_09",
+		"DockID": "09",
+		"StationUID": "TPE500119055",
+		"Bike": "A02513"
+	},
+	{
+		"DockUID": "TPE500119055_10",
+		"DockID": "10",
+		"StationUID": "TPE500119055",
+		"Bike": "A02456"
+	},
+	{
+		"DockUID": "TPE500119055_11",
+		"DockID": "11",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_12",
+		"DockID": "12",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_13",
+		"DockID": "13",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_14",
+		"DockID": "14",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_15",
+		"DockID": "15",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_16",
+		"DockID": "16",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_17",
+		"DockID": "17",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_18",
+		"DockID": "18",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_19",
+		"DockID": "19",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_20",
+		"DockID": "20",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_21",
+		"DockID": "21",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_22",
+		"DockID": "22",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_23",
+		"DockID": "23",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_24",
+		"DockID": "24",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_25",
+		"DockID": "25",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_26",
+		"DockID": "26",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_27",
+		"DockID": "27",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119055_28",
+		"DockID": "28",
+		"StationUID": "TPE500119055",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119056_01",
+		"DockID": "01",
+		"StationUID": "TPE500119056",
+		"Bike": "A03552"
+	},
+	{
+		"DockUID": "TPE500119056_02",
+		"DockID": "02",
+		"StationUID": "TPE500119056",
+		"Bike": "A03134"
+	},
+	{
+		"DockUID": "TPE500119056_03",
+		"DockID": "03",
+		"StationUID": "TPE500119056",
+		"Bike": "A02913"
+	},
+	{
+		"DockUID": "TPE500119056_04",
+		"DockID": "04",
+		"StationUID": "TPE500119056",
+		"Bike": "A02810"
+	},
+	{
+		"DockUID": "TPE500119056_05",
+		"DockID": "05",
+		"StationUID": "TPE500119056",
+		"Bike": "A02365"
+	},
+	{
+		"DockUID": "TPE500119056_06",
+		"DockID": "06",
+		"StationUID": "TPE500119056",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119056_07",
+		"DockID": "07",
+		"StationUID": "TPE500119056",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119056_08",
+		"DockID": "08",
+		"StationUID": "TPE500119056",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119056_09",
+		"DockID": "09",
+		"StationUID": "TPE500119056",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119056_10",
+		"DockID": "10",
+		"StationUID": "TPE500119056",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_01",
+		"DockID": "01",
+		"StationUID": "TPE500119057",
+		"Bike": "A01550"
+	},
+	{
+		"DockUID": "TPE500119057_02",
+		"DockID": "02",
+		"StationUID": "TPE500119057",
+		"Bike": "A01522"
+	},
+	{
+		"DockUID": "TPE500119057_03",
+		"DockID": "03",
+		"StationUID": "TPE500119057",
+		"Bike": "A01468"
+	},
+	{
+		"DockUID": "TPE500119057_04",
+		"DockID": "04",
+		"StationUID": "TPE500119057",
+		"Bike": "A01346"
+	},
+	{
+		"DockUID": "TPE500119057_05",
+		"DockID": "05",
+		"StationUID": "TPE500119057",
+		"Bike": "A03318"
+	},
+	{
+		"DockUID": "TPE500119057_06",
+		"DockID": "06",
+		"StationUID": "TPE500119057",
+		"Bike": "A00870"
+	},
+	{
+		"DockUID": "TPE500119057_07",
+		"DockID": "07",
+		"StationUID": "TPE500119057",
+		"Bike": "A02889"
+	},
+	{
+		"DockUID": "TPE500119057_08",
+		"DockID": "08",
+		"StationUID": "TPE500119057",
+		"Bike": "A02717"
+	},
+	{
+		"DockUID": "TPE500119057_09",
+		"DockID": "09",
+		"StationUID": "TPE500119057",
+		"Bike": "A02501"
+	},
+	{
+		"DockUID": "TPE500119057_10",
+		"DockID": "10",
+		"StationUID": "TPE500119057",
+		"Bike": "A00217"
+	},
+	{
+		"DockUID": "TPE500119057_11",
+		"DockID": "11",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_12",
+		"DockID": "12",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_13",
+		"DockID": "13",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_14",
+		"DockID": "14",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_15",
+		"DockID": "15",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_16",
+		"DockID": "16",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_17",
+		"DockID": "17",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_18",
+		"DockID": "18",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_19",
+		"DockID": "19",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119057_20",
+		"DockID": "20",
+		"StationUID": "TPE500119057",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_01",
+		"DockID": "01",
+		"StationUID": "TPE500119058",
+		"Bike": "F03356"
+	},
+	{
+		"DockUID": "TPE500119058_02",
+		"DockID": "02",
+		"StationUID": "TPE500119058",
+		"Bike": "A02003"
+	},
+	{
+		"DockUID": "TPE500119058_03",
+		"DockID": "03",
+		"StationUID": "TPE500119058",
+		"Bike": "A01783"
+	},
+	{
+		"DockUID": "TPE500119058_04",
+		"DockID": "04",
+		"StationUID": "TPE500119058",
+		"Bike": "A03664"
+	},
+	{
+		"DockUID": "TPE500119058_05",
+		"DockID": "05",
+		"StationUID": "TPE500119058",
+		"Bike": "A01302"
+	},
+	{
+		"DockUID": "TPE500119058_06",
+		"DockID": "06",
+		"StationUID": "TPE500119058",
+		"Bike": "A01284"
+	},
+	{
+		"DockUID": "TPE500119058_07",
+		"DockID": "07",
+		"StationUID": "TPE500119058",
+		"Bike": "A03128"
+	},
+	{
+		"DockUID": "TPE500119058_08",
+		"DockID": "08",
+		"StationUID": "TPE500119058",
+		"Bike": "A01058"
+	},
+	{
+		"DockUID": "TPE500119058_09",
+		"DockID": "09",
+		"StationUID": "TPE500119058",
+		"Bike": "A00875"
+	},
+	{
+		"DockUID": "TPE500119058_10",
+		"DockID": "10",
+		"StationUID": "TPE500119058",
+		"Bike": "A02912"
+	},
+	{
+		"DockUID": "TPE500119058_11",
+		"DockID": "11",
+		"StationUID": "TPE500119058",
+		"Bike": "A00361"
+	},
+	{
+		"DockUID": "TPE500119058_12",
+		"DockID": "12",
+		"StationUID": "TPE500119058",
+		"Bike": "A02283"
+	},
+	{
+		"DockUID": "TPE500119058_13",
+		"DockID": "13",
+		"StationUID": "TPE500119058",
+		"Bike": "A00082"
+	},
+	{
+		"DockUID": "TPE500119058_14",
+		"DockID": "14",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_15",
+		"DockID": "15",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_16",
+		"DockID": "16",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_17",
+		"DockID": "17",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_18",
+		"DockID": "18",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_19",
+		"DockID": "19",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_20",
+		"DockID": "20",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_21",
+		"DockID": "21",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_22",
+		"DockID": "22",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_23",
+		"DockID": "23",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_24",
+		"DockID": "24",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_25",
+		"DockID": "25",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_26",
+		"DockID": "26",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_27",
+		"DockID": "27",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_28",
+		"DockID": "28",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_29",
+		"DockID": "29",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_30",
+		"DockID": "30",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_31",
+		"DockID": "31",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_32",
+		"DockID": "32",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119058_33",
+		"DockID": "33",
+		"StationUID": "TPE500119058",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_01",
+		"DockID": "01",
+		"StationUID": "TPE500119059",
+		"Bike": "F01802"
+	},
+	{
+		"DockUID": "TPE500119059_02",
+		"DockID": "02",
+		"StationUID": "TPE500119059",
+		"Bike": "A03102"
+	},
+	{
+		"DockUID": "TPE500119059_03",
+		"DockID": "03",
+		"StationUID": "TPE500119059",
+		"Bike": "A00323"
+	},
+	{
+		"DockUID": "TPE500119059_04",
+		"DockID": "04",
+		"StationUID": "TPE500119059",
+		"Bike": "A00236"
+	},
+	{
+		"DockUID": "TPE500119059_05",
+		"DockID": "05",
+		"StationUID": "TPE500119059",
+		"Bike": "A00191"
+	},
+	{
+		"DockUID": "TPE500119059_06",
+		"DockID": "06",
+		"StationUID": "TPE500119059",
+		"Bike": "A00186"
+	},
+	{
+		"DockUID": "TPE500119059_07",
+		"DockID": "07",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_08",
+		"DockID": "08",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_09",
+		"DockID": "09",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_10",
+		"DockID": "10",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_11",
+		"DockID": "11",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_12",
+		"DockID": "12",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_13",
+		"DockID": "13",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_14",
+		"DockID": "14",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_15",
+		"DockID": "15",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_16",
+		"DockID": "16",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_17",
+		"DockID": "17",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_18",
+		"DockID": "18",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_19",
+		"DockID": "19",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119059_20",
+		"DockID": "20",
+		"StationUID": "TPE500119059",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119060_01",
+		"DockID": "01",
+		"StationUID": "TPE500119060",
+		"Bike": "A03635"
+	},
+	{
+		"DockUID": "TPE500119060_02",
+		"DockID": "02",
+		"StationUID": "TPE500119060",
+		"Bike": "A02956"
+	},
+	{
+		"DockUID": "TPE500119060_03",
+		"DockID": "03",
+		"StationUID": "TPE500119060",
+		"Bike": "A02931"
+	},
+	{
+		"DockUID": "TPE500119060_04",
+		"DockID": "04",
+		"StationUID": "TPE500119060",
+		"Bike": "A00597"
+	},
+	{
+		"DockUID": "TPE500119060_05",
+		"DockID": "05",
+		"StationUID": "TPE500119060",
+		"Bike": "A00512"
+	},
+	{
+		"DockUID": "TPE500119060_06",
+		"DockID": "06",
+		"StationUID": "TPE500119060",
+		"Bike": "A02318"
+	},
+	{
+		"DockUID": "TPE500119060_07",
+		"DockID": "07",
+		"StationUID": "TPE500119060",
+		"Bike": "A00227"
+	},
+	{
+		"DockUID": "TPE500119060_08",
+		"DockID": "08",
+		"StationUID": "TPE500119060",
+		"Bike": "A00129"
+	},
+	{
+		"DockUID": "TPE500119060_09",
+		"DockID": "09",
+		"StationUID": "TPE500119060",
+		"Bike": "A00093"
+	},
+	{
+		"DockUID": "TPE500119060_10",
+		"DockID": "10",
+		"StationUID": "TPE500119060",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119060_11",
+		"DockID": "11",
+		"StationUID": "TPE500119060",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119060_12",
+		"DockID": "12",
+		"StationUID": "TPE500119060",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_01",
+		"DockID": "01",
+		"StationUID": "TPE500119061",
+		"Bike": "A01893"
+	},
+	{
+		"DockUID": "TPE500119061_02",
+		"DockID": "02",
+		"StationUID": "TPE500119061",
+		"Bike": "A03913"
+	},
+	{
+		"DockUID": "TPE500119061_03",
+		"DockID": "03",
+		"StationUID": "TPE500119061",
+		"Bike": "A01682"
+	},
+	{
+		"DockUID": "TPE500119061_04",
+		"DockID": "04",
+		"StationUID": "TPE500119061",
+		"Bike": "A03545"
+	},
+	{
+		"DockUID": "TPE500119061_05",
+		"DockID": "05",
+		"StationUID": "TPE500119061",
+		"Bike": "A03543"
+	},
+	{
+		"DockUID": "TPE500119061_06",
+		"DockID": "06",
+		"StationUID": "TPE500119061",
+		"Bike": "A03464"
+	},
+	{
+		"DockUID": "TPE500119061_07",
+		"DockID": "07",
+		"StationUID": "TPE500119061",
+		"Bike": "A01380"
+	},
+	{
+		"DockUID": "TPE500119061_08",
+		"DockID": "08",
+		"StationUID": "TPE500119061",
+		"Bike": "A01042"
+	},
+	{
+		"DockUID": "TPE500119061_09",
+		"DockID": "09",
+		"StationUID": "TPE500119061",
+		"Bike": "A03049"
+	},
+	{
+		"DockUID": "TPE500119061_10",
+		"DockID": "10",
+		"StationUID": "TPE500119061",
+		"Bike": "A00260"
+	},
+	{
+		"DockUID": "TPE500119061_11",
+		"DockID": "11",
+		"StationUID": "TPE500119061",
+		"Bike": "A02304"
+	},
+	{
+		"DockUID": "TPE500119061_12",
+		"DockID": "12",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_13",
+		"DockID": "13",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_14",
+		"DockID": "14",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_15",
+		"DockID": "15",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_16",
+		"DockID": "16",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_17",
+		"DockID": "17",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_18",
+		"DockID": "18",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_19",
+		"DockID": "19",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_20",
+		"DockID": "20",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_21",
+		"DockID": "21",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_22",
+		"DockID": "22",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_23",
+		"DockID": "23",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_24",
+		"DockID": "24",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_25",
+		"DockID": "25",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_26",
+		"DockID": "26",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119061_27",
+		"DockID": "27",
+		"StationUID": "TPE500119061",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119062_01",
+		"DockID": "01",
+		"StationUID": "TPE500119062",
+		"Bike": "A03986"
+	},
+	{
+		"DockUID": "TPE500119062_02",
+		"DockID": "02",
+		"StationUID": "TPE500119062",
+		"Bike": "A01644"
+	},
+	{
+		"DockUID": "TPE500119062_03",
+		"DockID": "03",
+		"StationUID": "TPE500119062",
+		"Bike": "A03572"
+	},
+	{
+		"DockUID": "TPE500119062_04",
+		"DockID": "04",
+		"StationUID": "TPE500119062",
+		"Bike": "A01426"
+	},
+	{
+		"DockUID": "TPE500119062_05",
+		"DockID": "05",
+		"StationUID": "TPE500119062",
+		"Bike": "A03381"
+	},
+	{
+		"DockUID": "TPE500119062_06",
+		"DockID": "06",
+		"StationUID": "TPE500119062",
+		"Bike": "A03366"
+	},
+	{
+		"DockUID": "TPE500119062_07",
+		"DockID": "07",
+		"StationUID": "TPE500119062",
+		"Bike": "A03051"
+	},
+	{
+		"DockUID": "TPE500119062_08",
+		"DockID": "08",
+		"StationUID": "TPE500119062",
+		"Bike": "A02690"
+	},
+	{
+		"DockUID": "TPE500119062_09",
+		"DockID": "09",
+		"StationUID": "TPE500119062",
+		"Bike": "A02466"
+	},
+	{
+		"DockUID": "TPE500119062_10",
+		"DockID": "10",
+		"StationUID": "TPE500119062",
+		"Bike": "A00356"
+	},
+	{
+		"DockUID": "TPE500119062_11",
+		"DockID": "11",
+		"StationUID": "TPE500119062",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119062_12",
+		"DockID": "12",
+		"StationUID": "TPE500119062",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_01",
+		"DockID": "01",
+		"StationUID": "TPE500119063",
+		"Bike": "A02024"
+	},
+	{
+		"DockUID": "TPE500119063_02",
+		"DockID": "02",
+		"StationUID": "TPE500119063",
+		"Bike": "A01945"
+	},
+	{
+		"DockUID": "TPE500119063_03",
+		"DockID": "03",
+		"StationUID": "TPE500119063",
+		"Bike": "A01814"
+	},
+	{
+		"DockUID": "TPE500119063_04",
+		"DockID": "04",
+		"StationUID": "TPE500119063",
+		"Bike": "A03611"
+	},
+	{
+		"DockUID": "TPE500119063_05",
+		"DockID": "05",
+		"StationUID": "TPE500119063",
+		"Bike": "A01132"
+	},
+	{
+		"DockUID": "TPE500119063_06",
+		"DockID": "06",
+		"StationUID": "TPE500119063",
+		"Bike": "A01095"
+	},
+	{
+		"DockUID": "TPE500119063_07",
+		"DockID": "07",
+		"StationUID": "TPE500119063",
+		"Bike": "A02863"
+	},
+	{
+		"DockUID": "TPE500119063_08",
+		"DockID": "08",
+		"StationUID": "TPE500119063",
+		"Bike": "A02841"
+	},
+	{
+		"DockUID": "TPE500119063_09",
+		"DockID": "09",
+		"StationUID": "TPE500119063",
+		"Bike": "A02821"
+	},
+	{
+		"DockUID": "TPE500119063_10",
+		"DockID": "10",
+		"StationUID": "TPE500119063",
+		"Bike": "A00761"
+	},
+	{
+		"DockUID": "TPE500119063_11",
+		"DockID": "11",
+		"StationUID": "TPE500119063",
+		"Bike": "A00724"
+	},
+	{
+		"DockUID": "TPE500119063_12",
+		"DockID": "12",
+		"StationUID": "TPE500119063",
+		"Bike": "A02424"
+	},
+	{
+		"DockUID": "TPE500119063_13",
+		"DockID": "13",
+		"StationUID": "TPE500119063",
+		"Bike": "A02223"
+	},
+	{
+		"DockUID": "TPE500119063_14",
+		"DockID": "14",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_15",
+		"DockID": "15",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_16",
+		"DockID": "16",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_17",
+		"DockID": "17",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_18",
+		"DockID": "18",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_19",
+		"DockID": "19",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_20",
+		"DockID": "20",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_21",
+		"DockID": "21",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_22",
+		"DockID": "22",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_23",
+		"DockID": "23",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_24",
+		"DockID": "24",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_25",
+		"DockID": "25",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_26",
+		"DockID": "26",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119063_27",
+		"DockID": "27",
+		"StationUID": "TPE500119063",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_01",
+		"DockID": "01",
+		"StationUID": "TPE500119064",
+		"Bike": "A01433"
+	},
+	{
+		"DockUID": "TPE500119064_02",
+		"DockID": "02",
+		"StationUID": "TPE500119064",
+		"Bike": "A01347"
+	},
+	{
+		"DockUID": "TPE500119064_03",
+		"DockID": "03",
+		"StationUID": "TPE500119064",
+		"Bike": "A01229"
+	},
+	{
+		"DockUID": "TPE500119064_04",
+		"DockID": "04",
+		"StationUID": "TPE500119064",
+		"Bike": "A03272"
+	},
+	{
+		"DockUID": "TPE500119064_05",
+		"DockID": "05",
+		"StationUID": "TPE500119064",
+		"Bike": "A03047"
+	},
+	{
+		"DockUID": "TPE500119064_06",
+		"DockID": "06",
+		"StationUID": "TPE500119064",
+		"Bike": "A02636"
+	},
+	{
+		"DockUID": "TPE500119064_07",
+		"DockID": "07",
+		"StationUID": "TPE500119064",
+		"Bike": "A00560"
+	},
+	{
+		"DockUID": "TPE500119064_08",
+		"DockID": "08",
+		"StationUID": "TPE500119064",
+		"Bike": "A00181"
+	},
+	{
+		"DockUID": "TPE500119064_09",
+		"DockID": "09",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_10",
+		"DockID": "10",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_11",
+		"DockID": "11",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_12",
+		"DockID": "12",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_13",
+		"DockID": "13",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_14",
+		"DockID": "14",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_15",
+		"DockID": "15",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_16",
+		"DockID": "16",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_17",
+		"DockID": "17",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_18",
+		"DockID": "18",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_19",
+		"DockID": "19",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_20",
+		"DockID": "20",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_21",
+		"DockID": "21",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_22",
+		"DockID": "22",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_23",
+		"DockID": "23",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_24",
+		"DockID": "24",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_25",
+		"DockID": "25",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_26",
+		"DockID": "26",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_27",
+		"DockID": "27",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119064_28",
+		"DockID": "28",
+		"StationUID": "TPE500119064",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119065_01",
+		"DockID": "01",
+		"StationUID": "TPE500119065",
+		"Bike": "A02015"
+	},
+	{
+		"DockUID": "TPE500119065_02",
+		"DockID": "02",
+		"StationUID": "TPE500119065",
+		"Bike": "A01865"
+	},
+	{
+		"DockUID": "TPE500119065_03",
+		"DockID": "03",
+		"StationUID": "TPE500119065",
+		"Bike": "A01821"
+	},
+	{
+		"DockUID": "TPE500119065_04",
+		"DockID": "04",
+		"StationUID": "TPE500119065",
+		"Bike": "A01629"
+	},
+	{
+		"DockUID": "TPE500119065_05",
+		"DockID": "05",
+		"StationUID": "TPE500119065",
+		"Bike": "A01513"
+	},
+	{
+		"DockUID": "TPE500119065_06",
+		"DockID": "06",
+		"StationUID": "TPE500119065",
+		"Bike": "A03515"
+	},
+	{
+		"DockUID": "TPE500119065_07",
+		"DockID": "07",
+		"StationUID": "TPE500119065",
+		"Bike": "A03487"
+	},
+	{
+		"DockUID": "TPE500119065_08",
+		"DockID": "08",
+		"StationUID": "TPE500119065",
+		"Bike": "A03203"
+	},
+	{
+		"DockUID": "TPE500119065_09",
+		"DockID": "09",
+		"StationUID": "TPE500119065",
+		"Bike": "A02884"
+	},
+	{
+		"DockUID": "TPE500119065_10",
+		"DockID": "10",
+		"StationUID": "TPE500119065",
+		"Bike": "A02293"
+	},
+	{
+		"DockUID": "TPE500119066_01",
+		"DockID": "01",
+		"StationUID": "TPE500119066",
+		"Bike": "F02058"
+	},
+	{
+		"DockUID": "TPE500119066_02",
+		"DockID": "02",
+		"StationUID": "TPE500119066",
+		"Bike": "A01996"
+	},
+	{
+		"DockUID": "TPE500119066_03",
+		"DockID": "03",
+		"StationUID": "TPE500119066",
+		"Bike": "A01466"
+	},
+	{
+		"DockUID": "TPE500119066_04",
+		"DockID": "04",
+		"StationUID": "TPE500119066",
+		"Bike": "A00929"
+	},
+	{
+		"DockUID": "TPE500119066_05",
+		"DockID": "05",
+		"StationUID": "TPE500119066",
+		"Bike": "A00544"
+	},
+	{
+		"DockUID": "TPE500119066_06",
+		"DockID": "06",
+		"StationUID": "TPE500119066",
+		"Bike": "A00221"
+	},
+	{
+		"DockUID": "TPE500119066_07",
+		"DockID": "07",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_08",
+		"DockID": "08",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_09",
+		"DockID": "09",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_10",
+		"DockID": "10",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_11",
+		"DockID": "11",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_12",
+		"DockID": "12",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_13",
+		"DockID": "13",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_14",
+		"DockID": "14",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_15",
+		"DockID": "15",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_16",
+		"DockID": "16",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_17",
+		"DockID": "17",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_18",
+		"DockID": "18",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_19",
+		"DockID": "19",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119066_20",
+		"DockID": "20",
+		"StationUID": "TPE500119066",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_01",
+		"DockID": "01",
+		"StationUID": "TPE500119067",
+		"Bike": "A03931"
+	},
+	{
+		"DockUID": "TPE500119067_02",
+		"DockID": "02",
+		"StationUID": "TPE500119067",
+		"Bike": "A01289"
+	},
+	{
+		"DockUID": "TPE500119067_03",
+		"DockID": "03",
+		"StationUID": "TPE500119067",
+		"Bike": "A00948"
+	},
+	{
+		"DockUID": "TPE500119067_04",
+		"DockID": "04",
+		"StationUID": "TPE500119067",
+		"Bike": "A00846"
+	},
+	{
+		"DockUID": "TPE500119067_05",
+		"DockID": "05",
+		"StationUID": "TPE500119067",
+		"Bike": "A02719"
+	},
+	{
+		"DockUID": "TPE500119067_06",
+		"DockID": "06",
+		"StationUID": "TPE500119067",
+		"Bike": "A00025"
+	},
+	{
+		"DockUID": "TPE500119067_07",
+		"DockID": "07",
+		"StationUID": "TPE500119067",
+		"Bike": "A00024"
+	},
+	{
+		"DockUID": "TPE500119067_08",
+		"DockID": "08",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_09",
+		"DockID": "09",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_10",
+		"DockID": "10",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_11",
+		"DockID": "11",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_12",
+		"DockID": "12",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_13",
+		"DockID": "13",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_14",
+		"DockID": "14",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_15",
+		"DockID": "15",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_16",
+		"DockID": "16",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_17",
+		"DockID": "17",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_18",
+		"DockID": "18",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_19",
+		"DockID": "19",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_20",
+		"DockID": "20",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_21",
+		"DockID": "21",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_22",
+		"DockID": "22",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_23",
+		"DockID": "23",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_24",
+		"DockID": "24",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_25",
+		"DockID": "25",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_26",
+		"DockID": "26",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_27",
+		"DockID": "27",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_28",
+		"DockID": "28",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_29",
+		"DockID": "29",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_30",
+		"DockID": "30",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_31",
+		"DockID": "31",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_32",
+		"DockID": "32",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_33",
+		"DockID": "33",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_34",
+		"DockID": "34",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_35",
+		"DockID": "35",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_36",
+		"DockID": "36",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_37",
+		"DockID": "37",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_38",
+		"DockID": "38",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_39",
+		"DockID": "39",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_40",
+		"DockID": "40",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_41",
+		"DockID": "41",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119067_42",
+		"DockID": "42",
+		"StationUID": "TPE500119067",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_01",
+		"DockID": "01",
+		"StationUID": "TPE500119068",
+		"Bike": "A01530"
+	},
+	{
+		"DockUID": "TPE500119068_02",
+		"DockID": "02",
+		"StationUID": "TPE500119068",
+		"Bike": "A01233"
+	},
+	{
+		"DockUID": "TPE500119068_03",
+		"DockID": "03",
+		"StationUID": "TPE500119068",
+		"Bike": "A02845"
+	},
+	{
+		"DockUID": "TPE500119068_04",
+		"DockID": "04",
+		"StationUID": "TPE500119068",
+		"Bike": "A00475"
+	},
+	{
+		"DockUID": "TPE500119068_05",
+		"DockID": "05",
+		"StationUID": "TPE500119068",
+		"Bike": "A00448"
+	},
+	{
+		"DockUID": "TPE500119068_06",
+		"DockID": "06",
+		"StationUID": "TPE500119068",
+		"Bike": "A00126"
+	},
+	{
+		"DockUID": "TPE500119068_07",
+		"DockID": "07",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_08",
+		"DockID": "08",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_09",
+		"DockID": "09",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_10",
+		"DockID": "10",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_11",
+		"DockID": "11",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_12",
+		"DockID": "12",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_13",
+		"DockID": "13",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_14",
+		"DockID": "14",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_15",
+		"DockID": "15",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_16",
+		"DockID": "16",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_17",
+		"DockID": "17",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_18",
+		"DockID": "18",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_19",
+		"DockID": "19",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_20",
+		"DockID": "20",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_21",
+		"DockID": "21",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_22",
+		"DockID": "22",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_23",
+		"DockID": "23",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_24",
+		"DockID": "24",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_25",
+		"DockID": "25",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_26",
+		"DockID": "26",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_27",
+		"DockID": "27",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_28",
+		"DockID": "28",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_29",
+		"DockID": "29",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_30",
+		"DockID": "30",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_31",
+		"DockID": "31",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_32",
+		"DockID": "32",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_33",
+		"DockID": "33",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_34",
+		"DockID": "34",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_35",
+		"DockID": "35",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_36",
+		"DockID": "36",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_37",
+		"DockID": "37",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_38",
+		"DockID": "38",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119068_39",
+		"DockID": "39",
+		"StationUID": "TPE500119068",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119069_01",
+		"DockID": "01",
+		"StationUID": "TPE500119069",
+		"Bike": "A03882"
+	},
+	{
+		"DockUID": "TPE500119069_02",
+		"DockID": "02",
+		"StationUID": "TPE500119069",
+		"Bike": "A01153"
+	},
+	{
+		"DockUID": "TPE500119069_03",
+		"DockID": "03",
+		"StationUID": "TPE500119069",
+		"Bike": "A01007"
+	},
+	{
+		"DockUID": "TPE500119069_04",
+		"DockID": "04",
+		"StationUID": "TPE500119069",
+		"Bike": "A00153"
+	},
+	{
+		"DockUID": "TPE500119069_05",
+		"DockID": "05",
+		"StationUID": "TPE500119069",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119069_06",
+		"DockID": "06",
+		"StationUID": "TPE500119069",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119069_07",
+		"DockID": "07",
+		"StationUID": "TPE500119069",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119069_08",
+		"DockID": "08",
+		"StationUID": "TPE500119069",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119069_09",
+		"DockID": "09",
+		"StationUID": "TPE500119069",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119069_10",
+		"DockID": "10",
+		"StationUID": "TPE500119069",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_01",
+		"DockID": "01",
+		"StationUID": "TPE500119070",
+		"Bike": "A01974"
+	},
+	{
+		"DockUID": "TPE500119070_02",
+		"DockID": "02",
+		"StationUID": "TPE500119070",
+		"Bike": "A01936"
+	},
+	{
+		"DockUID": "TPE500119070_03",
+		"DockID": "03",
+		"StationUID": "TPE500119070",
+		"Bike": "A03784"
+	},
+	{
+		"DockUID": "TPE500119070_04",
+		"DockID": "04",
+		"StationUID": "TPE500119070",
+		"Bike": "A01561"
+	},
+	{
+		"DockUID": "TPE500119070_05",
+		"DockID": "05",
+		"StationUID": "TPE500119070",
+		"Bike": "A03484"
+	},
+	{
+		"DockUID": "TPE500119070_06",
+		"DockID": "06",
+		"StationUID": "TPE500119070",
+		"Bike": "A01053"
+	},
+	{
+		"DockUID": "TPE500119070_07",
+		"DockID": "07",
+		"StationUID": "TPE500119070",
+		"Bike": "A00679"
+	},
+	{
+		"DockUID": "TPE500119070_08",
+		"DockID": "08",
+		"StationUID": "TPE500119070",
+		"Bike": "A02587"
+	},
+	{
+		"DockUID": "TPE500119070_09",
+		"DockID": "09",
+		"StationUID": "TPE500119070",
+		"Bike": "A00451"
+	},
+	{
+		"DockUID": "TPE500119070_10",
+		"DockID": "10",
+		"StationUID": "TPE500119070",
+		"Bike": "A02495"
+	},
+	{
+		"DockUID": "TPE500119070_11",
+		"DockID": "11",
+		"StationUID": "TPE500119070",
+		"Bike": "A02324"
+	},
+	{
+		"DockUID": "TPE500119070_12",
+		"DockID": "12",
+		"StationUID": "TPE500119070",
+		"Bike": "A00070"
+	},
+	{
+		"DockUID": "TPE500119070_13",
+		"DockID": "13",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_14",
+		"DockID": "14",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_15",
+		"DockID": "15",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_16",
+		"DockID": "16",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_17",
+		"DockID": "17",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_18",
+		"DockID": "18",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_19",
+		"DockID": "19",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_20",
+		"DockID": "20",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_21",
+		"DockID": "21",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_22",
+		"DockID": "22",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_23",
+		"DockID": "23",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_24",
+		"DockID": "24",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_25",
+		"DockID": "25",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_26",
+		"DockID": "26",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_27",
+		"DockID": "27",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_28",
+		"DockID": "28",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_29",
+		"DockID": "29",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_30",
+		"DockID": "30",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_31",
+		"DockID": "31",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_32",
+		"DockID": "32",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_33",
+		"DockID": "33",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_34",
+		"DockID": "34",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_35",
+		"DockID": "35",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_36",
+		"DockID": "36",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_37",
+		"DockID": "37",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_38",
+		"DockID": "38",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_39",
+		"DockID": "39",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_40",
+		"DockID": "40",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_41",
+		"DockID": "41",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_42",
+		"DockID": "42",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_43",
+		"DockID": "43",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_44",
+		"DockID": "44",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_45",
+		"DockID": "45",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_46",
+		"DockID": "46",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_47",
+		"DockID": "47",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119070_48",
+		"DockID": "48",
+		"StationUID": "TPE500119070",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_01",
+		"DockID": "01",
+		"StationUID": "TPE500119071",
+		"Bike": "A01967"
+	},
+	{
+		"DockUID": "TPE500119071_02",
+		"DockID": "02",
+		"StationUID": "TPE500119071",
+		"Bike": "A01647"
+	},
+	{
+		"DockUID": "TPE500119071_03",
+		"DockID": "03",
+		"StationUID": "TPE500119071",
+		"Bike": "A03637"
+	},
+	{
+		"DockUID": "TPE500119071_04",
+		"DockID": "04",
+		"StationUID": "TPE500119071",
+		"Bike": "A00782"
+	},
+	{
+		"DockUID": "TPE500119071_05",
+		"DockID": "05",
+		"StationUID": "TPE500119071",
+		"Bike": "A02747"
+	},
+	{
+		"DockUID": "TPE500119071_06",
+		"DockID": "06",
+		"StationUID": "TPE500119071",
+		"Bike": "A02429"
+	},
+	{
+		"DockUID": "TPE500119071_07",
+		"DockID": "07",
+		"StationUID": "TPE500119071",
+		"Bike": "A00252"
+	},
+	{
+		"DockUID": "TPE500119071_08",
+		"DockID": "08",
+		"StationUID": "TPE500119071",
+		"Bike": "A00215"
+	},
+	{
+		"DockUID": "TPE500119071_09",
+		"DockID": "09",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_10",
+		"DockID": "10",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_11",
+		"DockID": "11",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_12",
+		"DockID": "12",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_13",
+		"DockID": "13",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_14",
+		"DockID": "14",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_15",
+		"DockID": "15",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_16",
+		"DockID": "16",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_17",
+		"DockID": "17",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_18",
+		"DockID": "18",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_19",
+		"DockID": "19",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_20",
+		"DockID": "20",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_21",
+		"DockID": "21",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_22",
+		"DockID": "22",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_23",
+		"DockID": "23",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_24",
+		"DockID": "24",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_25",
+		"DockID": "25",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_26",
+		"DockID": "26",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_27",
+		"DockID": "27",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_28",
+		"DockID": "28",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_29",
+		"DockID": "29",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_30",
+		"DockID": "30",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_31",
+		"DockID": "31",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_32",
+		"DockID": "32",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_33",
+		"DockID": "33",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119071_34",
+		"DockID": "34",
+		"StationUID": "TPE500119071",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119072_01",
+		"DockID": "01",
+		"StationUID": "TPE500119072",
+		"Bike": "A01988"
+	},
+	{
+		"DockUID": "TPE500119072_02",
+		"DockID": "02",
+		"StationUID": "TPE500119072",
+		"Bike": "A03965"
+	},
+	{
+		"DockUID": "TPE500119072_03",
+		"DockID": "03",
+		"StationUID": "TPE500119072",
+		"Bike": "A01706"
+	},
+	{
+		"DockUID": "TPE500119072_04",
+		"DockID": "04",
+		"StationUID": "TPE500119072",
+		"Bike": "A03476"
+	},
+	{
+		"DockUID": "TPE500119072_05",
+		"DockID": "05",
+		"StationUID": "TPE500119072",
+		"Bike": "A01391"
+	},
+	{
+		"DockUID": "TPE500119072_06",
+		"DockID": "06",
+		"StationUID": "TPE500119072",
+		"Bike": "A03367"
+	},
+	{
+		"DockUID": "TPE500119072_07",
+		"DockID": "07",
+		"StationUID": "TPE500119072",
+		"Bike": "A01180"
+	},
+	{
+		"DockUID": "TPE500119072_08",
+		"DockID": "08",
+		"StationUID": "TPE500119072",
+		"Bike": "A03168"
+	},
+	{
+		"DockUID": "TPE500119072_09",
+		"DockID": "09",
+		"StationUID": "TPE500119072",
+		"Bike": "A03091"
+	},
+	{
+		"DockUID": "TPE500119072_10",
+		"DockID": "10",
+		"StationUID": "TPE500119072",
+		"Bike": "A02922"
+	},
+	{
+		"DockUID": "TPE500119072_11",
+		"DockID": "11",
+		"StationUID": "TPE500119072",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119072_12",
+		"DockID": "12",
+		"StationUID": "TPE500119072",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_01",
+		"DockID": "01",
+		"StationUID": "TPE500119074",
+		"Bike": "A03923"
+	},
+	{
+		"DockUID": "TPE500119074_02",
+		"DockID": "02",
+		"StationUID": "TPE500119074",
+		"Bike": "A03547"
+	},
+	{
+		"DockUID": "TPE500119074_03",
+		"DockID": "03",
+		"StationUID": "TPE500119074",
+		"Bike": "A01464"
+	},
+	{
+		"DockUID": "TPE500119074_04",
+		"DockID": "04",
+		"StationUID": "TPE500119074",
+		"Bike": "A01240"
+	},
+	{
+		"DockUID": "TPE500119074_05",
+		"DockID": "05",
+		"StationUID": "TPE500119074",
+		"Bike": "A01160"
+	},
+	{
+		"DockUID": "TPE500119074_06",
+		"DockID": "06",
+		"StationUID": "TPE500119074",
+		"Bike": "A00904"
+	},
+	{
+		"DockUID": "TPE500119074_07",
+		"DockID": "07",
+		"StationUID": "TPE500119074",
+		"Bike": "A00819"
+	},
+	{
+		"DockUID": "TPE500119074_08",
+		"DockID": "08",
+		"StationUID": "TPE500119074",
+		"Bike": "A02770"
+	},
+	{
+		"DockUID": "TPE500119074_09",
+		"DockID": "09",
+		"StationUID": "TPE500119074",
+		"Bike": "A00653"
+	},
+	{
+		"DockUID": "TPE500119074_10",
+		"DockID": "10",
+		"StationUID": "TPE500119074",
+		"Bike": "A02698"
+	},
+	{
+		"DockUID": "TPE500119074_11",
+		"DockID": "11",
+		"StationUID": "TPE500119074",
+		"Bike": "A02697"
+	},
+	{
+		"DockUID": "TPE500119074_12",
+		"DockID": "12",
+		"StationUID": "TPE500119074",
+		"Bike": "A00641"
+	},
+	{
+		"DockUID": "TPE500119074_13",
+		"DockID": "13",
+		"StationUID": "TPE500119074",
+		"Bike": "A00364"
+	},
+	{
+		"DockUID": "TPE500119074_14",
+		"DockID": "14",
+		"StationUID": "TPE500119074",
+		"Bike": "A02395"
+	},
+	{
+		"DockUID": "TPE500119074_15",
+		"DockID": "15",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_16",
+		"DockID": "16",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_17",
+		"DockID": "17",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_18",
+		"DockID": "18",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_19",
+		"DockID": "19",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_20",
+		"DockID": "20",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_21",
+		"DockID": "21",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_22",
+		"DockID": "22",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_23",
+		"DockID": "23",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_24",
+		"DockID": "24",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_25",
+		"DockID": "25",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_26",
+		"DockID": "26",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_27",
+		"DockID": "27",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_28",
+		"DockID": "28",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_29",
+		"DockID": "29",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119074_30",
+		"DockID": "30",
+		"StationUID": "TPE500119074",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119075_01",
+		"DockID": "01",
+		"StationUID": "TPE500119075",
+		"Bike": "F03710"
+	},
+	{
+		"DockUID": "TPE500119075_02",
+		"DockID": "02",
+		"StationUID": "TPE500119075",
+		"Bike": "F01785"
+	},
+	{
+		"DockUID": "TPE500119075_03",
+		"DockID": "03",
+		"StationUID": "TPE500119075",
+		"Bike": "F02165"
+	},
+	{
+		"DockUID": "TPE500119075_04",
+		"DockID": "04",
+		"StationUID": "TPE500119075",
+		"Bike": "F02677"
+	},
+	{
+		"DockUID": "TPE500119075_05",
+		"DockID": "05",
+		"StationUID": "TPE500119075",
+		"Bike": "F00243"
+	},
+	{
+		"DockUID": "TPE500119075_06",
+		"DockID": "06",
+		"StationUID": "TPE500119075",
+		"Bike": "F02163"
+	},
+	{
+		"DockUID": "TPE500119075_07",
+		"DockID": "07",
+		"StationUID": "TPE500119075",
+		"Bike": "F00881"
+	},
+	{
+		"DockUID": "TPE500119075_08",
+		"DockID": "08",
+		"StationUID": "TPE500119075",
+		"Bike": "F01899"
+	},
+	{
+		"DockUID": "TPE500119075_09",
+		"DockID": "09",
+		"StationUID": "TPE500119075",
+		"Bike": "F03435"
+	},
+	{
+		"DockUID": "TPE500119075_10",
+		"DockID": "10",
+		"StationUID": "TPE500119075",
+		"Bike": "F00739"
+	},
+	{
+		"DockUID": "TPE500119075_11",
+		"DockID": "11",
+		"StationUID": "TPE500119075",
+		"Bike": "F03298"
+	},
+	{
+		"DockUID": "TPE500119075_12",
+		"DockID": "12",
+		"StationUID": "TPE500119075",
+		"Bike": "F02145"
+	},
+	{
+		"DockUID": "TPE500119075_13",
+		"DockID": "13",
+		"StationUID": "TPE500119075",
+		"Bike": "F03038"
+	},
+	{
+		"DockUID": "TPE500119075_14",
+		"DockID": "14",
+		"StationUID": "TPE500119075",
+		"Bike": "F01883"
+	},
+	{
+		"DockUID": "TPE500119075_15",
+		"DockID": "15",
+		"StationUID": "TPE500119075",
+		"Bike": "F00728"
+	},
+	{
+		"DockUID": "TPE500119075_16",
+		"DockID": "16",
+		"StationUID": "TPE500119075",
+		"Bike": "F00599"
+	},
+	{
+		"DockUID": "TPE500119075_17",
+		"DockID": "17",
+		"StationUID": "TPE500119075",
+		"Bike": "F03025"
+	},
+	{
+		"DockUID": "TPE500119075_18",
+		"DockID": "18",
+		"StationUID": "TPE500119075",
+		"Bike": "F03924"
+	},
+	{
+		"DockUID": "TPE500119075_19",
+		"DockID": "19",
+		"StationUID": "TPE500119075",
+		"Bike": "F00212"
+	},
+	{
+		"DockUID": "TPE500119075_20",
+		"DockID": "20",
+		"StationUID": "TPE500119075",
+		"Bike": "F01875"
+	},
+	{
+		"DockUID": "TPE500119075_21",
+		"DockID": "21",
+		"StationUID": "TPE500119075",
+		"Bike": "F01106"
+	},
+	{
+		"DockUID": "TPE500119075_22",
+		"DockID": "22",
+		"StationUID": "TPE500119075",
+		"Bike": "F01488"
+	},
+	{
+		"DockUID": "TPE500119075_23",
+		"DockID": "23",
+		"StationUID": "TPE500119075",
+		"Bike": "F02512"
+	},
+	{
+		"DockUID": "TPE500119075_24",
+		"DockID": "24",
+		"StationUID": "TPE500119075",
+		"Bike": "F01357"
+	},
+	{
+		"DockUID": "TPE500119075_25",
+		"DockID": "25",
+		"StationUID": "TPE500119075",
+		"Bike": "F01996"
+	},
+	{
+		"DockUID": "TPE500119075_26",
+		"DockID": "26",
+		"StationUID": "TPE500119075",
+		"Bike": "F03139"
+	},
+	{
+		"DockUID": "TPE500119075_27",
+		"DockID": "27",
+		"StationUID": "TPE500119075",
+		"Bike": "F01603"
+	},
+	{
+		"DockUID": "TPE500119075_28",
+		"DockID": "28",
+		"StationUID": "TPE500119075",
+		"Bike": "F00450"
+	},
+	{
+		"DockUID": "TPE500119075_29",
+		"DockID": "29",
+		"StationUID": "TPE500119075",
+		"Bike": "F00702"
+	},
+	{
+		"DockUID": "TPE500119075_30",
+		"DockID": "30",
+		"StationUID": "TPE500119075",
+		"Bike": "F02876"
+	},
+	{
+		"DockUID": "TPE500119075_31",
+		"DockID": "31",
+		"StationUID": "TPE500119075",
+		"Bike": "F00311"
+	},
+	{
+		"DockUID": "TPE500119075_32",
+		"DockID": "32",
+		"StationUID": "TPE500119075",
+		"Bike": "F03889"
+	},
+	{
+		"DockUID": "TPE500119075_33",
+		"DockID": "33",
+		"StationUID": "TPE500119075",
+		"Bike": "F01325"
+	},
+	{
+		"DockUID": "TPE500119075_34",
+		"DockID": "34",
+		"StationUID": "TPE500119075",
+		"Bike": "F01953"
+	},
+	{
+		"DockUID": "TPE500119075_35",
+		"DockID": "35",
+		"StationUID": "TPE500119075",
+		"Bike": "F03877"
+	},
+	{
+		"DockUID": "TPE500119075_36",
+		"DockID": "36",
+		"StationUID": "TPE500119075",
+		"Bike": "F03617"
+	},
+	{
+		"DockUID": "TPE500119075_37",
+		"DockID": "37",
+		"StationUID": "TPE500119075",
+		"Bike": "F02593"
+	},
+	{
+		"DockUID": "TPE500119075_38",
+		"DockID": "38",
+		"StationUID": "TPE500119075",
+		"Bike": "F01058"
+	},
+	{
+		"DockUID": "TPE500119075_39",
+		"DockID": "39",
+		"StationUID": "TPE500119075",
+		"Bike": "F00033"
+	},
+	{
+		"DockUID": "TPE500119075_40",
+		"DockID": "40",
+		"StationUID": "TPE500119075",
+		"Bike": "F02207"
+	},
+	{
+		"DockUID": "TPE500119076_01",
+		"DockID": "01",
+		"StationUID": "TPE500119076",
+		"Bike": "A02039"
+	},
+	{
+		"DockUID": "TPE500119076_02",
+		"DockID": "02",
+		"StationUID": "TPE500119076",
+		"Bike": "A01601"
+	},
+	{
+		"DockUID": "TPE500119076_03",
+		"DockID": "03",
+		"StationUID": "TPE500119076",
+		"Bike": "A03414"
+	},
+	{
+		"DockUID": "TPE500119076_04",
+		"DockID": "04",
+		"StationUID": "TPE500119076",
+		"Bike": "A01355"
+	},
+	{
+		"DockUID": "TPE500119076_05",
+		"DockID": "05",
+		"StationUID": "TPE500119076",
+		"Bike": "A01028"
+	},
+	{
+		"DockUID": "TPE500119076_06",
+		"DockID": "06",
+		"StationUID": "TPE500119076",
+		"Bike": "A02488"
+	},
+	{
+		"DockUID": "TPE500119076_07",
+		"DockID": "07",
+		"StationUID": "TPE500119076",
+		"Bike": "A02196"
+	},
+	{
+		"DockUID": "TPE500119076_08",
+		"DockID": "08",
+		"StationUID": "TPE500119076",
+		"Bike": "A02110"
+	},
+	{
+		"DockUID": "TPE500119076_09",
+		"DockID": "09",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_10",
+		"DockID": "10",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_11",
+		"DockID": "11",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_12",
+		"DockID": "12",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_13",
+		"DockID": "13",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_14",
+		"DockID": "14",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_15",
+		"DockID": "15",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_16",
+		"DockID": "16",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_17",
+		"DockID": "17",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_18",
+		"DockID": "18",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_19",
+		"DockID": "19",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_20",
+		"DockID": "20",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_21",
+		"DockID": "21",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119076_22",
+		"DockID": "22",
+		"StationUID": "TPE500119076",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_01",
+		"DockID": "01",
+		"StationUID": "TPE500119077",
+		"Bike": "A03754"
+	},
+	{
+		"DockUID": "TPE500119077_02",
+		"DockID": "02",
+		"StationUID": "TPE500119077",
+		"Bike": "A03195"
+	},
+	{
+		"DockUID": "TPE500119077_03",
+		"DockID": "03",
+		"StationUID": "TPE500119077",
+		"Bike": "A03178"
+	},
+	{
+		"DockUID": "TPE500119077_04",
+		"DockID": "04",
+		"StationUID": "TPE500119077",
+		"Bike": "A02993"
+	},
+	{
+		"DockUID": "TPE500119077_05",
+		"DockID": "05",
+		"StationUID": "TPE500119077",
+		"Bike": "A02949"
+	},
+	{
+		"DockUID": "TPE500119077_06",
+		"DockID": "06",
+		"StationUID": "TPE500119077",
+		"Bike": "A00369"
+	},
+	{
+		"DockUID": "TPE500119077_07",
+		"DockID": "07",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_08",
+		"DockID": "08",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_09",
+		"DockID": "09",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_10",
+		"DockID": "10",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_11",
+		"DockID": "11",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_12",
+		"DockID": "12",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_13",
+		"DockID": "13",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_14",
+		"DockID": "14",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_15",
+		"DockID": "15",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_16",
+		"DockID": "16",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_17",
+		"DockID": "17",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_18",
+		"DockID": "18",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_19",
+		"DockID": "19",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_20",
+		"DockID": "20",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_21",
+		"DockID": "21",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_22",
+		"DockID": "22",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_23",
+		"DockID": "23",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_24",
+		"DockID": "24",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_25",
+		"DockID": "25",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_26",
+		"DockID": "26",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_27",
+		"DockID": "27",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_28",
+		"DockID": "28",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_29",
+		"DockID": "29",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_30",
+		"DockID": "30",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_31",
+		"DockID": "31",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_32",
+		"DockID": "32",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_33",
+		"DockID": "33",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_34",
+		"DockID": "34",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_35",
+		"DockID": "35",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_36",
+		"DockID": "36",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_37",
+		"DockID": "37",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_38",
+		"DockID": "38",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_39",
+		"DockID": "39",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_40",
+		"DockID": "40",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_41",
+		"DockID": "41",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_42",
+		"DockID": "42",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_43",
+		"DockID": "43",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_44",
+		"DockID": "44",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_45",
+		"DockID": "45",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_46",
+		"DockID": "46",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_47",
+		"DockID": "47",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_48",
+		"DockID": "48",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_49",
+		"DockID": "49",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_50",
+		"DockID": "50",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_51",
+		"DockID": "51",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_52",
+		"DockID": "52",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_53",
+		"DockID": "53",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_54",
+		"DockID": "54",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_55",
+		"DockID": "55",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119077_56",
+		"DockID": "56",
+		"StationUID": "TPE500119077",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119078_01",
+		"DockID": "01",
+		"StationUID": "TPE500119078",
+		"Bike": "A03902"
+	},
+	{
+		"DockUID": "TPE500119078_02",
+		"DockID": "02",
+		"StationUID": "TPE500119078",
+		"Bike": "A01798"
+	},
+	{
+		"DockUID": "TPE500119078_03",
+		"DockID": "03",
+		"StationUID": "TPE500119078",
+		"Bike": "A01460"
+	},
+	{
+		"DockUID": "TPE500119078_04",
+		"DockID": "04",
+		"StationUID": "TPE500119078",
+		"Bike": "A01215"
+	},
+	{
+		"DockUID": "TPE500119078_05",
+		"DockID": "05",
+		"StationUID": "TPE500119078",
+		"Bike": "A03192"
+	},
+	{
+		"DockUID": "TPE500119078_06",
+		"DockID": "06",
+		"StationUID": "TPE500119078",
+		"Bike": "A02853"
+	},
+	{
+		"DockUID": "TPE500119078_07",
+		"DockID": "07",
+		"StationUID": "TPE500119078",
+		"Bike": "A00565"
+	},
+	{
+		"DockUID": "TPE500119078_08",
+		"DockID": "08",
+		"StationUID": "TPE500119078",
+		"Bike": "A00347"
+	},
+	{
+		"DockUID": "TPE500119078_09",
+		"DockID": "09",
+		"StationUID": "TPE500119078",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119078_10",
+		"DockID": "10",
+		"StationUID": "TPE500119078",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_01",
+		"DockID": "01",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_02",
+		"DockID": "02",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_03",
+		"DockID": "03",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_04",
+		"DockID": "04",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_05",
+		"DockID": "05",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_06",
+		"DockID": "06",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_07",
+		"DockID": "07",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_08",
+		"DockID": "08",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_09",
+		"DockID": "09",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_10",
+		"DockID": "10",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_11",
+		"DockID": "11",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_12",
+		"DockID": "12",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_13",
+		"DockID": "13",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_14",
+		"DockID": "14",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_15",
+		"DockID": "15",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_16",
+		"DockID": "16",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_17",
+		"DockID": "17",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_18",
+		"DockID": "18",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119079_19",
+		"DockID": "19",
+		"StationUID": "TPE500119079",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119080_01",
+		"DockID": "01",
+		"StationUID": "TPE500119080",
+		"Bike": "A02022"
+	},
+	{
+		"DockUID": "TPE500119080_02",
+		"DockID": "02",
+		"StationUID": "TPE500119080",
+		"Bike": "A03494"
+	},
+	{
+		"DockUID": "TPE500119080_03",
+		"DockID": "03",
+		"StationUID": "TPE500119080",
+		"Bike": "A00823"
+	},
+	{
+		"DockUID": "TPE500119080_04",
+		"DockID": "04",
+		"StationUID": "TPE500119080",
+		"Bike": "A02475"
+	},
+	{
+		"DockUID": "TPE500119080_05",
+		"DockID": "05",
+		"StationUID": "TPE500119080",
+		"Bike": "A00266"
+	},
+	{
+		"DockUID": "TPE500119080_06",
+		"DockID": "06",
+		"StationUID": "TPE500119080",
+		"Bike": "A00251"
+	},
+	{
+		"DockUID": "TPE500119080_07",
+		"DockID": "07",
+		"StationUID": "TPE500119080",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119080_08",
+		"DockID": "08",
+		"StationUID": "TPE500119080",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119080_09",
+		"DockID": "09",
+		"StationUID": "TPE500119080",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119080_10",
+		"DockID": "10",
+		"StationUID": "TPE500119080",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119081_01",
+		"DockID": "01",
+		"StationUID": "TPE500119081",
+		"Bike": "A00872"
+	},
+	{
+		"DockUID": "TPE500119081_02",
+		"DockID": "02",
+		"StationUID": "TPE500119081",
+		"Bike": "A00798"
+	},
+	{
+		"DockUID": "TPE500119081_03",
+		"DockID": "03",
+		"StationUID": "TPE500119081",
+		"Bike": "A00739"
+	},
+	{
+		"DockUID": "TPE500119081_04",
+		"DockID": "04",
+		"StationUID": "TPE500119081",
+		"Bike": "A00389"
+	},
+	{
+		"DockUID": "TPE500119081_05",
+		"DockID": "05",
+		"StationUID": "TPE500119081",
+		"Bike": "A02322"
+	},
+	{
+		"DockUID": "TPE500119081_06",
+		"DockID": "06",
+		"StationUID": "TPE500119081",
+		"Bike": "A00170"
+	},
+	{
+		"DockUID": "TPE500119081_07",
+		"DockID": "07",
+		"StationUID": "TPE500119081",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119081_08",
+		"DockID": "08",
+		"StationUID": "TPE500119081",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119081_09",
+		"DockID": "09",
+		"StationUID": "TPE500119081",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119081_10",
+		"DockID": "10",
+		"StationUID": "TPE500119081",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119081_11",
+		"DockID": "11",
+		"StationUID": "TPE500119081",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_01",
+		"DockID": "01",
+		"StationUID": "TPE500119082",
+		"Bike": "A01679"
+	},
+	{
+		"DockUID": "TPE500119082_02",
+		"DockID": "02",
+		"StationUID": "TPE500119082",
+		"Bike": "A03497"
+	},
+	{
+		"DockUID": "TPE500119082_03",
+		"DockID": "03",
+		"StationUID": "TPE500119082",
+		"Bike": "A01257"
+	},
+	{
+		"DockUID": "TPE500119082_04",
+		"DockID": "04",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_05",
+		"DockID": "05",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_06",
+		"DockID": "06",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_07",
+		"DockID": "07",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_08",
+		"DockID": "08",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_09",
+		"DockID": "09",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119082_10",
+		"DockID": "10",
+		"StationUID": "TPE500119082",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_01",
+		"DockID": "01",
+		"StationUID": "TPE500119083",
+		"Bike": "F03342"
+	},
+	{
+		"DockUID": "TPE500119083_02",
+		"DockID": "02",
+		"StationUID": "TPE500119083",
+		"Bike": "A01487"
+	},
+	{
+		"DockUID": "TPE500119083_03",
+		"DockID": "03",
+		"StationUID": "TPE500119083",
+		"Bike": "A01315"
+	},
+	{
+		"DockUID": "TPE500119083_04",
+		"DockID": "04",
+		"StationUID": "TPE500119083",
+		"Bike": "A02164"
+	},
+	{
+		"DockUID": "TPE500119083_05",
+		"DockID": "05",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_06",
+		"DockID": "06",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_07",
+		"DockID": "07",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_08",
+		"DockID": "08",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_09",
+		"DockID": "09",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_10",
+		"DockID": "10",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_11",
+		"DockID": "11",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_12",
+		"DockID": "12",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_13",
+		"DockID": "13",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_14",
+		"DockID": "14",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_15",
+		"DockID": "15",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_16",
+		"DockID": "16",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_17",
+		"DockID": "17",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119083_18",
+		"DockID": "18",
+		"StationUID": "TPE500119083",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119084_01",
+		"DockID": "01",
+		"StationUID": "TPE500119084",
+		"Bike": "A01972"
+	},
+	{
+		"DockUID": "TPE500119084_02",
+		"DockID": "02",
+		"StationUID": "TPE500119084",
+		"Bike": "A03816"
+	},
+	{
+		"DockUID": "TPE500119084_03",
+		"DockID": "03",
+		"StationUID": "TPE500119084",
+		"Bike": "A03682"
+	},
+	{
+		"DockUID": "TPE500119084_04",
+		"DockID": "04",
+		"StationUID": "TPE500119084",
+		"Bike": "A03467"
+	},
+	{
+		"DockUID": "TPE500119084_05",
+		"DockID": "05",
+		"StationUID": "TPE500119084",
+		"Bike": "A01337"
+	},
+	{
+		"DockUID": "TPE500119084_06",
+		"DockID": "06",
+		"StationUID": "TPE500119084",
+		"Bike": "A03237"
+	},
+	{
+		"DockUID": "TPE500119084_07",
+		"DockID": "07",
+		"StationUID": "TPE500119084",
+		"Bike": "A00979"
+	},
+	{
+		"DockUID": "TPE500119084_08",
+		"DockID": "08",
+		"StationUID": "TPE500119084",
+		"Bike": "A02632"
+	},
+	{
+		"DockUID": "TPE500119084_09",
+		"DockID": "09",
+		"StationUID": "TPE500119084",
+		"Bike": "A00414"
+	},
+	{
+		"DockUID": "TPE500119084_10",
+		"DockID": "10",
+		"StationUID": "TPE500119084",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119085_01",
+		"DockID": "01",
+		"StationUID": "TPE500119085",
+		"Bike": "A03969"
+	},
+	{
+		"DockUID": "TPE500119085_02",
+		"DockID": "02",
+		"StationUID": "TPE500119085",
+		"Bike": "A03905"
+	},
+	{
+		"DockUID": "TPE500119085_03",
+		"DockID": "03",
+		"StationUID": "TPE500119085",
+		"Bike": "A01708"
+	},
+	{
+		"DockUID": "TPE500119085_04",
+		"DockID": "04",
+		"StationUID": "TPE500119085",
+		"Bike": "A03593"
+	},
+	{
+		"DockUID": "TPE500119085_05",
+		"DockID": "05",
+		"StationUID": "TPE500119085",
+		"Bike": "A01378"
+	},
+	{
+		"DockUID": "TPE500119085_06",
+		"DockID": "06",
+		"StationUID": "TPE500119085",
+		"Bike": "A03420"
+	},
+	{
+		"DockUID": "TPE500119085_07",
+		"DockID": "07",
+		"StationUID": "TPE500119085",
+		"Bike": "A03115"
+	},
+	{
+		"DockUID": "TPE500119085_08",
+		"DockID": "08",
+		"StationUID": "TPE500119085",
+		"Bike": "A03097"
+	},
+	{
+		"DockUID": "TPE500119085_09",
+		"DockID": "09",
+		"StationUID": "TPE500119085",
+		"Bike": "A00943"
+	},
+	{
+		"DockUID": "TPE500119085_10",
+		"DockID": "10",
+		"StationUID": "TPE500119085",
+		"Bike": "A02962"
+	},
+	{
+		"DockUID": "TPE500119085_11",
+		"DockID": "11",
+		"StationUID": "TPE500119085",
+		"Bike": "A00845"
+	},
+	{
+		"DockUID": "TPE500119085_12",
+		"DockID": "12",
+		"StationUID": "TPE500119085",
+		"Bike": "A02597"
+	},
+	{
+		"DockUID": "TPE500119085_13",
+		"DockID": "13",
+		"StationUID": "TPE500119085",
+		"Bike": "A00413"
+	},
+	{
+		"DockUID": "TPE500119085_14",
+		"DockID": "14",
+		"StationUID": "TPE500119085",
+		"Bike": "A02348"
+	},
+	{
+		"DockUID": "TPE500119086_01",
+		"DockID": "01",
+		"StationUID": "TPE500119086",
+		"Bike": "A01363"
+	},
+	{
+		"DockUID": "TPE500119086_02",
+		"DockID": "02",
+		"StationUID": "TPE500119086",
+		"Bike": "A01181"
+	},
+	{
+		"DockUID": "TPE500119086_03",
+		"DockID": "03",
+		"StationUID": "TPE500119086",
+		"Bike": "A02700"
+	},
+	{
+		"DockUID": "TPE500119086_04",
+		"DockID": "04",
+		"StationUID": "TPE500119086",
+		"Bike": "A02558"
+	},
+	{
+		"DockUID": "TPE500119086_05",
+		"DockID": "05",
+		"StationUID": "TPE500119086",
+		"Bike": "A02402"
+	},
+	{
+		"DockUID": "TPE500119086_06",
+		"DockID": "06",
+		"StationUID": "TPE500119086",
+		"Bike": "A02280"
+	},
+	{
+		"DockUID": "TPE500119086_07",
+		"DockID": "07",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_08",
+		"DockID": "08",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_09",
+		"DockID": "09",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_10",
+		"DockID": "10",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_11",
+		"DockID": "11",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_12",
+		"DockID": "12",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_13",
+		"DockID": "13",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_14",
+		"DockID": "14",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_15",
+		"DockID": "15",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_16",
+		"DockID": "16",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_17",
+		"DockID": "17",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_18",
+		"DockID": "18",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_19",
+		"DockID": "19",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_20",
+		"DockID": "20",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_21",
+		"DockID": "21",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_22",
+		"DockID": "22",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_23",
+		"DockID": "23",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_24",
+		"DockID": "24",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119086_25",
+		"DockID": "25",
+		"StationUID": "TPE500119086",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_01",
+		"DockID": "01",
+		"StationUID": "TPE500119087",
+		"Bike": "A01811"
+	},
+	{
+		"DockUID": "TPE500119087_02",
+		"DockID": "02",
+		"StationUID": "TPE500119087",
+		"Bike": "A01807"
+	},
+	{
+		"DockUID": "TPE500119087_03",
+		"DockID": "03",
+		"StationUID": "TPE500119087",
+		"Bike": "A03797"
+	},
+	{
+		"DockUID": "TPE500119087_04",
+		"DockID": "04",
+		"StationUID": "TPE500119087",
+		"Bike": "A01622"
+	},
+	{
+		"DockUID": "TPE500119087_05",
+		"DockID": "05",
+		"StationUID": "TPE500119087",
+		"Bike": "A01384"
+	},
+	{
+		"DockUID": "TPE500119087_06",
+		"DockID": "06",
+		"StationUID": "TPE500119087",
+		"Bike": "A01035"
+	},
+	{
+		"DockUID": "TPE500119087_07",
+		"DockID": "07",
+		"StationUID": "TPE500119087",
+		"Bike": "A00808"
+	},
+	{
+		"DockUID": "TPE500119087_08",
+		"DockID": "08",
+		"StationUID": "TPE500119087",
+		"Bike": "A02805"
+	},
+	{
+		"DockUID": "TPE500119087_09",
+		"DockID": "09",
+		"StationUID": "TPE500119087",
+		"Bike": "A02496"
+	},
+	{
+		"DockUID": "TPE500119087_10",
+		"DockID": "10",
+		"StationUID": "TPE500119087",
+		"Bike": "A02377"
+	},
+	{
+		"DockUID": "TPE500119087_11",
+		"DockID": "11",
+		"StationUID": "TPE500119087",
+		"Bike": "A00058"
+	},
+	{
+		"DockUID": "TPE500119087_12",
+		"DockID": "12",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_13",
+		"DockID": "13",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_14",
+		"DockID": "14",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_15",
+		"DockID": "15",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_16",
+		"DockID": "16",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_17",
+		"DockID": "17",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_18",
+		"DockID": "18",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_19",
+		"DockID": "19",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_20",
+		"DockID": "20",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_21",
+		"DockID": "21",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_22",
+		"DockID": "22",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_23",
+		"DockID": "23",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_24",
+		"DockID": "24",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_25",
+		"DockID": "25",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_26",
+		"DockID": "26",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_27",
+		"DockID": "27",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_28",
+		"DockID": "28",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_29",
+		"DockID": "29",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119087_30",
+		"DockID": "30",
+		"StationUID": "TPE500119087",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_01",
+		"DockID": "01",
+		"StationUID": "TPE500119088",
+		"Bike": "A01640"
+	},
+	{
+		"DockUID": "TPE500119088_02",
+		"DockID": "02",
+		"StationUID": "TPE500119088",
+		"Bike": "A01595"
+	},
+	{
+		"DockUID": "TPE500119088_03",
+		"DockID": "03",
+		"StationUID": "TPE500119088",
+		"Bike": "A01165"
+	},
+	{
+		"DockUID": "TPE500119088_04",
+		"DockID": "04",
+		"StationUID": "TPE500119088",
+		"Bike": "A00953"
+	},
+	{
+		"DockUID": "TPE500119088_05",
+		"DockID": "05",
+		"StationUID": "TPE500119088",
+		"Bike": "A00890"
+	},
+	{
+		"DockUID": "TPE500119088_06",
+		"DockID": "06",
+		"StationUID": "TPE500119088",
+		"Bike": "A00786"
+	},
+	{
+		"DockUID": "TPE500119088_07",
+		"DockID": "07",
+		"StationUID": "TPE500119088",
+		"Bike": "A00675"
+	},
+	{
+		"DockUID": "TPE500119088_08",
+		"DockID": "08",
+		"StationUID": "TPE500119088",
+		"Bike": "A02294"
+	},
+	{
+		"DockUID": "TPE500119088_09",
+		"DockID": "09",
+		"StationUID": "TPE500119088",
+		"Bike": "A00231"
+	},
+	{
+		"DockUID": "TPE500119088_10",
+		"DockID": "10",
+		"StationUID": "TPE500119088",
+		"Bike": "A00156"
+	},
+	{
+		"DockUID": "TPE500119088_11",
+		"DockID": "11",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_12",
+		"DockID": "12",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_13",
+		"DockID": "13",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_14",
+		"DockID": "14",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_15",
+		"DockID": "15",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_16",
+		"DockID": "16",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_17",
+		"DockID": "17",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_18",
+		"DockID": "18",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_19",
+		"DockID": "19",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119088_20",
+		"DockID": "20",
+		"StationUID": "TPE500119088",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_01",
+		"DockID": "01",
+		"StationUID": "TPE500119089",
+		"Bike": "A02012"
+	},
+	{
+		"DockUID": "TPE500119089_02",
+		"DockID": "02",
+		"StationUID": "TPE500119089",
+		"Bike": "A03765"
+	},
+	{
+		"DockUID": "TPE500119089_03",
+		"DockID": "03",
+		"StationUID": "TPE500119089",
+		"Bike": "A01697"
+	},
+	{
+		"DockUID": "TPE500119089_04",
+		"DockID": "04",
+		"StationUID": "TPE500119089",
+		"Bike": "A01234"
+	},
+	{
+		"DockUID": "TPE500119089_05",
+		"DockID": "05",
+		"StationUID": "TPE500119089",
+		"Bike": "A03104"
+	},
+	{
+		"DockUID": "TPE500119089_06",
+		"DockID": "06",
+		"StationUID": "TPE500119089",
+		"Bike": "A00691"
+	},
+	{
+		"DockUID": "TPE500119089_07",
+		"DockID": "07",
+		"StationUID": "TPE500119089",
+		"Bike": "A02557"
+	},
+	{
+		"DockUID": "TPE500119089_08",
+		"DockID": "08",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_09",
+		"DockID": "09",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_10",
+		"DockID": "10",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_11",
+		"DockID": "11",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_12",
+		"DockID": "12",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_13",
+		"DockID": "13",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_14",
+		"DockID": "14",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_15",
+		"DockID": "15",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_16",
+		"DockID": "16",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_17",
+		"DockID": "17",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_18",
+		"DockID": "18",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_19",
+		"DockID": "19",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_20",
+		"DockID": "20",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_21",
+		"DockID": "21",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_22",
+		"DockID": "22",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_23",
+		"DockID": "23",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119089_24",
+		"DockID": "24",
+		"StationUID": "TPE500119089",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_01",
+		"DockID": "01",
+		"StationUID": "TPE500119090",
+		"Bike": "A03944"
+	},
+	{
+		"DockUID": "TPE500119090_02",
+		"DockID": "02",
+		"StationUID": "TPE500119090",
+		"Bike": "A01275"
+	},
+	{
+		"DockUID": "TPE500119090_03",
+		"DockID": "03",
+		"StationUID": "TPE500119090",
+		"Bike": "A03068"
+	},
+	{
+		"DockUID": "TPE500119090_04",
+		"DockID": "04",
+		"StationUID": "TPE500119090",
+		"Bike": "A02575"
+	},
+	{
+		"DockUID": "TPE500119090_05",
+		"DockID": "05",
+		"StationUID": "TPE500119090",
+		"Bike": "A00480"
+	},
+	{
+		"DockUID": "TPE500119090_06",
+		"DockID": "06",
+		"StationUID": "TPE500119090",
+		"Bike": "A02309"
+	},
+	{
+		"DockUID": "TPE500119090_07",
+		"DockID": "07",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_08",
+		"DockID": "08",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_09",
+		"DockID": "09",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_10",
+		"DockID": "10",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_11",
+		"DockID": "11",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_12",
+		"DockID": "12",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_13",
+		"DockID": "13",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_14",
+		"DockID": "14",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_15",
+		"DockID": "15",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_16",
+		"DockID": "16",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_17",
+		"DockID": "17",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_18",
+		"DockID": "18",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_19",
+		"DockID": "19",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_20",
+		"DockID": "20",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_21",
+		"DockID": "21",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_22",
+		"DockID": "22",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_23",
+		"DockID": "23",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_24",
+		"DockID": "24",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_25",
+		"DockID": "25",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_26",
+		"DockID": "26",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_27",
+		"DockID": "27",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_28",
+		"DockID": "28",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_29",
+		"DockID": "29",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_30",
+		"DockID": "30",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_31",
+		"DockID": "31",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_32",
+		"DockID": "32",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_33",
+		"DockID": "33",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_34",
+		"DockID": "34",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_35",
+		"DockID": "35",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_36",
+		"DockID": "36",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_37",
+		"DockID": "37",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_38",
+		"DockID": "38",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_39",
+		"DockID": "39",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119090_40",
+		"DockID": "40",
+		"StationUID": "TPE500119090",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_01",
+		"DockID": "01",
+		"StationUID": "TPE500119091",
+		"Bike": "A03857"
+	},
+	{
+		"DockUID": "TPE500119091_02",
+		"DockID": "02",
+		"StationUID": "TPE500119091",
+		"Bike": "A03770"
+	},
+	{
+		"DockUID": "TPE500119091_03",
+		"DockID": "03",
+		"StationUID": "TPE500119091",
+		"Bike": "A03713"
+	},
+	{
+		"DockUID": "TPE500119091_04",
+		"DockID": "04",
+		"StationUID": "TPE500119091",
+		"Bike": "A01255"
+	},
+	{
+		"DockUID": "TPE500119091_05",
+		"DockID": "05",
+		"StationUID": "TPE500119091",
+		"Bike": "A03130"
+	},
+	{
+		"DockUID": "TPE500119091_06",
+		"DockID": "06",
+		"StationUID": "TPE500119091",
+		"Bike": "A01026"
+	},
+	{
+		"DockUID": "TPE500119091_07",
+		"DockID": "07",
+		"StationUID": "TPE500119091",
+		"Bike": "A02641"
+	},
+	{
+		"DockUID": "TPE500119091_08",
+		"DockID": "08",
+		"StationUID": "TPE500119091",
+		"Bike": "A00511"
+	},
+	{
+		"DockUID": "TPE500119091_09",
+		"DockID": "09",
+		"StationUID": "TPE500119091",
+		"Bike": "A02555"
+	},
+	{
+		"DockUID": "TPE500119091_10",
+		"DockID": "10",
+		"StationUID": "TPE500119091",
+		"Bike": "A02373"
+	},
+	{
+		"DockUID": "TPE500119091_11",
+		"DockID": "11",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_12",
+		"DockID": "12",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_13",
+		"DockID": "13",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_14",
+		"DockID": "14",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_15",
+		"DockID": "15",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_16",
+		"DockID": "16",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_17",
+		"DockID": "17",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	},
+	{
+		"DockUID": "TPE500119091_18",
+		"DockID": "18",
+		"StationUID": "TPE500119091",
+		"Bike": ""
+	}
+]

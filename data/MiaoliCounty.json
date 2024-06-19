@@ -1,0 +1,287 @@
+[
+	{
+		"StationUID": "MIA500705001",
+		"StationID": "500705001",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍鳳漁港",
+			"En": "YouBike2.0_Long Fong Fishing Port"
+		},
+		"StationPosition": {
+			"PositionLon": 120.85963,
+			"PositionLat": 24.70028,
+			"GeoHash": "wsmuw0x39"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍江街/龍江街359巷口(東南側)",
+			"En": "Longjiang St. & Ln. 359, Longjiang St. Intersection (Southeast)"
+		},
+		"BikesCapacity": 21
+	},
+	{
+		"StationUID": "MIA500705002",
+		"StationID": "500705002",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍山佳北二街口(停車場)",
+			"En": "YouBike2.0_Longshan Rd./Jiabei 2nd St.(Parking Lot)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.88081,
+			"PositionLat": 24.70249,
+			"GeoHash": "wsmuw8ywr"
+		},
+		"StationAddress": {
+			"Zh_tw": "佳北二街1號(東側)",
+			"En": "No.1, Jiabei 3rd St. (East)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "MIA500705003",
+		"StationID": "500705003",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_公義科專六路口(大同高中)",
+			"En": "YouBike2.0_Gongyi Rd./ Kezhuan 6th Rd.(Datong Senior High School)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.89664,
+			"PositionLat": 24.70897,
+			"GeoHash": "wsmux44hp"
+		},
+		"StationAddress": {
+			"Zh_tw": "公義路936號前",
+			"En": "No.936, Gongyi Rd."
+		},
+		"BikesCapacity": 6
+	},
+	{
+		"StationUID": "MIA500705004",
+		"StationID": "500705004",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國家衛生研究院",
+			"En": "YouBike2.0_National Health Research Institutes"
+		},
+		"StationPosition": {
+			"PositionLon": 120.91475,
+			"PositionLat": 24.70695,
+			"GeoHash": "wsmux3z2m"
+		},
+		"StationAddress": {
+			"Zh_tw": "科研路35號(二號出口旁人行道)",
+			"En": "No.35, Keyan Rd. (Exit 2)"
+		},
+		"BikesCapacity": 6
+	},
+	{
+		"StationUID": "MIA500709005",
+		"StationID": "500709005",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_清海宮",
+			"En": "YouBike2.0_Ching Hai Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 120.7233,
+			"PositionLat": 24.5989,
+			"GeoHash": "wsmggnh4b"
+		},
+		"StationAddress": {
+			"Zh_tw": "南港里14鄰114-1號",
+			"En": "No. 114-1, Nangang."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "MIA500710001",
+		"StationID": "500710001",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_苑裡火車站",
+			"En": "YouBike2.0_TRA Yuanli Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.651536,
+			"PositionLat": 24.44325,
+			"GeoHash": "wsmg13zb2"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路165 號(東北側)",
+			"En": "No. 165, Zhongshan Rd.(northeast)"
+		},
+		"BikesCapacity": 76
+	},
+	{
+		"StationUID": "MIA500710002",
+		"StationID": "500710002",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國立苑裡高中",
+			"En": "YouBike2.0_National Yuanli Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.65606,
+			"PositionLat": 24.44814,
+			"GeoHash": "wsmg1deh9"
+		},
+		"StationAddress": {
+			"Zh_tw": "育才街103號(西側)",
+			"En": "No.103, Yucai St."
+		},
+		"BikesCapacity": 34
+	},
+	{
+		"StationUID": "MIA500710003",
+		"StationID": "500710003",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_苑裡鎮立圖書館",
+			"En": "YouBike2.0_Yuanli Township Public Library"
+		},
+		"StationPosition": {
+			"PositionLon": 120.65296,
+			"PositionLat": 24.43932,
+			"GeoHash": "wsmg190c3"
+		},
+		"StationAddress": {
+			"Zh_tw": "公民街16號(東南側)",
+			"En": "No.16, Gongmin St. (Southeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "MIA500710004",
+		"StationID": "500710004",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_苑裡體育場",
+			"En": "YouBike2.0_Yuanli Stadium"
+		},
+		"StationPosition": {
+			"PositionLon": 120.65504,
+			"PositionLat": 24.43749,
+			"GeoHash": "wsmg18dqd"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路一段32號(北側)",
+			"En": "No.32, Sec. 1, Zhongzheng Rd. (North)"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "MIA500710005",
+		"StationID": "500710005",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_山腳國小",
+			"En": "YouBike2.0_Shanjiao Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.68589,
+			"PositionLat": 24.41664,
+			"GeoHash": "wsmffkbv1"
+		},
+		"StationAddress": {
+			"Zh_tw": "山腳里14鄰378號(西側)",
+			"En": "No.378, 14th Shanjiao Vil. (West)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "MIA500713001",
+		"StationID": "500713001",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_通霄鎮公所",
+			"En": "YouBike2.0_Tungshiau Township Office"
+		},
+		"StationPosition": {
+			"PositionLon": 120.6845,
+			"PositionLat": 24.4913,
+			"GeoHash": "wsmg64xb0"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路8號(南側)",
+			"En": "No. 8, Zhongzheng Rd.(South)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "MIA500713002",
+		"StationID": "500713002",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_通霄火車站",
+			"En": "YouBike2.0_TRA Tongxiao Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.6786,
+			"PositionLat": 24.4914,
+			"GeoHash": "wsmg64e2x"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路109號旁(北側)",
+			"En": "No. 109, Zhongshan Rd.(North)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "MIA500713003",
+		"StationID": "500713003",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺鹽通霄觀光園區",
+			"En": "YouBike2.0_Taiyen Tung-Hsiao Tourism Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.7043,
+			"PositionLat": 24.5564,
+			"GeoHash": "wsmgdwq5q"
+		},
+		"StationAddress": {
+			"Zh_tw": "內島里122號",
+			"En": "No. 122, Neidao."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "MIA500713004",
+		"StationID": "500713004",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_白沙屯火車站",
+			"En": "YouBike2.0_TRA Baishatun Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.7083,
+			"PositionLat": 24.5647,
+			"GeoHash": "wsmgdzc5e"
+		},
+		"StationAddress": {
+			"Zh_tw": "白西123號對面(西側)",
+			"En": "No. 131, Baixi.(West)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "MIA500713005",
+		"StationID": "500713005",
+		"AuthorityID": "MIA",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_拱天宮",
+			"En": "YouBike2.0_Gong Tian Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 120.7106,
+			"PositionLat": 24.5721,
+			"GeoHash": "wsmgfc4yb"
+		},
+		"StationAddress": {
+			"Zh_tw": "白東里28-1號旁(北側)",
+			"En": "No. 28-1, Baidong.(North)"
+		},
+		"BikesCapacity": 28
+	}
+]

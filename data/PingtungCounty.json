@@ -1,0 +1,2358 @@
+[
+	{
+		"StationUID": "PIF501401001",
+		"StationID": "501401001",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東高中",
+			"En": "YouBike2.0_National Pingtung Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4887127,
+			"PositionLat": 22.68773177,
+			"GeoHash": "wsj9jf1jw"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣東路/忠孝路口(西南側)",
+			"En": "Guangdong Rd./Zhongxiao Rd.(Southwest)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "PIF501401002",
+		"StationID": "501401002",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_廣興公園(廣勝路)",
+			"En": "YouBike2.0_Guangxing Park (Guangsheng Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4873344,
+			"PositionLat": 22.69125533,
+			"GeoHash": "wsj9jfb4n"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣勝路/成功一巷口(公園入口)",
+			"En": "Guangsheng Rd./ Chenggong 1st Ln."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401003",
+		"StationID": "501401003",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_勝利星村停車場",
+			"En": "YouBike2.0_Victorystar in Pingtung Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4818145,
+			"PositionLat": 22.67878818,
+			"GeoHash": "wsj9j8s1t"
+		},
+		"StationAddress": {
+			"Zh_tw": "博愛路202號停車場內",
+			"En": "No.202, Bo'ai  Rd"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501401004",
+		"StationID": "501401004",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_崇蘭國小",
+			"En": "YouBike2.0_Chonglan Primary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4770433,
+			"PositionLat": 22.68484341,
+			"GeoHash": "wsj9j98sy"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣東路/崇明二街口",
+			"En": "Guangdong Rd./Chongming 2nd St.,"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "PIF501401005",
+		"StationID": "501401005",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_崇蘭環保公園(廣東路)",
+			"En": "YouBike2.0_Chonglan Environmental Protection Park (Guangdong Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4797714,
+			"PositionLat": 22.68722447,
+			"GeoHash": "wsj9jd4dw"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣東路1340號對側",
+			"En": "No.1340,Guangdong Rd.(Opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401006",
+		"StationID": "501401006",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_信義路立體停車場",
+			"En": "YouBike2.0_Xinyi Road Parking Garage"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4885925,
+			"PositionLat": 22.67575007,
+			"GeoHash": "wsj8vzcpg"
+		},
+		"StationAddress": {
+			"Zh_tw": "北平路26號對側",
+			"En": "No.26, Beiping Rd.(Opposite)"
+		},
+		"BikesCapacity": 23
+	},
+	{
+		"StationUID": "PIF501401007",
+		"StationID": "501401007",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東公園中華路停車場",
+			"En": "YouBike2.0_Pingtung Park Zhonghua Road Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4911726,
+			"PositionLat": 22.67595882,
+			"GeoHash": "wsj9jb4cp"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路/開封街口",
+			"En": "Zhonghua Rd./Kaifeng St."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401008",
+		"StationID": "501401008",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東公園仁愛路停車場",
+			"En": "YouBike2.0_Pingtung Park Ren'ai Road Parking Garage"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4941125,
+			"PositionLat": 22.67669929,
+			"GeoHash": "wsj9jbjjk"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁愛路98號對側",
+			"En": "No.98, Ren'ai Rd.(Opposite)"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "PIF501401009",
+		"StationID": "501401009",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_幸福公園",
+			"En": "YouBike2.0_Singfu Park Parking Garage"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4919051,
+			"PositionLat": 22.67852491,
+			"GeoHash": "wsj9jb7xb"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路/勝利路口(西南側)",
+			"En": "Zhonghua Rd./Shengli Rd.(Southwest)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401010",
+		"StationID": "501401010",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東市極限運動場",
+			"En": "YouBike2.0_Pingtung City Sport Field"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4847597,
+			"PositionLat": 22.67687738,
+			"GeoHash": "wsj9j8nq6"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路73號旁公園",
+			"En": "No.73, Zhongshan Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501401011",
+		"StationID": "501401011",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東縣政府",
+			"En": "YouBike2.0_Pingtung  County  Government"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4889218,
+			"PositionLat": 22.6834319,
+			"GeoHash": "wsj9jc3ke"
+		},
+		"StationAddress": {
+			"Zh_tw": "自由路/忠孝路口(西南側)",
+			"En": "Ziyou Rd./Zhongxiao Rd.(Southwest)"
+		},
+		"BikesCapacity": 41
+	},
+	{
+		"StationUID": "PIF501401012",
+		"StationID": "501401012",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_勞動暨青年發展處(自由路西段)",
+			"En": "YouBike2.0_Labor and Youth Development Department (Sec. W., Ziyou Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4843156,
+			"PositionLat": 22.66631583,
+			"GeoHash": "wsj8vwq0b"
+		},
+		"StationAddress": {
+			"Zh_tw": "自由路西段/建華三街口",
+			"En": "W. Sec., Zihyou Rd./Jianhua 3rd St."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401013",
+		"StationID": "501401013",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東車站",
+			"En": "YouBike2.0_Pingtung Station, TRA"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4874209,
+			"PositionLat": 22.66921993,
+			"GeoHash": "wsj8vyb3b"
+		},
+		"StationAddress": {
+			"Zh_tw": "光復路/南昌街口(南側)",
+			"En": "Guangfu Rd./Nanchang St.(South)"
+		},
+		"BikesCapacity": 94
+	},
+	{
+		"StationUID": "PIF501401014",
+		"StationID": "501401014",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東玉皇宮(自立路)",
+			"En": "YouBike2.0_Pingtung Yuhuang Temple (Zili Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4924628,
+			"PositionLat": 22.66628572,
+			"GeoHash": "wsj8vy7bt"
+		},
+		"StationAddress": {
+			"Zh_tw": "自立路165號對側",
+			"En": "No.165, Zili Rd.(Opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401015",
+		"StationID": "501401015",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東榮民總醫院",
+			"En": "YouBike2.0_Pingtung Veterans General Hospital"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4760297,
+			"PositionLat": 22.66221034,
+			"GeoHash": "wsj8vmxby"
+		},
+		"StationAddress": {
+			"Zh_tw": "榮總東路(榮總正門車道南側人行道)",
+			"En": "Rongzong East Rd.(South)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501401016",
+		"StationID": "501401016",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東轉運站",
+			"En": "YouBike2.0_Pingtung Bus Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4847329,
+			"PositionLat": 22.66948075,
+			"GeoHash": "wsj8vwy73"
+		},
+		"StationAddress": {
+			"Zh_tw": "重慶路/光復路口(東南側)",
+			"En": "Chongqing Rd./Guangfu Rd.(Southeast)"
+		},
+		"BikesCapacity": 56
+	},
+	{
+		"StationUID": "PIF501401017",
+		"StationID": "501401017",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東公園",
+			"En": "YouBike2.0_Pingtung Park(Gongyuan Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4930977,
+			"PositionLat": 22.67365796,
+			"GeoHash": "wsj8vzs7s"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路19號對側",
+			"En": "No.19, Gongyuan Rd.(Opposite)"
+		},
+		"BikesCapacity": 75
+	},
+	{
+		"StationUID": "PIF501401018",
+		"StationID": "501401018",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_萬倉民權路口(西南側)",
+			"En": "YouBike2.0_Wancang Minquan Rd. Intersection(Southwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49052,
+			"PositionLat": 22.66856,
+			"GeoHash": "wsj8vydtb"
+		},
+		"StationAddress": {
+			"Zh_tw": "民權路1號對側",
+			"En": "No.19, Minquan Rd."
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "PIF501401019",
+		"StationID": "501401019",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東高工(萬年公園)",
+			"En": "YouBike2.0_National Pingtung Industrial Vocational High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48654,
+			"PositionLat": 22.66343,
+			"GeoHash": "wsj8vtz85"
+		},
+		"StationAddress": {
+			"Zh_tw": "建國路25號",
+			"En": "No.25, Jianxing Rd."
+		},
+		"BikesCapacity": 64
+	},
+	{
+		"StationUID": "PIF501401020",
+		"StationID": "501401020",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_縣民公園機車停車場",
+			"En": "YouBike2.0_Pingtung County Park motorcycle parking lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4871,
+			"PositionLat": 22.65649,
+			"GeoHash": "wsj8vu2p8"
+		},
+		"StationAddress": {
+			"Zh_tw": "縣民公園機車停車場(復興路)",
+			"En": "Pingtung County Park motorcycle parking lot (Fuxing Rd.)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501401021",
+		"StationID": "501401021",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東縣環保局",
+			"En": "YouBike2.0_Environmental Protection Bureau, Pingtung County Government"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49477,
+			"PositionLat": 22.68843,
+			"GeoHash": "wsj9jfm9e"
+		},
+		"StationAddress": {
+			"Zh_tw": "北興街56號前",
+			"En": "No.56, Beixing St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "PIF501401022",
+		"StationID": "501401022",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_和平公園(東北側)",
+			"En": "YouBike2.0_Peace Park(Northeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50168,
+			"PositionLat": 22.68629,
+			"GeoHash": "wsj9n1fth"
+		},
+		"StationAddress": {
+			"Zh_tw": "華正路77號(西側公園)",
+			"En": "No.77, Huazheng Rd.(West)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501401023",
+		"StationID": "501401023",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大連廣東路口(南側)",
+			"En": "YouBike2.0_Dalian Guangdong Rd. Intersection (South)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50097,
+			"PositionLat": 22.68104,
+			"GeoHash": "wsj9n0fns"
+		},
+		"StationAddress": {
+			"Zh_tw": "大連路/廣東路口(南側公園)",
+			"En": "Dalian Rd./Guangdong Rd.(South)"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "PIF501401024",
+		"StationID": "501401024",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_陸興高中",
+			"En": "YouBike2.0_Pingtung County Lu Shing Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50072,
+			"PositionLat": 22.67407,
+			"GeoHash": "wsj8yp9yn"
+		},
+		"StationAddress": {
+			"Zh_tw": "民學路/廣東路口(民學路學校側門旁)",
+			"En": "Minxue Rd./Guangdong Rd.(School side door)"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "PIF501401025",
+		"StationID": "501401025",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大同高中(勝利大同北路口)",
+			"En": "YouBike2.0_Pingtung County Da Tung Senior High School (Shengli Datong N. Rd. Intersection)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4751,
+			"PositionLat": 22.67871,
+			"GeoHash": "wsj9j2x31"
+		},
+		"StationAddress": {
+			"Zh_tw": "勝利路/大同北路口",
+			"En": "Shengli Rd./Datong N. Rd. Intersection"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401026",
+		"StationID": "501401026",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大武榮總南路口",
+			"En": "YouBike2.0_Dawu Rongzong S. Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47309,
+			"PositionLat": 22.66056,
+			"GeoHash": "wsj8vmjz6"
+		},
+		"StationAddress": {
+			"Zh_tw": "大武路/榮總南路口(東南側)",
+			"En": "Dawu Rd./Rongzong S. Rd. Intersection(Southeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401027",
+		"StationID": "501401027",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東大學(民生校區)",
+			"En": "YouBike2.0_National Pingtung University Minsheng Campus"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50413,
+			"PositionLat": 22.66413,
+			"GeoHash": "wsj8yjukj"
+		},
+		"StationAddress": {
+			"Zh_tw": "民生路4-18號",
+			"En": "No. 4-18, Minsheng Rd."
+		},
+		"BikesCapacity": 59
+	},
+	{
+		"StationUID": "PIF501401028",
+		"StationID": "501401028",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東大學表演廳(西側)",
+			"En": "YouBike2.0_National Pingtung University Concert Hall (west)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50084,
+			"PositionLat": 22.67035,
+			"GeoHash": "wsj8yp403"
+		},
+		"StationAddress": {
+			"Zh_tw": "民教路/林森路口",
+			"En": "No. 2, Ruimin Rd."
+		},
+		"BikesCapacity": 47
+	},
+	{
+		"StationUID": "PIF501401029",
+		"StationID": "501401029",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東大學(屏商校區)",
+			"En": "YouBike2.0_National Pingtung University Pingshang Campus"
+		},
+		"StationPosition": {
+			"PositionLon": 120.51221,
+			"PositionLat": 22.6593,
+			"GeoHash": "wsj8ykfrf"
+		},
+		"StationAddress": {
+			"Zh_tw": "民生東路40號對側",
+			"En": "No. 40, Minsheng E. Rd.(Opposite)"
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "PIF501401030",
+		"StationID": "501401030",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_歸來車站",
+			"En": "YouBike2.0_Guilai Station, TRA"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50263,
+			"PositionLat": 22.6523,
+			"GeoHash": "wsj8y5er4"
+		},
+		"StationAddress": {
+			"Zh_tw": "歸仁路1巷(歸來車站2號月台下)",
+			"En": "Guiren 1st Ln.(Under platform 2 of Guilai Station)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "PIF501401031",
+		"StationID": "501401031",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_千禧公園(勝利東路)",
+			"En": "YouBike2.0_Millennium Park(Shengli E. Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50008,
+			"PositionLat": 22.67673,
+			"GeoHash": "wsj9n01mx"
+		},
+		"StationAddress": {
+			"Zh_tw": "勝利東路15號對側",
+			"En": "No. 15, Shengli E. Rd.(Opposite)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "PIF501401041",
+		"StationID": "501401041",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏菸1936文化基地立體停車場",
+			"En": "YouBike2.0_Pingtung 1936 Tobacco Culture Base Parking Garage"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50491,
+			"PositionLat": 22.66208,
+			"GeoHash": "wsj8yjsbp"
+		},
+		"StationAddress": {
+			"Zh_tw": "菸廠路1號前機車停車場",
+			"En": "No. 1, Yanchang Rd.(motorcycle parking lot)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401044",
+		"StationID": "501401044",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東東山河社區",
+			"En": "YouBike2.0_Pingtung Dongshanhe Community"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47129,
+			"PositionLat": 22.68747,
+			"GeoHash": "wsj9j6hs0"
+		},
+		"StationAddress": {
+			"Zh_tw": "機場北路/崇勝一街口(東南側)",
+			"En": "Jichang N. Rd./Chongming 1st St.(Southeast)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "PIF501401045",
+		"StationID": "501401045",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_仁愛公勤街口",
+			"En": "YouBike2.0_Ren'ai Gongqin St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49706,
+			"PositionLat": 22.68212,
+			"GeoHash": "wsj9jcpkc"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁愛路/公勤街口(南側)",
+			"En": "Ren'ai Rd./Gongqin St.(South)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501401046",
+		"StationID": "501401046",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東藝術館",
+			"En": "YouBike2.0_Pingtung Performing Arts Hall"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47776,
+			"PositionLat": 22.67686,
+			"GeoHash": "wsj9j81nr"
+		},
+		"StationAddress": {
+			"Zh_tw": "和平路427號",
+			"En": "No. 427, Heping Rd."
+		},
+		"BikesCapacity": 42
+	},
+	{
+		"StationUID": "PIF501401047",
+		"StationID": "501401047",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東總圖",
+			"En": "YouBike2.0_Pingtung County Library"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49777,
+			"PositionLat": 22.67879,
+			"GeoHash": "wsj9jbxc9"
+		},
+		"StationAddress": {
+			"Zh_tw": "自由路349-1號對側公園",
+			"En": "No. 349-1, Ziyou Rd.(Opposite Park)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "PIF501401048",
+		"StationID": "501401048",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東縣政府警察局(北側)",
+			"En": "YouBike2.0_Pingtung County Police Bureau (North)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4894,
+			"PositionLat": 22.67454,
+			"GeoHash": "wsj8vzc8y"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路/中正路口(西南側)",
+			"En": "Gongyuan Rd./Zhongzheng Rd.(Southwest)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "PIF501401049",
+		"StationID": "501401049",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東環球購物中心",
+			"En": "YouBike2.0_Pingtung Global Mall"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49366,
+			"PositionLat": 22.67337,
+			"GeoHash": "wsj8vzscc"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路/仁愛路口(東南側)",
+			"En": "Gongyuan Rd./Ren'ai Rd.(Southeast)"
+		},
+		"BikesCapacity": 29
+	},
+	{
+		"StationUID": "PIF501401050",
+		"StationID": "501401050",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_民學公園",
+			"En": "YouBike2.0_Minxue Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50288,
+			"PositionLat": 22.67342,
+			"GeoHash": "wsj8yped0"
+		},
+		"StationAddress": {
+			"Zh_tw": "民學路100號對側",
+			"En": "No. 100, Minxue Rd.(Opposite)"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "PIF501401051",
+		"StationID": "501401051",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_民生瑞民路口(演藝廳)",
+			"En": "YouBike2.0_Minsheng Ruimin Rd. Intersection (Performing Arts Center)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50641,
+			"PositionLat": 22.66282,
+			"GeoHash": "wsj8yjwh6"
+		},
+		"StationAddress": {
+			"Zh_tw": "瑞民路2號",
+			"En": "No. 2, Ruimin Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501401052",
+		"StationID": "501401052",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_台糖復興路口",
+			"En": "YouBike2.0_Taitang Fuxing Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48884,
+			"PositionLat": 22.66281,
+			"GeoHash": "wsj8vv9k3"
+		},
+		"StationAddress": {
+			"Zh_tw": "台糖街3號對側",
+			"En": "No. 3, Taitang St.(Opposite)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501401053",
+		"StationID": "501401053",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_永大共融公園",
+			"En": "YouBike2.0_Yongtai Community Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47776,
+			"PositionLat": 22.66042,
+			"GeoHash": "wsj8vt1nx"
+		},
+		"StationAddress": {
+			"Zh_tw": "永大路70號旁公園",
+			"En": "No. 70, Yongda Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501401054",
+		"StationID": "501401054",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_復興公園(自立南路)",
+			"En": "YouBike2.0_Fuxing Park (Zili S. Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4812,
+			"PositionLat": 22.65845,
+			"GeoHash": "wsj8vsgep"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興公園西南側停車場",
+			"En": "Fuxing Park (Southwest Parking Lot )"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501401059",
+		"StationID": "501401059",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中正國中(田寮巷)",
+			"En": "YouBike2.0_Chungcheng Junior High School (Tianliao Ln.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50896,
+			"PositionLat": 22.67363,
+			"GeoHash": "wsj8ypxgq"
+		},
+		"StationAddress": {
+			"Zh_tw": "田寮巷19之16號對側",
+			"En": "No. 19-16, Tianliao Ln.(Opposite)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501401060",
+		"StationID": "501401060",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_崇大新城",
+			"En": "YouBike2.0_Chongdaxincheng"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47878,
+			"PositionLat": 22.66276,
+			"GeoHash": "wsj8vt9up"
+		},
+		"StationAddress": {
+			"Zh_tw": "華盛街/華盛街18巷口",
+			"En": "Huasheng St./Ln. 18, Huasheng St."
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "PIF501401073",
+		"StationID": "501401073",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠孝公園(建豐路)",
+			"En": "YouBike2.0_Zhongxiao Park (Jianfeng Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50434,
+			"PositionLat": 22.67625,
+			"GeoHash": "wsj9n0hdd"
+		},
+		"StationAddress": {
+			"Zh_tw": "建豐路/高豐街(東北側)",
+			"En": "Jianfeng Rd./Gaofeng St.(Northeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401077",
+		"StationID": "501401077",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東市立復興圖書館",
+			"En": "YouBike2.0_Pingtung Municipal Fuxing Library"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48133,
+			"PositionLat": 22.6603,
+			"GeoHash": "wsj8vt5vf"
+		},
+		"StationAddress": {
+			"Zh_tw": "建南路162號",
+			"En": "No. 162, Jiannan Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401078",
+		"StationID": "501401078",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠孝路外停車場(成功南京路口)",
+			"En": "YouBike2.0_Zhongxiao Off-Street Parking Lot (Chenggong Nanjing Rd.Intersection)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48608,
+			"PositionLat": 22.67422,
+			"GeoHash": "wsj8vxxqc"
+		},
+		"StationAddress": {
+			"Zh_tw": "忠孝路119號",
+			"En": "No. 119, Zhongxiao Rd."
+		},
+		"BikesCapacity": 22
+	},
+	{
+		"StationUID": "PIF501401082",
+		"StationID": "501401082",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_信義國小",
+			"En": "YouBike2.0_Xin-Yi Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49127,
+			"PositionLat": 22.68488,
+			"GeoHash": "wsj9jcej4"
+		},
+		"StationAddress": {
+			"Zh_tw": "信義路262號",
+			"En": "No. 262, Xinyi Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401083",
+		"StationID": "501401083",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_至正國中",
+			"En": "YouBike2.0_Jyh Jeng Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49372,
+			"PositionLat": 22.69127,
+			"GeoHash": "wsj9jfuf5"
+		},
+		"StationAddress": {
+			"Zh_tw": "公裕街300號",
+			"En": "No. 300, Gongyu St."
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "PIF501401084",
+		"StationID": "501401084",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_永新公園(博愛路)",
+			"En": "YouBike2.0_Yong Xin Park(Bo'Ai Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48116,
+			"PositionLat": 22.6764,
+			"GeoHash": "wsj9j85ew"
+		},
+		"StationAddress": {
+			"Zh_tw": "博愛路169號左側",
+			"En": "No. 169, Bo'ai Rd.(Left)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401085",
+		"StationID": "501401085",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏大附小",
+			"En": "YouBike2.0_NPTUPS"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49834,
+			"PositionLat": 22.66874,
+			"GeoHash": "wsj8yn8ny"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣東路20號",
+			"En": "No. 20, Guangdong Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401088",
+		"StationID": "501401088",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_經濟部屏東產業園區服務中心",
+			"En": "YouBike2.0_Pingtung Industrial Park Service Center"
+		},
+		"StationPosition": {
+			"PositionLon": 120.49991,
+			"PositionLat": 22.66329,
+			"GeoHash": "wsj8yj9r5"
+		},
+		"StationAddress": {
+			"Zh_tw": "工業一路5號",
+			"En": "No. 5, Gongye 1st Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401090",
+		"StationID": "501401090",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_興豐公園",
+			"En": "YouBike2.0_Xingfeng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50879,
+			"PositionLat": 22.68126,
+			"GeoHash": "wsj9n0zzf"
+		},
+		"StationAddress": {
+			"Zh_tw": "興豐路/興豐路104巷(西南側)",
+			"En": "Xingfeng Rd./Ln. 104, Xingfeng Rd.(Southwest)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401104",
+		"StationID": "501401104",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_公館國小",
+			"En": "YouBike2.0_Pingtung County Gungguan Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48098,
+			"PositionLat": 22.63757,
+			"GeoHash": "wsj8v9596"
+		},
+		"StationAddress": {
+			"Zh_tw": "公華街/公成路(東南側)",
+			"En": "Gonghua St./Gongcheng Rd.(Southeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501401105",
+		"StationID": "501401105",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_公正國中",
+			"En": "YouBike2.0_Pingtung County Kung Cheng Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48402,
+			"PositionLat": 22.64092,
+			"GeoHash": "wsj8v9tuc"
+		},
+		"StationAddress": {
+			"Zh_tw": "公興路/公興路60巷(東北側)",
+			"En": "Gongxing Rd./Ln. 60, Gongxing Rd.(Northeast)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501401114",
+		"StationID": "501401114",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_崇朝一路口",
+			"En": "YouBike2.0_Chongchao 1st Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47507,
+			"PositionLat": 22.68768,
+			"GeoHash": "wsj9j6pm2"
+		},
+		"StationAddress": {
+			"Zh_tw": "崇朝一路158號對側",
+			"En": "No. 158, Chongchao 1st Rd.(Opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501401115",
+		"StationID": "501401115",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東地方法院",
+			"En": "YouBike2.0_Pingtung District Court"
+		},
+		"StationPosition": {
+			"PositionLon": 120.48356,
+			"PositionLat": 22.65695,
+			"GeoHash": "wsj8vst6q"
+		},
+		"StationAddress": {
+			"Zh_tw": "棒球路9號",
+			"En": "No. 9, Bangqiu Rd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501401116",
+		"StationID": "501401116",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_玉成社區活動中心",
+			"En": "YouBike2.0_Yucheng Community Center"
+		},
+		"StationPosition": {
+			"PositionLon": 120.4738,
+			"PositionLat": 22.63656,
+			"GeoHash": "wsj8v2y7e"
+		},
+		"StationAddress": {
+			"Zh_tw": "公興路621號",
+			"En": "No. 621, Gongxing Rd."
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "PIF501401118",
+		"StationID": "501401118",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東和平教會",
+			"En": "YouBike2.0_Pingtung Peace Church"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47922,
+			"PositionLat": 22.67143,
+			"GeoHash": "wsj8vx4q9"
+		},
+		"StationAddress": {
+			"Zh_tw": "民族路399號",
+			"En": "No. 399, Minzu Rd."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501401120",
+		"StationID": "501401120",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_海豐國小",
+			"En": "YouBike2.0_Hai Fong Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.50836,
+			"PositionLat": 22.69861,
+			"GeoHash": "wsj9nhpsb"
+		},
+		"StationAddress": {
+			"Zh_tw": "海豐街3號",
+			"En": "No. 3, Haifeng St."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501402061",
+		"StationID": "501402061",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東琉線船運服務中心",
+			"En": "YouBike2.0_Donggang Ferry Terminal"
+		},
+		"StationPosition": {
+			"PositionLon": 120.44607,
+			"PositionLat": 22.4688,
+			"GeoHash": "wevxuf64h"
+		},
+		"StationAddress": {
+			"Zh_tw": "朝隆路66號對側",
+			"En": "No. 66, Chaolong Rd.(Opposite)"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "PIF501402062",
+		"StationID": "501402062",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_鎮海公園",
+			"En": "YouBike2.0_Zhenhai Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.44129,
+			"PositionLat": 22.46073,
+			"GeoHash": "wevxu8yej"
+		},
+		"StationAddress": {
+			"Zh_tw": "鎮海公園入口左側",
+			"En": "Zhenhai Park Left Entrance"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501402063",
+		"StationID": "501402063",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東光國小",
+			"En": "YouBike2.0_Dung Kuang Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45944,
+			"PositionLat": 22.4674,
+			"GeoHash": "wevxv45fh"
+		},
+		"StationAddress": {
+			"Zh_tw": "長春二路/新興三街(東側)",
+			"En": "Changchun 2nd Rd./Xinxing 3rd St.(East)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501402064",
+		"StationID": "501402064",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光復成功路口",
+			"En": "YouBike2.0_Guangfu Chenggong Rd.Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45532,
+			"PositionLat": 22.46908,
+			"GeoHash": "wevxv42gu"
+		},
+		"StationAddress": {
+			"Zh_tw": "光復路一段328-3號對側",
+			"En": "No. 328-3, Sec. 1, Guangfu Rd.(Opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501402065",
+		"StationID": "501402065",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東港鎮立圖書館",
+			"En": "YouBike2.0_Donggang Township Library"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45452,
+			"PositionLat": 22.46738,
+			"GeoHash": "wevxv403c"
+		},
+		"StationAddress": {
+			"Zh_tw": "新勝街20號",
+			"En": "No. 20, Xinsheng St."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501402066",
+		"StationID": "501402066",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東港高中",
+			"En": "YouBike2.0_Donggang Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45579,
+			"PositionLat": 22.46467,
+			"GeoHash": "wevxv194p"
+		},
+		"StationAddress": {
+			"Zh_tw": "船頭路1號",
+			"En": "No. 1, Chuantou Rd."
+		},
+		"BikesCapacity": 21
+	},
+	{
+		"StationUID": "PIF501402067",
+		"StationID": "501402067",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東港中山路立體停車場",
+			"En": "YouBike2.0_Donggang Zhongshan Road Parking Garage"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45109,
+			"PositionLat": 22.46625,
+			"GeoHash": "wevxucvg3"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路35-1號",
+			"En": "No. 35-1, Zhongshan Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501402068",
+		"StationID": "501402068",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大鵬灣管理處停車場",
+			"En": "YouBike2.0_Dapeng Bay Scenic Area Administration Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47963,
+			"PositionLat": 22.45712,
+			"GeoHash": "wevxv84w4"
+		},
+		"StationAddress": {
+			"Zh_tw": "大潭路169號",
+			"En": "No. 169, Datan Rd."
+		},
+		"BikesCapacity": 21
+	},
+	{
+		"StationUID": "PIF501402069",
+		"StationID": "501402069",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_濱灣碼頭",
+			"En": "YouBike2.0_Dapeng Bay Marina"
+		},
+		"StationPosition": {
+			"PositionLon": 120.47365,
+			"PositionLat": 22.43847,
+			"GeoHash": "wevxtky1x"
+		},
+		"StationAddress": {
+			"Zh_tw": "大鵬灣環灣道路五段50號",
+			"En": "No. 50, Sec. 5, Pengwan Blvd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501402070",
+		"StationID": "501402070",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青洲濱海遊憩區",
+			"En": "YouBike2.0_Qingzhou Coastal Recreation Area"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45511,
+			"PositionLat": 22.44713,
+			"GeoHash": "wevxtn2sp"
+		},
+		"StationAddress": {
+			"Zh_tw": "南平路631號",
+			"En": "No. 631, Nanping Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501402071",
+		"StationID": "501402071",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮口平台",
+			"En": "YouBike2.0_Bayfun Land"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45816,
+			"PositionLat": 22.45199,
+			"GeoHash": "wevxtp6bq"
+		},
+		"StationAddress": {
+			"Zh_tw": "潮口平台旁",
+			"En": "Bayfun Land"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "PIF501402072",
+		"StationID": "501402072",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光復東隆街口",
+			"En": "YouBike2.0_Guangfu Donglong St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.44893,
+			"PositionLat": 22.46466,
+			"GeoHash": "wevxucs4p"
+		},
+		"StationAddress": {
+			"Zh_tw": "光復路三段/東隆街(東側)",
+			"En": "Sec. 3, Guangfu Rd./Donglong St.(East)"
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "PIF501402089",
+		"StationID": "501402089",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_嘉新路口",
+			"En": "YouBike2.0_Jiaxin Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45711,
+			"PositionLat": 22.45979,
+			"GeoHash": "wevxv0djy"
+		},
+		"StationAddress": {
+			"Zh_tw": "嘉新路87之1號右側",
+			"En": "No. 87-1, Jiaxin Rd.(Right)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501402121",
+		"StationID": "501402121",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東港轉運站",
+			"En": "YouBike2.0_Donggang Bus Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.45767,
+			"PositionLat": 22.46425,
+			"GeoHash": "wevxv16xe"
+		},
+		"StationAddress": {
+			"Zh_tw": "船頭路3號",
+			"En": "No. 3, Chuantou Rd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501403074",
+		"StationID": "501403074",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春工商",
+			"En": "YouBike2.0_National Hengchun Vocational High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74712,
+			"PositionLat": 21.99228,
+			"GeoHash": "wevv5et67"
+		},
+		"StationAddress": {
+			"Zh_tw": "恒南路38號",
+			"En": "No. 38, Hengnan Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501403075",
+		"StationID": "501403075",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春立體停車場",
+			"En": "YouBike2.0_Hengchun Parking Garage"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74754,
+			"PositionLat": 22.00418,
+			"GeoHash": "wevv5ttxt"
+		},
+		"StationAddress": {
+			"Zh_tw": "東門路124號對側",
+			"En": "No. 124, Dongmen Rd.(Opposite)"
+		},
+		"BikesCapacity": 23
+	},
+	{
+		"StationUID": "PIF501403076",
+		"StationID": "501403076",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春1號兒童公園",
+			"En": "YouBike2.0_Hengchun Children's Park No.1"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74519,
+			"PositionLat": 22.00635,
+			"GeoHash": "wevv5w5uq"
+		},
+		"StationAddress": {
+			"Zh_tw": "新興路106巷15-1號",
+			"En": "No. 15-1, Ln. 106, Xinxing Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501403079",
+		"StationID": "501403079",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春轉運站",
+			"En": "YouBike2.0_Hengchun Bus Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74548,
+			"PositionLat": 22.00279,
+			"GeoHash": "wevv5tkpt"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路30號",
+			"En": "No. 30, Zhongzheng Rd."
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "PIF501403080",
+		"StationID": "501403080",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南門郵局",
+			"En": "YouBike2.0_Hengchun Nanmen Post Office"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74456,
+			"PositionLat": 22.00249,
+			"GeoHash": "wevv5t7tb"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路51號前",
+			"En": "No. 51, Zhongzheng Rd."
+		},
+		"BikesCapacity": 21
+	},
+	{
+		"StationUID": "PIF501403081",
+		"StationID": "501403081",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_山腳里社區活動中心",
+			"En": "YouBike2.0_Shanjiao Community Center"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74314,
+			"PositionLat": 21.99792,
+			"GeoHash": "wevv5sd7p"
+		},
+		"StationAddress": {
+			"Zh_tw": "恆南路1巷60號後",
+			"En": "No. 60, Ln. 1, Hengnan Rd."
+		},
+		"BikesCapacity": 22
+	},
+	{
+		"StationUID": "PIF501403099",
+		"StationID": "501403099",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_墾丁大灣路口",
+			"En": "YouBike2.0_Kending Dawan Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.79579,
+			"PositionLat": 21.94598,
+			"GeoHash": "wevuug0u9"
+		},
+		"StationAddress": {
+			"Zh_tw": "墾丁路/大灣路(東南側)",
+			"En": "Kending Rd./ Dawan Rd.(Southeast)"
+		},
+		"BikesCapacity": 50
+	},
+	{
+		"StationUID": "PIF501403101",
+		"StationID": "501403101",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春東門",
+			"En": "YouBike2.0_Hengchun East Gate"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74999,
+			"PositionLat": 22.00424,
+			"GeoHash": "wevv5txry"
+		},
+		"StationAddress": {
+			"Zh_tw": "東門路2巷/東門路(東北側)",
+			"En": "Ln. 2, Dongmen Rd./Dongmen Rd.(Northeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501403102",
+		"StationID": "501403102",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春北門",
+			"En": "YouBike2.0_Hengchun Nouth Gate"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74725,
+			"PositionLat": 22.00763,
+			"GeoHash": "wevv5wm7w"
+		},
+		"StationAddress": {
+			"Zh_tw": "北門路174巷/北門路(西北側)",
+			"En": "Ln. 174, Beimen Rd./Beimen Rd.(Northwest)"
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "PIF501403103",
+		"StationID": "501403103",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春西門",
+			"En": "YouBike2.0_Hengchun West Gate"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74281,
+			"PositionLat": 22.00517,
+			"GeoHash": "wevv5tfjr"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路181號左前方",
+			"En": "No. 181, Zhongshan Rd.(Left front)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501403106",
+		"StationID": "501403106",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_白砂大客車停車場",
+			"En": "YouBike2.0_Baisha Bus Parking Area"
+		},
+		"StationPosition": {
+			"PositionLon": 120.72036,
+			"PositionLat": 21.93522,
+			"GeoHash": "wevug11vu"
+		},
+		"StationAddress": {
+			"Zh_tw": "白砂路10號對側",
+			"En": "No. 10, Baisha Rd.(Opposite)"
+		},
+		"BikesCapacity": 24
+	},
+	{
+		"StationUID": "PIF501403107",
+		"StationID": "501403107",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南灣遊憩區",
+			"En": "YouBike2.0_South Bay Recreation Area"
+		},
+		"StationPosition": {
+			"PositionLon": 120.7634,
+			"PositionLat": 21.96082,
+			"GeoHash": "wevuujc5p"
+		},
+		"StationAddress": {
+			"Zh_tw": "南灣路202號對側",
+			"En": "No. 202, Nanwan Rd.(Opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501403108",
+		"StationID": "501403108",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春南門(南門路14巷)",
+			"En": "YouBike2.0_Hengchun South Gate(Ln. 14, Nanmen Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74644,
+			"PositionLat": 22.00092,
+			"GeoHash": "wevv5thue"
+		},
+		"StationAddress": {
+			"Zh_tw": "南門路14巷/林森路(西南側)",
+			"En": "Ln. 14, Nanmen Rd./Linsen Rd.(Southwest)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501403109",
+		"StationID": "501403109",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_小灣",
+			"En": "YouBike2.0_Xiaowan"
+		},
+		"StationPosition": {
+			"PositionLon": 120.80612,
+			"PositionLat": 21.94138,
+			"GeoHash": "wevuv423f"
+		},
+		"StationAddress": {
+			"Zh_tw": "墾丁路2號",
+			"En": "No. 2, Kending Rd."
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "PIF501403110",
+		"StationID": "501403110",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_下萬里桐",
+			"En": "YouBike2.0_Xiawanlitong"
+		},
+		"StationPosition": {
+			"PositionLon": 120.7059,
+			"PositionLat": 21.99768,
+			"GeoHash": "wevv4sx3g"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬里路27-8號對側",
+			"En": "No. 27-8, Wanli Rd.(Opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501403111",
+		"StationID": "501403111",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_後壁湖",
+			"En": "YouBike2.0_Houbihu"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74334,
+			"PositionLat": 21.94544,
+			"GeoHash": "wevuge497"
+		},
+		"StationAddress": {
+			"Zh_tw": "大光路79之66號對側",
+			"En": "No. 79-66, Daguang Rd.(Opposite)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501403112",
+		"StationID": "501403112",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大光活動中心",
+			"En": "YouBike2.0_Daguang Community Center"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74043,
+			"PositionLat": 21.94993,
+			"GeoHash": "wevugeb7x"
+		},
+		"StationAddress": {
+			"Zh_tw": "大光路26-6號",
+			"En": "No. 26-6, Daguang Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501403113",
+		"StationID": "501403113",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_恆春監工站",
+			"En": "YouBike2.0_Hengchun Supervisor Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.74357,
+			"PositionLat": 22.00781,
+			"GeoHash": "wevv5w6uc"
+		},
+		"StationAddress": {
+			"Zh_tw": "西門路92號",
+			"En": "No. 92, Ximen Rd."
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "PIF501403122",
+		"StationID": "501403122",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_船帆石",
+			"En": "YouBike2.0_Chuanfanshi"
+		},
+		"StationPosition": {
+			"PositionLon": 120.8235,
+			"PositionLat": 21.93356,
+			"GeoHash": "wevuv2uup"
+		},
+		"StationAddress": {
+			"Zh_tw": "船帆路698號前",
+			"En": "No. 698, Chuanfan Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501403123",
+		"StationID": "501403123",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_砂島",
+			"En": "YouBike2.0_Shadao"
+		},
+		"StationPosition": {
+			"PositionLon": 120.84782,
+			"PositionLat": 21.91345,
+			"GeoHash": "wevutvnxn"
+		},
+		"StationAddress": {
+			"Zh_tw": "砂島路234-1號",
+			"En": "No. 234-1, Shadao Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501403124",
+		"StationID": "501403124",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_鵝鑾鼻公園停車場",
+			"En": "YouBike2.0_Eluanbi Park Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.8518,
+			"PositionLat": 21.90496,
+			"GeoHash": "wevuw59te"
+		},
+		"StationAddress": {
+			"Zh_tw": "燈塔路249號",
+			"En": "No. 249, Dengta Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501404032",
+		"StationID": "501404032",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州國中",
+			"En": "YouBike2.0_Chaozhou Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54271,
+			"PositionLat": 22.553762,
+			"GeoHash": "wsj8r1b90"
+		},
+		"StationAddress": {
+			"Zh_tw": "永坤路/文化路口(東北側)",
+			"En": "Yongkun Rd./Wenhua Rd.(Northeast)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501404033",
+		"StationID": "501404033",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州鐵道園區",
+			"En": "YouBike2.0_Chaozhou Railway Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53628,
+			"PositionLat": 22.52646,
+			"GeoHash": "wsj8nugf4"
+		},
+		"StationAddress": {
+			"Zh_tw": "光復路461號前",
+			"En": "No. 461, Guangfu Rd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501404034",
+		"StationID": "501404034",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮好玩幸福村",
+			"En": "YouBike2.0_Chaozhou Happiness Village"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53894,
+			"PositionLat": 22.53357,
+			"GeoHash": "wsj8nyjg8"
+		},
+		"StationAddress": {
+			"Zh_tw": "光春路292號",
+			"En": "No. 292, Guangchun Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404035",
+		"StationID": "501404035",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光春國小",
+			"En": "YouBike2.0_Guang-Chun Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53718,
+			"PositionLat": 22.54069,
+			"GeoHash": "wsj8nzkmp"
+		},
+		"StationAddress": {
+			"Zh_tw": "志成路201號前",
+			"En": "No. 201, Zhicheng Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404036",
+		"StationID": "501404036",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州國小",
+			"En": "YouBike2.0_Chaozhou Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54032,
+			"PositionLat": 22.54864,
+			"GeoHash": "wsj8qbyg3"
+		},
+		"StationAddress": {
+			"Zh_tw": "清水南路35號對側",
+			"En": "No. 35, Qingshui S. Rd.(Opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404037",
+		"StationID": "501404037",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_林後四林平地森林園區停車場",
+			"En": "YouBike2.0_Linhousilin Forest Park  Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.59144,
+			"PositionLat": 22.53792,
+			"GeoHash": "wsjb0nuhb"
+		},
+		"StationAddress": {
+			"Zh_tw": "林後四林平地森林園區停車場(機車格)",
+			"En": "Linhousilin Forest Park Parking Lot"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "PIF501404038",
+		"StationID": "501404038",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_警政園區",
+			"En": "YouBike2.0_Jing Jheng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.56287,
+			"PositionLat": 22.54667,
+			"GeoHash": "wsj8r2rpy"
+		},
+		"StationAddress": {
+			"Zh_tw": "潮州綠色隧道(警政園區)",
+			"En": "Chaozhou Green Tunnel(Police Park)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404039",
+		"StationID": "501404039",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州泗林綠色隧道",
+			"En": "YouBike2.0_Chaozhou Silin walking trail"
+		},
+		"StationPosition": {
+			"PositionLon": 120.55576,
+			"PositionLat": 22.54939,
+			"GeoHash": "wsj8r2fp8"
+		},
+		"StationAddress": {
+			"Zh_tw": "潮州綠色隧道(潮州路)",
+			"En": "Chaozhou Green Tunnel(Chaozhou Rd.)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501404042",
+		"StationID": "501404042",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州轉運站前停車場",
+			"En": "YouBike2.0_Chaozhou Bus Station opposite parking lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53682,
+			"PositionLat": 22.55173,
+			"GeoHash": "wsj8qckjr"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山八巷/六合路口(西北側)",
+			"En": "Zhongshan 8th Ln./Liuhe Rd.(Northwest)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "PIF501404043",
+		"StationID": "501404043",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光華國小",
+			"En": "YouBike2.0_GuangHua  Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.5429,
+			"PositionLat": 22.54815,
+			"GeoHash": "wsj8r0b8m"
+		},
+		"StationAddress": {
+			"Zh_tw": "南進路21號對側",
+			"En": "No. 21, Nanjin Rd.(Opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404055",
+		"StationID": "501404055",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州車站",
+			"En": "YouBike2.0_Chaozhou Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53648,
+			"PositionLat": 22.5496,
+			"GeoHash": "wsj8qc5bz"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路191號對側",
+			"En": "No. 191, Zhongshan Rd.(Opposite)"
+		},
+		"BikesCapacity": 61
+	},
+	{
+		"StationUID": "PIF501404056",
+		"StationID": "501404056",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州鎮公有停車場",
+			"En": "YouBike2.0_Chaozhou public parking lot"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54041,
+			"PositionLat": 22.55241,
+			"GeoHash": "wsj8qcwc7"
+		},
+		"StationAddress": {
+			"Zh_tw": "延平路35號對側停車場",
+			"En": "No. 35, Yanping Rd.(Opposite)"
+		},
+		"BikesCapacity": 29
+	},
+	{
+		"StationUID": "PIF501404057",
+		"StationID": "501404057",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州鎮立圖書館",
+			"En": "YouBike2.0_Chaozhou Township Library"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54953,
+			"PositionLat": 22.54668,
+			"GeoHash": "wsj8r0mrz"
+		},
+		"StationAddress": {
+			"Zh_tw": "三星路39號東側停車場",
+			"En": "No. 39, Sanxing Rd.(Opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501404058",
+		"StationID": "501404058",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_四林國小",
+			"En": "YouBike2.0_Si Lin Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.56937,
+			"PositionLat": 22.5451,
+			"GeoHash": "wsj8r85yt"
+		},
+		"StationAddress": {
+			"Zh_tw": "通潮一巷1-1號對側",
+			"En": "No. 1-1, Tongchao 1st Ln.(Opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404092",
+		"StationID": "501404092",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_愛國路91巷口",
+			"En": "YouBike2.0_Ln. 91, Aiguo Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54782,
+			"PositionLat": 22.55184,
+			"GeoHash": "wsj8r1kjz"
+		},
+		"StationAddress": {
+			"Zh_tw": "愛國路/愛國路91巷口(東北側)",
+			"En": "Aiguo Rd./Ln. 91, Aiguo Rd.(Northeast)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "PIF501404093",
+		"StationID": "501404093",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州高中",
+			"En": "YouBike2.0_National Chaochou Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54417,
+			"PositionLat": 22.54966,
+			"GeoHash": "wsj8r1196"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路/中山二巷(東南側)",
+			"En": "Zhongshan Rd./Ln. 2, Zhongshan Rd.(Southeast)"
+		},
+		"BikesCapacity": 56
+	},
+	{
+		"StationUID": "PIF501404094",
+		"StationID": "501404094",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州運動公園",
+			"En": "YouBike2.0_Chaozhou Sports Park"
+		},
+		"StationPosition": {
+			"PositionLon": 120.548833,
+			"PositionLat": 22.54554,
+			"GeoHash": "wsj8r0kcr"
+		},
+		"StationAddress": {
+			"Zh_tw": "福興路/三城路(西南側)",
+			"En": "Fuxing Rd./Sancheng Rd.(Southwest)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404095",
+		"StationID": "501404095",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_屏東國際滑輪溜冰場",
+			"En": "YouBike2.0_Pingtung International Roller Skating Rink"
+		},
+		"StationPosition": {
+			"PositionLon": 120.5473,
+			"PositionLat": 22.54525,
+			"GeoHash": "wsj8r05ze"
+		},
+		"StationAddress": {
+			"Zh_tw": "福星路237巷/福星路(東南側)",
+			"En": "No. 123, Fuxing Rd./Fuxing Rd.(Southeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404096",
+		"StationID": "501404096",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_武昌五福路口",
+			"En": "YouBike2.0_Wuchang Wufu Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.5355,
+			"PositionLat": 22.54537,
+			"GeoHash": "wsj8qb722"
+		},
+		"StationAddress": {
+			"Zh_tw": "武昌街/五福路(2側)",
+			"En": "Wuchang St./Wufu Rd.(2 sides)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "PIF501404097",
+		"StationID": "501404097",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_民治溪(南京路)",
+			"En": "YouBike2.0_Minzhi River (Nanjing Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54194,
+			"PositionLat": 22.54615,
+			"GeoHash": "wsj8qbruy"
+		},
+		"StationAddress": {
+			"Zh_tw": "南京路/廬山路(東北側)",
+			"En": "Nanjing Rd./Lushan Rd.(Northeast)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "PIF501404098",
+		"StationID": "501404098",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新生忠孝路口",
+			"En": "YouBike2.0_Xinsheng Zhongxiao Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53861,
+			"PositionLat": 22.55009,
+			"GeoHash": "wsj8qcjec"
+		},
+		"StationAddress": {
+			"Zh_tw": "新生路/忠孝路(東南側)",
+			"En": "Xinsheng Rd./Zhongxiao Rd.(Southeast)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "PIF501404119",
+		"StationID": "501404119",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_潮州戎克船廣場",
+			"En": "YouBike2.0_Chaozhou Junk Plaza"
+		},
+		"StationPosition": {
+			"PositionLon": 120.54119,
+			"PositionLat": 22.56362,
+			"GeoHash": "wsj8qgx6t"
+		},
+		"StationAddress": {
+			"Zh_tw": "重義巷69號",
+			"En": "No. 69, Chongyi Ln."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "PIF501408087",
+		"StationID": "501408087",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_西勢車站",
+			"En": "YouBike2.0_Xishi Station, TRA"
+		},
+		"StationPosition": {
+			"PositionLon": 120.52627,
+			"PositionLat": 22.61605,
+			"GeoHash": "wsj8wths1"
+		},
+		"StationAddress": {
+			"Zh_tw": "西豐路 2 號",
+			"En": "No. 2, Xifeng Rd."
+		},
+		"BikesCapacity": 23
+	},
+	{
+		"StationUID": "PIF501408091",
+		"StationID": "501408091",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_竹田車站",
+			"En": "YouBike2.0_Zhutian Station"
+		},
+		"StationPosition": {
+			"PositionLon": 120.53983,
+			"PositionLat": 22.58696,
+			"GeoHash": "wsj8qzy6t"
+		},
+		"StationAddress": {
+			"Zh_tw": "豐明路29 號",
+			"En": "No. 29, Fongming Rd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501410100",
+		"StationID": "501410100",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國立海洋生物博物館",
+			"En": "YouBike2.0_National Museum Of Marine Biology And Aquarium"
+		},
+		"StationPosition": {
+			"PositionLon": 120.6998,
+			"PositionLat": 22.04602,
+			"GeoHash": "wevv6t6gm"
+		},
+		"StationAddress": {
+			"Zh_tw": "後灣路2號",
+			"En": "No. 2, Houwan Rd."
+		},
+		"BikesCapacity": 36
+	},
+	{
+		"StationUID": "PIF501410125",
+		"StationID": "501410125",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_後灣",
+			"En": "YouBike2.0_Back Bay"
+		},
+		"StationPosition": {
+			"PositionLon": 120.69504,
+			"PositionLat": 22.03955,
+			"GeoHash": "wevv6kpmw"
+		},
+		"StationAddress": {
+			"Zh_tw": "後灣路161號前",
+			"En": "No. 161, Houwan Rd."
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "PIF501416117",
+		"StationID": "501416117",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_林邊車站",
+			"En": "YouBike2.0_Linbian Station, TRA"
+		},
+		"StationPosition": {
+			"PositionLon": 120.5158,
+			"PositionLat": 22.4315,
+			"GeoHash": "wevxw7sbv"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁愛路33號",
+			"En": "No. 33, Ren'ai Rd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "PIF501432086",
+		"StationID": "501432086",
+		"AuthorityID": "PIF",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_麟洛車站",
+			"En": "YouBike2.0_Linluo Station, TRA"
+		},
+		"StationPosition": {
+			"PositionLon": 120.51464,
+			"PositionLat": 22.63437,
+			"GeoHash": "wsj8y2knf"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路站前巷 15 號",
+			"En": "No. 15, Zhanqian Ln."
+		},
+		"BikesCapacity": 30
+	}
+]

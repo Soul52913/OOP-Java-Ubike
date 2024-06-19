@@ -1,0 +1,2787 @@
+[
+	{
+		"BikeUID": "A02052",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00024",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00025",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02080",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00040",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00041",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00052",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02104",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00058",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02110",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02115",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00070",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00073",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02126",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00082",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00084",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00093",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02143",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00099",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02149",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02150",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02152",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02161",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00114",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02164",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02173",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00126",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00129",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00136",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02195",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02196",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00152",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00153",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00156",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00162",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02215",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00170",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02223",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00177",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02227",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00179",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00181",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02230",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00186",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00191",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00194",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00198",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02251",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00210",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00215",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00217",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00221",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00227",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00231",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02280",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02283",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00236",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02286",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00240",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02293",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02294",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00251",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00252",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02302",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02304",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00256",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00260",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02309",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02313",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00266",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00267",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02318",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02322",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02324",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02328",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02340",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00297",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02348",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02365",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02366",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02368",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00323",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02373",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00328",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02377",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02376",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02382",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02383",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02388",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00340",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02392",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02395",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00347",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02400",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02402",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00356",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02408",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00361",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00364",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00369",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02424",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02426",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02429",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02434",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00389",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00394",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02448",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00407",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02456",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00413",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00414",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02466",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02473",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00426",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02475",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02488",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02490",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02495",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02496",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00448",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00451",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02501",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00453",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02513",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00474",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00475",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00480",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00490",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02540",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00493",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02547",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02555",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02557",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02558",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00511",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00512",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00527",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02575",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00530",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00532",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02587",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00544",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00545",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00547",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02597",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02598",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02604",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00560",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00561",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00565",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02626",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02632",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02633",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02636",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00589",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02639",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02641",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00597",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00605",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02656",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02667",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00622",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02671",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02681",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02689",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02690",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00641",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02697",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02698",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02700",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00653",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02702",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02707",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00660",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02711",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02717",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00671",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02719",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02722",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00675",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00679",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02730",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02737",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02738",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00691",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00695",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02747",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00700",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00705",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00709",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00715",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02770",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00724",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00732",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02785",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00739",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02792",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02805",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00761",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02810",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02812",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02814",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02817",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00770",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02821",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00782",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02834",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00786",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02841",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02843",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02845",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00798",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02852",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02853",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00807",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00808",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02863",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02864",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00819",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02868",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00823",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02884",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02887",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02889",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00841",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00845",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00846",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02903",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00857",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02912",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02913",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00870",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00872",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02922",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00875",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02931",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02937",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00890",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00898",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00900",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02949",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00904",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02956",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00914",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02962",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02964",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02971",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00925",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00929",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00943",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02993",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02996",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02997",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00948",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02999",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00953",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00976",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A00979",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03044",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03047",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03049",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01002",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03051",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01007",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03060",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01013",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01015",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03068",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01026",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01028",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03082",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01035",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01037",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03087",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01042",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03091",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03097",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01053",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03102",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03104",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01058",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03109",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01063",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03115",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03118",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03125",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03128",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03130",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03134",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01095",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01108",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03164",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03166",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03168",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01130",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03178",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01132",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03189",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03192",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03195",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01151",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01153",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03203",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01160",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03212",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01165",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03218",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01173",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03227",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01180",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01181",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03237",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01215",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03272",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01229",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01233",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01234",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01240",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03294",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01249",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01253",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01255",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01257",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01267",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03318",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01275",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01284",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03336",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01289",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01302",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03355",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03357",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01310",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03360",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01315",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03366",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03367",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01322",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03381",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01337",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01346",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01347",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01350",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01352",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01355",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01363",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01366",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03414",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01371",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03420",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01378",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01380",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01382",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01384",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01391",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01415",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03464",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03467",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01426",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03476",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03480",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01433",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03484",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01437",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03487",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03494",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03497",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01460",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01464",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01466",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03515",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01468",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03524",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03529",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01487",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03543",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01495",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03545",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03547",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03552",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01506",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03555",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03557",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01510",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01513",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03565",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03566",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01522",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01524",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01525",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03572",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01530",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01532",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01535",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03593",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03596",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01550",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03602",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01561",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03611",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03612",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01567",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03617",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01570",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03635",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03637",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03640",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01595",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01601",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01606",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03664",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03665",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01622",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01629",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03682",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01637",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03687",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01640",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03690",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01644",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01647",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01650",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03698",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03704",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03705",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03713",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03715",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01679",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01682",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03734",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01697",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03754",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01706",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01708",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03758",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01713",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01714",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03765",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03769",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03770",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01727",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03782",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03784",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01745",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03797",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03806",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03815",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03816",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01773",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01775",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01780",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01783",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03831",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01789",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03837",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03845",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01798",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03847",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01805",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01807",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03857",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01811",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03862",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01814",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01818",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01821",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03870",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03882",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01835",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03902",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03905",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03909",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01865",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03913",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01868",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03923",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01875",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03931",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01886",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01893",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03941",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03944",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03948",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03956",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01915",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03965",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03969",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03971",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01936",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03986",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A03990",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01945",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01967",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01972",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01974",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01982",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01986",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01988",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01989",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A01996",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02003",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02010",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02012",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02015",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02022",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02024",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02039",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02043",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "A02045",
+		"AuthorityID": "TPE",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00901",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01802",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02058",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02442",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01422",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03342",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03356",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00286",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02207",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00033",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01058",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02593",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03617",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03877",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01953",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01325",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03889",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00311",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02876",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00702",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00450",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01603",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03139",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01996",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01357",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02512",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01488",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01106",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01875",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00212",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03924",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03025",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00599",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00728",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01883",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03038",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02145",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03298",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00739",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03435",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01899",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00881",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02163",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F00243",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02677",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F02165",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F01785",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	},
+	{
+		"BikeUID": "F03710",
+		"AuthorityID": "NWT",
+		"Type": "Normal"
+	}
+]

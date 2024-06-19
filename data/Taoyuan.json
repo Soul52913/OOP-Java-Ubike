@@ -1,0 +1,7830 @@
+[
+	{
+		"StationUID": "TAO500301001",
+		"StationID": "500301001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_君臨公園",
+			"En": "YouBike2.0_Junlin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.305469,
+			"PositionLat": 24.964524,
+			"GeoHash": "wsqq02euy"
+		},
+		"StationAddress": {
+			"Zh_tw": "忠勇六街1號對面人行道",
+			"En": "No.1, Zhongyong 6th St.(opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500301002",
+		"StationID": "500301002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大和公園",
+			"En": "YouBike2.0_Dahe Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.296538,
+			"PositionLat": 24.955717,
+			"GeoHash": "wsqmbpj3w"
+		},
+		"StationAddress": {
+			"Zh_tw": "銀和街31號對面公園",
+			"En": "No. 31, Yinhe St.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301003",
+		"StationID": "500301003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_思源公園",
+			"En": "YouBike2.0_Siyuan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29876,
+			"PositionLat": 24.97352,
+			"GeoHash": "wsqq04r13"
+		},
+		"StationAddress": {
+			"Zh_tw": "思源街122號(對面公園綠帶)",
+			"En": "No.122, Siyuan St.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500301004",
+		"StationID": "500301004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_廣豐公園",
+			"En": "YouBike2.0_Guangfeng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29791,
+			"PositionLat": 24.96602,
+			"GeoHash": "wsqq00ymw"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路/廣豐二街東北側人行道",
+			"En": "Gongyuan Rd. & Guangfeng 2nd St.(Northeast)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301005",
+		"StationID": "500301005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大湳公園",
+			"En": "YouBike2.0_Danan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29545,
+			"PositionLat": 24.96178,
+			"GeoHash": "wsqq00hsu"
+		},
+		"StationAddress": {
+			"Zh_tw": "福國北街100-1號(對面公園綠帶)",
+			"En": "No. 100-1, Fuguo N. St.(Opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500301006",
+		"StationID": "500301006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_重慶公園",
+			"En": "YouBike2.0_Chongqing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30407,
+			"PositionLat": 24.95598,
+			"GeoHash": "wsqmbr4gj"
+		},
+		"StationAddress": {
+			"Zh_tw": "重慶街179號對面公園旁人行道",
+			"En": "No. 179, Chongqing St.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301007",
+		"StationID": "500301007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_介壽路(國2橋下)",
+			"En": "YouBike2.0_Jieshou Rd.(Under the National Freeway No.2 Viaduct)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30254,
+			"PositionLat": 24.97422,
+			"GeoHash": "wsqq063v6"
+		},
+		"StationAddress": {
+			"Zh_tw": "介壽路一段178號旁國道二號橋下空間",
+			"En": "No. 178, Sec. 1, Jieshou Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301008",
+		"StationID": "500301008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_和盛公園",
+			"En": "YouBike2.0_Hesheng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2964,
+			"PositionLat": 24.95429,
+			"GeoHash": "wsqmbnv36"
+		},
+		"StationAddress": {
+			"Zh_tw": "大和路102號對面公園側人行道",
+			"En": "No. 102, Dahe Rd.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301009",
+		"StationID": "500301009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_同福公園",
+			"En": "YouBike2.0_Tongfu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30838,
+			"PositionLat": 24.95926,
+			"GeoHash": "wsqmbrwn4"
+		},
+		"StationAddress": {
+			"Zh_tw": "和義街50號對面人行道",
+			"En": "No.50, Heyi St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301010",
+		"StationID": "500301010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大勇國小",
+			"En": "YouBike2.0_Dayong Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30346,
+			"PositionLat": 24.96862,
+			"GeoHash": "wsqq036kz"
+		},
+		"StationAddress": {
+			"Zh_tw": "忠勇街373號對面人行道",
+			"En": "No.373, Zhongyong St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301011",
+		"StationID": "500301011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大明公園",
+			"En": "YouBike2.0_Daming Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.32744,
+			"PositionLat": 24.96875,
+			"GeoHash": "wsqq0c7vw"
+		},
+		"StationAddress": {
+			"Zh_tw": "興隆街/興隆街3巷",
+			"En": "Ln. 3, Xinglong St. Intersection"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301012",
+		"StationID": "500301012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_元聖宮",
+			"En": "YouBike2.0_Yuansheng Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27843,
+			"PositionLat": 24.96384,
+			"GeoHash": "wsqnpb82b"
+		},
+		"StationAddress": {
+			"Zh_tw": "東泰街2號",
+			"En": "No. 2, Dongtai St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301013",
+		"StationID": "500301013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德霖園公園",
+			"En": "YouBike2.0_Bade Linyuan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30076,
+			"PositionLat": 24.97847,
+			"GeoHash": "wsqq070w0"
+		},
+		"StationAddress": {
+			"Zh_tw": "介壽路一段16巷73號旁公園人行道",
+			"En": "No.73, Ln. 16, Sec. 1, Jieshou Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500301014",
+		"StationID": "500301014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_建德公園",
+			"En": "YouBike2.0_Jiande Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28163,
+			"PositionLat": 24.93109,
+			"GeoHash": "wsqjzfdd4"
+		},
+		"StationAddress": {
+			"Zh_tw": "長興路61號對面公園",
+			"En": "No.61, Changxing Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301015",
+		"StationID": "500301015",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_溪濱公園",
+			"En": "YouBike2.0_Xibin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27889,
+			"PositionLat": 24.93311,
+			"GeoHash": "wsqjzfbtf"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣興二路79號對面公園",
+			"En": "No. 79, Guangxing 2nd Rd.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301016",
+		"StationID": "500301016",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_豐德公園",
+			"En": "YouBike2.0_Fengde Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28745,
+			"PositionLat": 24.92666,
+			"GeoHash": "wsqjzcyb6"
+		},
+		"StationAddress": {
+			"Zh_tw": "豐田一路85號對面公園",
+			"En": "No. 85, Fengtian 1st Rd.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301017",
+		"StationID": "500301017",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德仁德公園",
+			"En": "YouBike2.0_Bade Rende Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28733,
+			"PositionLat": 24.93513,
+			"GeoHash": "wsqjzgq9x"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁德路218號對面公園",
+			"En": "No.218, Rende Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301018",
+		"StationID": "500301018",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_茄明里集會所",
+			"En": "YouBike2.0_Jiaming Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28182,
+			"PositionLat": 24.98639,
+			"GeoHash": "wsqnpudsr"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路27號外側人行道",
+			"En": "No.27, Zhonghua Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301019",
+		"StationID": "500301019",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德興豐公園",
+			"En": "YouBike2.0_Bade Xingfeng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28949,
+			"PositionLat": 24.93048,
+			"GeoHash": "wsqmb42q9"
+		},
+		"StationAddress": {
+			"Zh_tw": "豐田路433號旁人行道",
+			"En": "No. 433, Fengtian Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301020",
+		"StationID": "500301020",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德藝文廣場",
+			"En": "YouBike2.0_Bade Arts Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29929,
+			"PositionLat": 24.93358,
+			"GeoHash": "wsqmb5p2w"
+		},
+		"StationAddress": {
+			"Zh_tw": "瑞發街55號對面",
+			"En": "No. 55, Ruifa St.(Opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301021",
+		"StationID": "500301021",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_茄明公園",
+			"En": "YouBike2.0_Jiaming Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27986,
+			"PositionLat": 24.98279,
+			"GeoHash": "wsqnpgcr3"
+		},
+		"StationAddress": {
+			"Zh_tw": "明光街49巷1號對面公園人行道",
+			"En": "No. 1, Ln. 49, Guangming St.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301022",
+		"StationID": "500301022",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大忠停車場",
+			"En": "YouBike2.0_Dazhong Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30097,
+			"PositionLat": 24.95844,
+			"GeoHash": "wsqmbr89m"
+		},
+		"StationAddress": {
+			"Zh_tw": "大忠國小地下停車場對面人行道",
+			"En": "No.140, Dazhong St.(opposite)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500301023",
+		"StationID": "500301023",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大仁里遊樂場",
+			"En": "YouBike2.0_Daren Playground"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31956,
+			"PositionLat": 24.96835,
+			"GeoHash": "wsqq09q5n"
+		},
+		"StationAddress": {
+			"Zh_tw": "國道二號橋下大仁里遊樂場",
+			"En": "Daren Playground"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301024",
+		"StationID": "500301024",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德區衛生所",
+			"En": "YouBike2.0_Public Health Center of Bade District"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29846,
+			"PositionLat": 24.94768,
+			"GeoHash": "wsqmbjwff"
+		},
+		"StationAddress": {
+			"Zh_tw": "介壽路二段361巷28號前廣場",
+			"En": "No.28, Ln. 361, Sec. 2, Jieshou Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301025",
+		"StationID": "500301025",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大安果樹公園",
+			"En": "YouBike2.0_Da-an Guoshu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.318555,
+			"PositionLat": 24.950006,
+			"GeoHash": "wsqmbwj2r"
+		},
+		"StationAddress": {
+			"Zh_tw": "建安街3巷1號旁公園",
+			"En": "No. 1, Ln. 3, Jian'an St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301026",
+		"StationID": "500301026",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_瑞泰公園",
+			"En": "YouBike2.0_Ruitai Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29857,
+			"PositionLat": 24.94147,
+			"GeoHash": "wsqmbhqyt"
+		},
+		"StationAddress": {
+			"Zh_tw": "介壽路2段583巷16弄12號對面空地",
+			"En": "No.12, Aly. 16, Ln. 583, Sec. 2, Jieshou Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301027",
+		"StationID": "500301027",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德埤塘自然生態公園",
+			"En": "YouBike2.0_Bade Pond Ecological Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31089,
+			"PositionLat": 24.94109,
+			"GeoHash": "wsqmbkruk"
+		},
+		"StationAddress": {
+			"Zh_tw": "榮興路189巷公園人行道",
+			"En": "Ln. 189, Rongxing Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301028",
+		"StationID": "500301028",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德區公所",
+			"En": "YouBike2.0_Civil Affairs District of Bade District"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28456,
+			"PositionLat": 24.92931,
+			"GeoHash": "wsqjzfhxz"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路32號對面人行道",
+			"En": "No. 32, Zhongshan Rd.(Opposite)"
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "TAO500301029",
+		"StationID": "500301029",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_置地生活廣場 八德",
+			"En": "YouBike2.0_Landmark Life Plaza (Bade)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29981,
+			"PositionLat": 24.96439,
+			"GeoHash": "wsqq00xu4"
+		},
+		"StationAddress": {
+			"Zh_tw": "大智路17號對面廣場",
+			"En": "No.17, Dazhi Rd.(opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500301030",
+		"StationID": "500301030",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_高城公園",
+			"En": "YouBike2.0_Gaocheng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2742,
+			"PositionLat": 24.97932,
+			"GeoHash": "wsqnpem5j"
+		},
+		"StationAddress": {
+			"Zh_tw": "高城六街48巷9號旁公園",
+			"En": "No.9, Ln. 48, Gaocheng 6th St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500301031",
+		"StationID": "500301031",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德國民運動中心",
+			"En": "YouBike2.0_Bade Civil Sports Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2940747,
+			"PositionLat": 24.95981416,
+			"GeoHash": "wsqmbpg9k"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣福路230號前人行道",
+			"En": "No. 230, Guangfu Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500301032",
+		"StationID": "500301032",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大發休閒公園",
+			"En": "YouBike2.0_Dafa Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.32424,
+			"PositionLat": 24.95277,
+			"GeoHash": "wsqmby987"
+		},
+		"StationAddress": {
+			"Zh_tw": "興豐路2182-1號",
+			"En": "No. 2182-1, Xingfeng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500301033",
+		"StationID": "500301033",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_永豐路519巷口",
+			"En": "YouBike2.0_Ln 519, Yongfeng Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27336,
+			"PositionLat": 24.9742,
+			"GeoHash": "wsqnpdkt6"
+		},
+		"StationAddress": {
+			"Zh_tw": "永豐路492號",
+			"En": "No. 492, Yongfeng Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500301034",
+		"StationID": "500301034",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中大公園",
+			"En": "YouBike2.0_Zhongda Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2809,
+			"PositionLat": 24.9288,
+			"GeoHash": "wsqjzf4hc"
+		},
+		"StationAddress": {
+			"Zh_tw": "建德路/興豐路(西南側)",
+			"En": "Jiande Rd. & Xingfeng Rd.(Southwest)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500301035",
+		"StationID": "500301035",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_八德大湳轉運站",
+			"En": "YouBike2.0_Bade Danan Bus Station"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31887,
+			"PositionLat": 24.9603,
+			"GeoHash": "wsqmbxvsq"
+		},
+		"StationAddress": {
+			"Zh_tw": "和強路58號南側",
+			"En": "No. 58, Heqiang Rd.(South)"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "TAO500302001",
+		"StationID": "500302001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運大園站(A15)",
+			"En": "YouBike2.0_MRT  Dayuan Station(A15)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20974,
+			"PositionLat": 25.05663,
+			"GeoHash": "wsqnw1qjr"
+		},
+		"StationAddress": {
+			"Zh_tw": "橫湳一路1號捷運站旁人行道",
+			"En": "No.1, Hengnan 1st. Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500302002",
+		"StationID": "500302002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運領航站(A17)",
+			"En": "YouBike2.0_MRT Linghang Station (A17)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22217,
+			"PositionLat": 25.02302,
+			"GeoHash": "wsqnq7r39"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航北路四段358號對面人行道",
+			"En": "No.358, Sec. 4, Linghang N. Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500302003",
+		"StationID": "500302003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃禧航空城酒店",
+			"En": "YouBike2.0_Hotel Orchard Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.17535,
+			"PositionLat": 25.06176,
+			"GeoHash": "wsqnt6m5q"
+		},
+		"StationAddress": {
+			"Zh_tw": "大觀路777號(桃禧航空城酒店園航路側人行道)",
+			"En": "No.777, Daguan Rd."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500302004",
+		"StationID": "500302004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_老街溪停車場",
+			"En": "YouBike2.0_Laojie River Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.1958,
+			"PositionLat": 25.06497,
+			"GeoHash": "wsqntfun4"
+		},
+		"StationAddress": {
+			"Zh_tw": "大觀路31巷1號旁老街溪上方停車場",
+			"En": "No.1, Ln. 31, Daguan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500302005",
+		"StationID": "500302005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大中華幼兒園",
+			"En": "YouBike2.0_Big China Kindergarten"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20183,
+			"PositionLat": 25.06179,
+			"GeoHash": "wsqnw427x"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正三街9號對面空地",
+			"En": "No.9, Zhongzheng 3rd St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500302007",
+		"StationID": "500302007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大園國際高中",
+			"En": "YouBike2.0_Dayuan International Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22051,
+			"PositionLat": 25.02083,
+			"GeoHash": "wsqnq6yhf"
+		},
+		"StationAddress": {
+			"Zh_tw": "大成路二段37號對面人行道",
+			"En": "No.37, Sec. 2, Dacheng Rd.(opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500302008",
+		"StationID": "500302008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大園國中",
+			"En": "YouBike2.0_Dayuan Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.171991,
+			"PositionLat": 25.053976,
+			"GeoHash": "wsqnt2fvb"
+		},
+		"StationAddress": {
+			"Zh_tw": "園科路400號前人行道",
+			"En": "No.400, Yuanhang Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500302009",
+		"StationID": "500302009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_兒九公園",
+			"En": "YouBike2.0_Erjiu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21279,
+			"PositionLat": 25.00508,
+			"GeoHash": "wsqnq203n"
+		},
+		"StationAddress": {
+			"Zh_tw": "致遠街致維街口公園內",
+			"En": "Zhiyuan St./Jhihwei St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500302010",
+		"StationID": "500302010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_菓林國小",
+			"En": "YouBike2.0_Guo Lin Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25622,
+			"PositionLat": 25.07767,
+			"GeoHash": "wsqnxm204"
+		},
+		"StationAddress": {
+			"Zh_tw": "菓林里12鄰41號前方人行道",
+			"En": "No 41, Neighborhood 12,Guolin Vil."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500302011",
+		"StationID": "500302011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_遠雄自貿港區加值園區",
+			"En": "YouBike2.0_Farglory Free Trade Zone Value-Added Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25521,
+			"PositionLat": 25.09361,
+			"GeoHash": "wsqnz0pkg"
+		},
+		"StationAddress": {
+			"Zh_tw": "航翔路5號前方廣場",
+			"En": "No.5, Hangsiang Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500303001",
+		"StationID": "500303001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_月眉停車場",
+			"En": "YouBike2.0_Yuemei Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28761,
+			"PositionLat": 24.88928,
+			"GeoHash": "wsqjxfyyw"
+		},
+		"StationAddress": {
+			"Zh_tw": "月眉15鄰105號",
+			"En": "No.105, Yuemei"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500303002",
+		"StationID": "500303002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大溪中正公園",
+			"En": "YouBike2.0_Daxi Zhongzheng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28545,
+			"PositionLat": 24.88315,
+			"GeoHash": "wsqjxcv6g"
+		},
+		"StationAddress": {
+			"Zh_tw": "普濟路80號旁停車場",
+			"En": "No.80, Puji Rd."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500303003",
+		"StationID": "500303003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_埔頂公園",
+			"En": "YouBike2.0_Puding Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28357,
+			"PositionLat": 24.90904,
+			"GeoHash": "wsqjxys18"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁善街102號對面停車場內",
+			"En": "No.102, Renshan St. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500303004",
+		"StationID": "500303004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大溪河濱公園",
+			"En": "YouBike2.0_Daxi Riverside Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28495,
+			"PositionLat": 24.8932,
+			"GeoHash": "wsqjxgtj2"
+		},
+		"StationAddress": {
+			"Zh_tw": "瑞興段2407地號內停車格",
+			"En": "No.2407 of Ruixing Section"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500303005",
+		"StationID": "500303005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_仁和國小",
+			"En": "YouBike2.0_Renhe Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27678,
+			"PositionLat": 24.89764,
+			"GeoHash": "wsqjxsrp3"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁和二街50號旁人行道",
+			"En": "No.50, Renhe 2nd St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500303006",
+		"StationID": "500303006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_十大觀光小城公園",
+			"En": "YouBike2.0_Ten Sightseeing Town Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28481,
+			"PositionLat": 24.90511,
+			"GeoHash": "wsqjxvufu"
+		},
+		"StationAddress": {
+			"Zh_tw": "介壽路965號對面公園",
+			"En": "No.965, Jieshou Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500303007",
+		"StationID": "500303007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_僑愛停車場",
+			"En": "YouBike2.0_Qiao'ai Parking lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29378,
+			"PositionLat": 24.92192,
+			"GeoHash": "wsqmb0gkt"
+		},
+		"StationAddress": {
+			"Zh_tw": "僑愛一街46巷11號東南側停車場",
+			"En": "No. 11, Ln. 46, Qiaoaiyi St. (Southeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500303008",
+		"StationID": "500303008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大溪永昌宮",
+			"En": "YouBike2.0_Daxi YongChang Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26523,
+			"PositionLat": 24.90415,
+			"GeoHash": "wsqjxmwth"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁和路二段190巷27號前方廣場",
+			"En": "No.27, Ln. 190, Sec. 2, Renhe Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500303009",
+		"StationID": "500303009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_三元公園",
+			"En": "YouBike2.0_Sanyuan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26655,
+			"PositionLat": 24.8828,
+			"GeoHash": "wsqjx3z8g"
+		},
+		"StationAddress": {
+			"Zh_tw": "員林路二段450號對面公園",
+			"En": "No.450, Sec. 2, Yuanlin Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500303010",
+		"StationID": "500303010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中科院五號門",
+			"En": "YouBike2.0_NCSIST Gate 5"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25614,
+			"PositionLat": 24.86717,
+			"GeoHash": "wsqjrqbjb"
+		},
+		"StationAddress": {
+			"Zh_tw": "石園路615號前方空地",
+			"En": "No.615, Shihyuan Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500303011",
+		"StationID": "500303011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_至善高中",
+			"En": "YouBike2.0_Jhih Shan High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2845,
+			"PositionLat": 24.86729,
+			"GeoHash": "wsqjryuwm"
+		},
+		"StationAddress": {
+			"Zh_tw": "康莊路645號",
+			"En": "No. 645, Kangzhuang Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304001",
+		"StationID": "500304001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中央大學圖書館",
+			"En": "YouBike2.0_National Central University Library"
+		},
+		"StationPosition": {
+			"PositionLon": 121.19467,
+			"PositionLat": 24.96813,
+			"GeoHash": "wsqnjc73b"
+		},
+		"StationAddress": {
+			"Zh_tw": "中大路300號(中央大學校內圖書館前)",
+			"En": "No.300, Zhongda Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "TAO500304002",
+		"StationID": "500304002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢高中",
+			"En": "YouBike2.0_Jhungli Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21204,
+			"PositionLat": 24.96082,
+			"GeoHash": "wsqjypzzm"
+		},
+		"StationAddress": {
+			"Zh_tw": "中央西路二段215號對面人行道",
+			"En": "No.215, Sec. 2, Zhongyang W. Rd. (opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500304003",
+		"StationID": "500304003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢火車站(前站)",
+			"En": "YouBike2.0_TRA Zhongli Station (Front)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22644,
+			"PositionLat": 24.95404,
+			"GeoHash": "wsqjywdru"
+		},
+		"StationAddress": {
+			"Zh_tw": "中和路109號空地",
+			"En": "No. 109, Zhonghe Rd."
+		},
+		"BikesCapacity": 24
+	},
+	{
+		"StationUID": "TAO500304004",
+		"StationID": "500304004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中原大學",
+			"En": "YouBike2.0_Chung Yuan Christian University"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2402,
+			"PositionLat": 24.95794,
+			"GeoHash": "wsqjyzkqt"
+		},
+		"StationAddress": {
+			"Zh_tw": "中北路200號(中原大學校內懷恩樓後方空地)",
+			"En": "No.200, Zhongbei Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500304005",
+		"StationID": "500304005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_銀河廣場",
+			"En": "YouBike2.0_Galaxy Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22424,
+			"PositionLat": 24.96172,
+			"GeoHash": "wsqnn80u9"
+		},
+		"StationAddress": {
+			"Zh_tw": "九和一街48號對面銀河廣場人行道",
+			"En": "No.48, Jiuhe 1st St. (opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500304006",
+		"StationID": "500304006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢區公所",
+			"En": "YouBike2.0_Civil Affairs Office of Zhongli District"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2247,
+			"PositionLat": 24.9657,
+			"GeoHash": "wsqnn8c5s"
+		},
+		"StationAddress": {
+			"Zh_tw": "環北路380號旁人行道",
+			"En": "No.380, Huanbei Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304007",
+		"StationID": "500304007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光明公園",
+			"En": "YouBike2.0_Guangming Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21739,
+			"PositionLat": 24.96281,
+			"GeoHash": "wsqnn27fc"
+		},
+		"StationAddress": {
+			"Zh_tw": "民權路322號對面停車場",
+			"En": "No.322, Minquan Rd. (opposite)"
+		},
+		"BikesCapacity": 24
+	},
+	{
+		"StationUID": "TAO500304008",
+		"StationID": "500304008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_翠堤橋",
+			"En": "YouBike2.0_Cuiti Bridge"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21588,
+			"PositionLat": 24.95327,
+			"GeoHash": "wsqjyqdeq"
+		},
+		"StationAddress": {
+			"Zh_tw": "義民路105號旁人行道",
+			"En": "No.105, Yimin Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304009",
+		"StationID": "500304009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢國小",
+			"En": "YouBike2.0_Chungli Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22035,
+			"PositionLat": 24.9541,
+			"GeoHash": "wsqjyqvbn"
+		},
+		"StationAddress": {
+			"Zh_tw": "康樂路61號旁公園",
+			"En": "No.61, Kangle Rd. (opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304010",
+		"StationID": "500304010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_莒光公園",
+			"En": "YouBike2.0_Juguang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23569,
+			"PositionLat": 24.95147,
+			"GeoHash": "wsqjyy30u"
+		},
+		"StationAddress": {
+			"Zh_tw": "寧夏二街43號對面莒光公園入口圓環",
+			"En": "No.43,Ningxia 2nd St. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304011",
+		"StationID": "500304011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢火車站(後站)",
+			"En": "YouBike2.0_TRA Zhongli Station (Rear)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22433,
+			"PositionLat": 24.95235,
+			"GeoHash": "wsqjyw2vg"
+		},
+		"StationAddress": {
+			"Zh_tw": "新興路68-94號對面人行道",
+			"En": "No.68 to No.94, Xinxing Rd. (opposite)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "TAO500304012",
+		"StationID": "500304012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中正公園(元化路)",
+			"En": "YouBike2.0_Zhongzheng Park(Yuanhua Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2273,
+			"PositionLat": 24.96042,
+			"GeoHash": "wsqjyxghb"
+		},
+		"StationAddress": {
+			"Zh_tw": "元化路197巷對面中正公園旁人行道",
+			"En": "Ln. 197, Yuanhua Rd. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304013",
+		"StationID": "500304013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢區聯合辦公大樓",
+			"En": "YouBike2.0_Zhongli District Joint Office Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23003,
+			"PositionLat": 24.96207,
+			"GeoHash": "wsqnn8jn8"
+		},
+		"StationAddress": {
+			"Zh_tw": "溪洲街298號前方人行道",
+			"En": "No.298, Xizhou St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304014",
+		"StationID": "500304014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_夢幻公園",
+			"En": "YouBike2.0_Dream Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.261596,
+			"PositionLat": 24.962541,
+			"GeoHash": "wsqnp27cr"
+		},
+		"StationAddress": {
+			"Zh_tw": "榮安十三街榮民路口(西南側)",
+			"En": "Rongan 13th St./Rongmin Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304015",
+		"StationID": "500304015",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_內壢自強公園",
+			"En": "YouBike2.0_Neili Ziqiang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25928,
+			"PositionLat": 24.96769,
+			"GeoHash": "wsqnp34r6"
+		},
+		"StationAddress": {
+			"Zh_tw": "強國路46號旁自強公園側人行道",
+			"En": "No.46, Qiangguo Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304016",
+		"StationID": "500304016",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_內壢復興公園",
+			"En": "YouBike2.0_Neili Fuxing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24811,
+			"PositionLat": 24.97363,
+			"GeoHash": "wsqnp461v"
+		},
+		"StationAddress": {
+			"Zh_tw": "復華街191號對面復興公園旁人行道",
+			"En": "No.191, Fuhua St. (opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304017",
+		"StationID": "500304017",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_元智大學",
+			"En": "YouBike2.0_Yuan Ze University"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26325,
+			"PositionLat": 24.97035,
+			"GeoHash": "wsqnp3tny"
+		},
+		"StationAddress": {
+			"Zh_tw": "遠東路135號(面元智大學左側人行道)",
+			"En": "No.135, Yuandong Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500304018",
+		"StationID": "500304018",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_信義國小",
+			"En": "YouBike2.0_Hsin Yi Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23145,
+			"PositionLat": 24.95102,
+			"GeoHash": "wsqjywnn1"
+		},
+		"StationAddress": {
+			"Zh_tw": "成都路36號對面人行道",
+			"En": "No.36, Chengdu Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304019",
+		"StationID": "500304019",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_莊敬廣場",
+			"En": "YouBike2.0_Zhuangjing Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25726,
+			"PositionLat": 24.97185,
+			"GeoHash": "wsqnp3bzd"
+		},
+		"StationAddress": {
+			"Zh_tw": "莊敬路38-1號對面自行車停放區",
+			"En": "No.38-1, Zhuangjing Rd.(opposite)"
+		},
+		"BikesCapacity": 22
+	},
+	{
+		"StationUID": "TAO500304020",
+		"StationID": "500304020",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_吉林路吉利六街口",
+			"En": "YouBike2.0_Jilin Rd. & Jili 6th St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25041,
+			"PositionLat": 24.9829,
+			"GeoHash": "wsqnp5gzg"
+		},
+		"StationAddress": {
+			"Zh_tw": "吉林路吉利六街口東南側人行道",
+			"En": "Jilin Rd./Jili 6th St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304021",
+		"StationID": "500304021",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍岡森林公園",
+			"En": "YouBike2.0_Longgang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23592,
+			"PositionLat": 24.93397,
+			"GeoHash": "wsqjyg16c"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍岡路三段289號對面龍岡森林公園旁人行道",
+			"En": "No.289, Sec. 3, Longgang Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304022",
+		"StationID": "500304022",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠孝廣場",
+			"En": "YouBike2.0_Zongxiao Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25685,
+			"PositionLat": 24.97252,
+			"GeoHash": "wsqnp60e3"
+		},
+		"StationAddress": {
+			"Zh_tw": "忠孝路8-22號對面路側",
+			"En": "No.8-22, Zhongxiao Rd.(opposite)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "TAO500304023",
+		"StationID": "500304023",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠福廣場",
+			"En": "YouBike2.0_Zhongfu Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.227697,
+			"PositionLat": 24.971805,
+			"GeoHash": "wsqnn9gr6"
+		},
+		"StationAddress": {
+			"Zh_tw": "南園二路292號對面忠福廣場旁人行道",
+			"En": "No.292, Nanyuan 2nd Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304024",
+		"StationID": "500304024",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_健行科技大學",
+			"En": "YouBike2.0_Chien Hsin University of Science and Technology"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22901,
+			"PositionLat": 24.94678,
+			"GeoHash": "wsqjytkm8"
+		},
+		"StationAddress": {
+			"Zh_tw": "健行路229號(商學大樓後人行道)",
+			"En": "No.229, Jianxing Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500304025",
+		"StationID": "500304025",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_啟英高中",
+			"En": "YouBike2.0_Chi-Ying Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.234553,
+			"PositionLat": 24.97561,
+			"GeoHash": "wsqnnf8m3"
+		},
+		"StationAddress": {
+			"Zh_tw": "西園路76號對面啟英高中旁人行道",
+			"En": "No.76, Xiyuan Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500304026",
+		"StationID": "500304026",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_內壢文化公園",
+			"En": "YouBike2.0_Neili Wenhua Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2501,
+			"PositionLat": 24.97957,
+			"GeoHash": "wsqnp57ss"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化路長春二路西北側公園旁人行道",
+			"En": "Wenhua Rd./Changchun 2nd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304027",
+		"StationID": "500304027",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_萬能科技大學",
+			"En": "YouBike2.0_Vanung University of Technology"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22993,
+			"PositionLat": 24.99275,
+			"GeoHash": "wsqnntucq"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬能路1號(萬芳樓後方人行道)",
+			"En": "No.1, Changchun 2nd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304028",
+		"StationID": "500304028",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_環中東永福路口",
+			"En": "YouBike2.0_Huanzhong E. & Yongfu Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25517,
+			"PositionLat": 24.96203,
+			"GeoHash": "wsqnp0pq6"
+		},
+		"StationAddress": {
+			"Zh_tw": "環中東路325號前人行道",
+			"En": "No.325, Huanzhong E. Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304029",
+		"StationID": "500304029",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_五權公園",
+			"En": "YouBike2.0_Wuquan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.204579,
+			"PositionLat": 24.958867,
+			"GeoHash": "wsqjypd7z"
+		},
+		"StationAddress": {
+			"Zh_tw": "正大街五族二街西北側人行道",
+			"En": "Zhengda St./Wuzu 2nd St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304030",
+		"StationID": "500304030",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢新興公園",
+			"En": "YouBike2.0_Zhongli Xinxing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22605,
+			"PositionLat": 24.94527,
+			"GeoHash": "wsqjyt4he"
+		},
+		"StationAddress": {
+			"Zh_tw": "林森路90號前方人行道",
+			"En": "No.90, Linsen Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304031",
+		"StationID": "500304031",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館內壢分館",
+			"En": "YouBike2.0_Taoyuan Public Library Neili Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25797,
+			"PositionLat": 24.97795,
+			"GeoHash": "wsqnp7175"
+		},
+		"StationAddress": {
+			"Zh_tw": "光華三街10號前方人行道",
+			"En": "No.10, Guanghua 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304032",
+		"StationID": "500304032",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中央大學依仁堂",
+			"En": "YouBike2.0_Office of Physical Education, NCU"
+		},
+		"StationPosition": {
+			"PositionLon": 121.19096,
+			"PositionLat": 24.96712,
+			"GeoHash": "wsqnjc0s4"
+		},
+		"StationAddress": {
+			"Zh_tw": "中大路300號(松苑餐廳前方廣場)",
+			"En": "No.300, Zhongda Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304033",
+		"StationID": "500304033",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館龍岡分館",
+			"En": "YouBike2.0_Taoyuan Public Library Longgang Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25583,
+			"PositionLat": 24.93794,
+			"GeoHash": "wsqjz5zf1"
+		},
+		"StationAddress": {
+			"Zh_tw": "台貿一街100號後方機車停車場",
+			"En": "No.100, Taimao 1st St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304034",
+		"StationID": "500304034",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運高鐵桃園站(A18)",
+			"En": "YouBike2.0_MRT HSR Taoyuan Station (A18)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21393,
+			"PositionLat": 25.01378,
+			"GeoHash": "wsqnq397c"
+		},
+		"StationAddress": {
+			"Zh_tw": "高鐵北路一段6號(對面捷運站出口外側人行道)",
+			"En": "No.6, Sec. 1, Gaotie N. Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500304035",
+		"StationID": "500304035",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運桃園體育園區站(A19)",
+			"En": "YouBike2.0_MRT Taoyuan Sports Park Station (A19)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20278,
+			"PositionLat": 25.00157,
+			"GeoHash": "wsqnnp3ht"
+		},
+		"StationAddress": {
+			"Zh_tw": "高鐵南路二段369號對面人行道",
+			"En": "No.369, Sec. 2, Gaotie S. Rd.(opposite)"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "TAO500304036",
+		"StationID": "500304036",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運環北站(A21)",
+			"En": "YouBike2.0_MRT Huanbei Station (A21)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22097,
+			"PositionLat": 24.96756,
+			"GeoHash": "wsqnn3nqt"
+		},
+		"StationAddress": {
+			"Zh_tw": "中豐北路26號旁人行道",
+			"En": "No.26, Zhongfeng N. Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500304037",
+		"StationID": "500304037",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青埔國中",
+			"En": "YouBike2.0_Qing Pu Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2058,
+			"PositionLat": 25.01083,
+			"GeoHash": "wsqnq156e"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航北路二段281號前方人行道",
+			"En": "No.281, Sec. 2, Linghang N. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304038",
+		"StationID": "500304038",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_領航公園",
+			"En": "YouBike2.0_Linghang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20105,
+			"PositionLat": 25.00741,
+			"GeoHash": "wsqnmbryt"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航北路一段永裕路口北側公園旁人行道",
+			"En": "Sec. 1, Linghang N. Rd./Yongyu Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304039",
+		"StationID": "500304039",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_仁祥公園",
+			"En": "YouBike2.0_Renxiang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.260842,
+			"PositionLat": 24.948864,
+			"GeoHash": "wsqjzmg3w"
+		},
+		"StationAddress": {
+			"Zh_tw": "華祥一街3巷2號對面公園旁人行道",
+			"En": "No.2, Ln. 3, Huaxiang 1st St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304040",
+		"StationID": "500304040",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_篤行公園",
+			"En": "YouBike2.0_Duxing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26328,
+			"PositionLat": 24.958288,
+			"GeoHash": "wsqjzrt0x"
+		},
+		"StationAddress": {
+			"Zh_tw": "永福路47號對面人行道",
+			"En": "No.47, Yongfu Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304041",
+		"StationID": "500304041",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_甲蟲公園",
+			"En": "YouBike2.0_Jiachong Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25275,
+			"PositionLat": 24.97754,
+			"GeoHash": "wsqnp5j89"
+		},
+		"StationAddress": {
+			"Zh_tw": "元生二街元生三街口西北側公園旁人行道",
+			"En": "Yuansheng 2nd St./Yuansheng 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304042",
+		"StationID": "500304042",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢中央公園",
+			"En": "YouBike2.0_Zhongli Central Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2262,
+			"PositionLat": 24.95666,
+			"GeoHash": "wsqjyx4pp"
+		},
+		"StationAddress": {
+			"Zh_tw": "建國北路9號對面公園人行道",
+			"En": "No.9, Jianguo N. Rd.(opposite)"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "TAO500304043",
+		"StationID": "500304043",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_黎明公園",
+			"En": "YouBike2.0_Liming Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25613,
+			"PositionLat": 24.93989,
+			"GeoHash": "wsqjzk0j2"
+		},
+		"StationAddress": {
+			"Zh_tw": "同慶路榮民南路口西南側公園前方路側",
+			"En": "Tongqing Rd./Rongmin S. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304044",
+		"StationID": "500304044",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_興仁公園",
+			"En": "YouBike2.0_Xinren Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26355,
+			"PositionLat": 24.96626,
+			"GeoHash": "wsqnp2vrj"
+		},
+		"StationAddress": {
+			"Zh_tw": "興仁路二段120號對面公園內人行道",
+			"En": "No.120, Sec. 2, Xingren Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500304045",
+		"StationID": "500304045",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_自立新村(榮安一街)",
+			"En": "YouBike2.0_Zili Community (Rong'an 1st St.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25338,
+			"PositionLat": 24.96543,
+			"GeoHash": "wsqnp0y40"
+		},
+		"StationAddress": {
+			"Zh_tw": "榮安一街自立三街2巷北側人行道",
+			"En": "Rong'an 1st St./Ln. 2, Zili 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304046",
+		"StationID": "500304046",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_晉元路仁德一街口",
+			"En": "YouBike2.0_Jinyuan Rd. & Rende 1st St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.261293,
+			"PositionLat": 24.950926,
+			"GeoHash": "wsqjzq5v8"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁德一街28-4號對面路側",
+			"En": "No.28-4, Rende 1st St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304047",
+		"StationID": "500304047",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍和公園",
+			"En": "YouBike2.0_Longhe Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24481,
+			"PositionLat": 24.93422,
+			"GeoHash": "wsqjygpu2"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍和三街290號(活動中心旁公園人行道)",
+			"En": "No.290, Longhe 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304048",
+		"StationID": "500304048",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_紫雲宮",
+			"En": "YouBike2.0_Ziyun Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22283,
+			"PositionLat": 24.94485,
+			"GeoHash": "wsqjympf2"
+		},
+		"StationAddress": {
+			"Zh_tw": "自忠二街126號對面停車場",
+			"En": "No.126, Zizhong 2nd St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304049",
+		"StationID": "500304049",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_常樂公園",
+			"En": "YouBike2.0_Changle Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25086,
+			"PositionLat": 24.97688,
+			"GeoHash": "wsqnp4uhv"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化二路237-243號旁公園人行道",
+			"En": "No.237-243, Wenhua 2nd Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304050",
+		"StationID": "500304050",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_金鋒太子",
+			"En": "YouBike2.0_Jinfeng Prince"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24863,
+			"PositionLat": 24.94591,
+			"GeoHash": "wsqjzj683"
+		},
+		"StationAddress": {
+			"Zh_tw": "金鋒四街50巷2號對面",
+			"En": "No.2, Ln. 50, Jinfeng 4th St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304051",
+		"StationID": "500304051",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_華愛兒童公園",
+			"En": "YouBike2.0_Hua-Ai Children's Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.259724,
+			"PositionLat": 24.952303,
+			"GeoHash": "wsqjzq6ts"
+		},
+		"StationAddress": {
+			"Zh_tw": "華愛街35號對面公園旁人行道",
+			"En": "No.35, Hua’ai St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304052",
+		"StationID": "500304052",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_過嶺國中",
+			"En": "YouBike2.0_Guo Ling Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.17552,
+			"PositionLat": 24.9602,
+			"GeoHash": "wsqjvrv7d"
+		},
+		"StationAddress": {
+			"Zh_tw": "松智路過嶺路一段路口人行道",
+			"En": "Songzhi Rd./Sec. 1, Guoling Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304053",
+		"StationID": "500304053",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南方莊園",
+			"En": "YouBike2.0_Nanfang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.17791,
+			"PositionLat": 24.96728,
+			"GeoHash": "wsqnj3phc"
+		},
+		"StationAddress": {
+			"Zh_tw": "樹籽路8號對面停車場旁人行道",
+			"En": "No.8, Shuzi Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304054",
+		"StationID": "500304054",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南亞技術學院",
+			"En": "YouBike2.0_Nanya Institute of Technology"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25171,
+			"PositionLat": 24.93756,
+			"GeoHash": "wsqjz5szc"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山東路三段414號內機車停車場",
+			"En": "No.414, Sec. 3, Zhongshan E. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304055",
+		"StationID": "500304055",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_華勛公園",
+			"En": "YouBike2.0_Huaxun Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.261741,
+			"PositionLat": 24.946622,
+			"GeoHash": "wsqjzmkhe"
+		},
+		"StationAddress": {
+			"Zh_tw": "華仁街68巷34號對面公園",
+			"En": "No.34, Ln. 68, Huaren St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304056",
+		"StationID": "500304056",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青塘園",
+			"En": "YouBike2.0_Qingtang Garden"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20492,
+			"PositionLat": 25.00641,
+			"GeoHash": "wsqnq068z"
+		},
+		"StationAddress": {
+			"Zh_tw": "洽溪路133號對面公園人行道",
+			"En": "No.133, Qiaxi Rd. (oppsite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304057",
+		"StationID": "500304057",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大江購物中心",
+			"En": "YouBike2.0_Metrowalk"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22939,
+			"PositionLat": 25.00127,
+			"GeoHash": "wsqnnxkdc"
+		},
+		"StationAddress": {
+			"Zh_tw": "中園路二段501號前方人行道",
+			"En": "No.501, Sec. 2, Zhongyuan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304058",
+		"StationID": "500304058",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_老街溪河川教育中心",
+			"En": "YouBike2.0_LaoJier River Education Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21856,
+			"PositionLat": 24.95374,
+			"GeoHash": "wsqjyqswj"
+		},
+		"StationAddress": {
+			"Zh_tw": "中原路58號前方人行道",
+			"En": "No.58, Gongxue Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304059",
+		"StationID": "500304059",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍岡圓環",
+			"En": "YouBike2.0_Longgang Roundabout"
+		},
+		"StationPosition": {
+			"PositionLon": 121.244046,
+			"PositionLat": 24.926002,
+			"GeoHash": "wsqjycxhr"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍東路龍岡路三段路口",
+			"En": "Longdong Rd./Sec. 3, Longgang Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304060",
+		"StationID": "500304060",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_內厝社區活動中心",
+			"En": "YouBike2.0_Neicuo Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.17943,
+			"PositionLat": 24.98932,
+			"GeoHash": "wsqnjt0jm"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路四段112號前方路側",
+			"En": "No.112, Sec. 4, Zhongzheng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304061",
+		"StationID": "500304061",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍岡大操場",
+			"En": "YouBike2.0_Longgang Playground"
+		},
+		"StationPosition": {
+			"PositionLon": 121.239605,
+			"PositionLat": 24.930164,
+			"GeoHash": "wsqjyf7ux"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍岡路三段游泳路口旁公園人行道",
+			"En": "Sec. 3, Longgang Rd./Youyong Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304062",
+		"StationID": "500304062",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_普忠路770巷口",
+			"En": "YouBike2.0_Ln. 770, Puzhong Rd."
+		},
+		"StationPosition": {
+			"PositionLon": 121.251253,
+			"PositionLat": 24.954231,
+			"GeoHash": "wsqjznu2y"
+		},
+		"StationAddress": {
+			"Zh_tw": "普忠路605號對面人行道",
+			"En": "No.605, Puzhong Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304063",
+		"StationID": "500304063",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青埔國小",
+			"En": "YouBike2.0_Qingpu Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21368,
+			"PositionLat": 25.00662,
+			"GeoHash": "wsqnq2345"
+		},
+		"StationAddress": {
+			"Zh_tw": "新生路四段127號對面人行道",
+			"En": "No.127, Sec. 4, Sinsheng Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304064",
+		"StationID": "500304064",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_公七公園",
+			"En": "YouBike2.0_Gongqi Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.219904,
+			"PositionLat": 25.008599,
+			"GeoHash": "wsqnq2tts"
+		},
+		"StationAddress": {
+			"Zh_tw": "青商路288-298斜對面公園內",
+			"En": "No.288, Qingshang Rd."
+		},
+		"BikesCapacity": 33
+	},
+	{
+		"StationUID": "TAO500304065",
+		"StationID": "500304065",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_至善綠園",
+			"En": "YouBike2.0_Zhishan Greens"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24995,
+			"PositionLat": 24.94035,
+			"GeoHash": "wsqjzh780"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍昌路32號對面公園",
+			"En": "No.32, Longchang Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304066",
+		"StationID": "500304066",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中鑄公園",
+			"En": "YouBike2.0_Zhongzhu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25065,
+			"PositionLat": 24.96853,
+			"GeoHash": "wsqnp1kh0"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路一段619巷31號對面公園",
+			"En": "No.31, Ln. 619, Sec. 1, Zhonghua Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304067",
+		"StationID": "500304067",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大潤發中壢店",
+			"En": "YouBike2.0_RT-Mart Zhongli Store"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23484,
+			"PositionLat": 24.95525,
+			"GeoHash": "wsqjyybwb"
+		},
+		"StationAddress": {
+			"Zh_tw": "中北路二段468號南側人行道",
+			"En": "No. 468, Section 2, Zhongbei Road."
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "TAO500304068",
+		"StationID": "500304068",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍興國中",
+			"En": "YouBike2.0_Longxing Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23638,
+			"PositionLat": 24.93784,
+			"GeoHash": "wsqjygc9k"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍勇路100號前方人行道",
+			"En": "No.100, Longyong Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304069",
+		"StationID": "500304069",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_竹風青田",
+			"En": "YouBike2.0_TrueFull QingTian"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20184,
+			"PositionLat": 25.0115,
+			"GeoHash": "wsqnq10qx"
+		},
+		"StationAddress": {
+			"Zh_tw": "永園路一段130號前方人行道",
+			"En": "No.130, Yongyuan Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304070",
+		"StationID": "500304070",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍安里集會所",
+			"En": "YouBike2.0_Longan Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25766,
+			"PositionLat": 24.93149,
+			"GeoHash": "wsqjz69hk"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍江路99號前方廣場",
+			"En": "No.99, Longjiang Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304071",
+		"StationID": "500304071",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢仁德公園",
+			"En": "YouBike2.0_Zhongli Rende Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.266529,
+			"PositionLat": 24.953347,
+			"GeoHash": "wsqjzqxef"
+		},
+		"StationAddress": {
+			"Zh_tw": "崁頂路崁頂路1401巷口旁人行道",
+			"En": "Ln. 1401, Kanding Rd./Kanding Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304072",
+		"StationID": "500304072",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍慈龍和三街口",
+			"En": "YouBike2.0_Longci & Longhe 3rd st. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24377,
+			"PositionLat": 24.94011,
+			"GeoHash": "wsqjyupn8"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍慈路與龍和三街旁路側",
+			"En": "Longcih Rd./Longhe 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304073",
+		"StationID": "500304073",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_功學社新村",
+			"En": "YouBike2.0_Gongxueshexincun"
+		},
+		"StationPosition": {
+			"PositionLon": 121.256356,
+			"PositionLat": 24.954249,
+			"GeoHash": "wsqjzqb1j"
+		},
+		"StationAddress": {
+			"Zh_tw": "功學路156號前方空地",
+			"En": "No.156, Gongxue Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304074",
+		"StationID": "500304074",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_六和兒童公園",
+			"En": "YouBike2.0_Liuhe Children's Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22458,
+			"PositionLat": 24.96364,
+			"GeoHash": "wsqnn83p9"
+		},
+		"StationAddress": {
+			"Zh_tw": "六和路55號對面公園",
+			"En": "No.55, Liouhe Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304075",
+		"StationID": "500304075",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_普忠榮民南路口",
+			"En": "YouBike2.0_Puzhong & Rongmin S. Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.256339,
+			"PositionLat": 24.949502,
+			"GeoHash": "wsqjzmbjm"
+		},
+		"StationAddress": {
+			"Zh_tw": "普忠路1168號前",
+			"En": "No. 1168, Puzhong Rd."
+		},
+		"BikesCapacity": 13
+	},
+	{
+		"StationUID": "TAO500304076",
+		"StationID": "500304076",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍岡停車場",
+			"En": "YouBike2.0_Longgang Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.253064,
+			"PositionLat": 24.930088,
+			"GeoHash": "wsqjz4mu3"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍文三街/龍東路口(西側)",
+			"En": "Longwen 3rd St. & Longdong Rd. Intersection(West)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304077",
+		"StationID": "500304077",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_莒光公園(環中東路)",
+			"En": "YouBike2.0_Juguang Park (Huanzhong E. Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23597,
+			"PositionLat": 24.94894,
+			"GeoHash": "wsqjyvc64"
+		},
+		"StationAddress": {
+			"Zh_tw": "環中東路二段288號前",
+			"En": "No. 288, Sec. 2, Huanzhong E. Rd."
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500304078",
+		"StationID": "500304078",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_環中東實踐路口",
+			"En": "YouBike2.0_Huanzhong E. & Shijian Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24334,
+			"PositionLat": 24.95368,
+			"GeoHash": "wsqjyywtw"
+		},
+		"StationAddress": {
+			"Zh_tw": "環中東路776號前",
+			"En": "No. 776, Huanzhong E. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304079",
+		"StationID": "500304079",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新明國中",
+			"En": "YouBike2.0_Hsin Ming Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21231,
+			"PositionLat": 24.95621,
+			"GeoHash": "wsqjyr0h7"
+		},
+		"StationAddress": {
+			"Zh_tw": "民族路109號(對側)",
+			"En": "No. 109, Minzu Rd.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304080",
+		"StationID": "500304080",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中華路一段文化二路口",
+			"En": "YouBike2.0_Sec. 1, Zhonghua Rd. & Wenhua 2nd Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25355,
+			"PositionLat": 24.97093,
+			"GeoHash": "wsqnp1y4h"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路一段480號前",
+			"En": "No. 480, Sec. 1, Zhonghua Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304081",
+		"StationID": "500304081",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_過嶺廣場",
+			"En": "YouBike2.0_Guoling Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.16451,
+			"PositionLat": 24.96035,
+			"GeoHash": "wsqjvpvk9"
+		},
+		"StationAddress": {
+			"Zh_tw": "松勤路13號(對側)",
+			"En": "No. 13, Songqin Rd.(Opposite)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500304082",
+		"StationID": "500304082",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢公15公園",
+			"En": "YouBike2.0_Zhongli Public 15th Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2079,
+			"PositionLat": 25.00053,
+			"GeoHash": "wsqnnphys"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航南路一段/文德路口(東南側)",
+			"En": "Sec. 1, Linghang S. Rd. & Wende Rd. Intersection(Southeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304083",
+		"StationID": "500304083",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新街國小",
+			"En": "YouBike2.0_Shin Jie Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22873,
+			"PositionLat": 24.96438,
+			"GeoHash": "wsqnn8sh4"
+		},
+		"StationAddress": {
+			"Zh_tw": "環北路564號旁步道",
+			"En": "No.564, Huanbei Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304084",
+		"StationID": "500304084",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_福州橋",
+			"En": "YouBike2.0_Fuzhou Bridge"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23478,
+			"PositionLat": 24.9683,
+			"GeoHash": "wsqnnc26z"
+		},
+		"StationAddress": {
+			"Zh_tw": "福州二街513號對面步道",
+			"En": "No.513, Fujhou 2nd St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304085",
+		"StationID": "500304085",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_高鐵桃園站(3號出口)",
+			"En": "YouBike2.0_HSR  Taoyuan Station (Exit.3)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21522,
+			"PositionLat": 25.01242,
+			"GeoHash": "wsqnq365z"
+		},
+		"StationAddress": {
+			"Zh_tw": "高鐵北路一段6號前人行道",
+			"En": "HSR Taoyuan Station (Exit.3)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500304086",
+		"StationID": "500304086",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_老街溪環河步道(環北路)",
+			"En": "YouBike2.0_Laojiexi Huanhe Trail (Huanbei Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21933,
+			"PositionLat": 24.9661,
+			"GeoHash": "wsqnn2vnp"
+		},
+		"StationAddress": {
+			"Zh_tw": "環北路92號旁公園",
+			"En": "No.92, Huanbei Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304087",
+		"StationID": "500304087",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠孝黃昏市場",
+			"En": "YouBike2.0_Zhongxiao Dusk Market"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25297,
+			"PositionLat": 24.98226,
+			"GeoHash": "wsqnp5vsn"
+		},
+		"StationAddress": {
+			"Zh_tw": "吉利七街65號旁綠地",
+			"En": "No.65, Jili 7th St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304088",
+		"StationID": "500304088",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_廣明停車場",
+			"En": "YouBike2.0_Guangming Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21406,
+			"PositionLat": 24.95458,
+			"GeoHash": "wsqjyqc6u"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣明路78號旁停車場",
+			"En": "No.78, Guangming Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304089",
+		"StationID": "500304089",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_高鐵北青昇二街口",
+			"En": "YouBike2.0_Gaotie N. Rd. & Qingsheng 2nd St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22033,
+			"PositionLat": 25.01804,
+			"GeoHash": "wsqnq6muw"
+		},
+		"StationAddress": {
+			"Zh_tw": "高鐵北路二段96號旁公園",
+			"En": "No.96, Sec. 2, Gaotie N. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304090",
+		"StationID": "500304090",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_竹風青庭",
+			"En": "YouBike2.0_TrueFull QingTing"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20138,
+			"PositionLat": 25.00604,
+			"GeoHash": "wsqnq00ns"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航北路一段296號前方人行道",
+			"En": "No.296, Sec. 1, Linghang N. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304091",
+		"StationID": "500304091",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青埔公10公園",
+			"En": "YouBike2.0_Qingpu Public 10th  Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20756,
+			"PositionLat": 25.0144,
+			"GeoHash": "wsqnq1sxk"
+		},
+		"StationAddress": {
+			"Zh_tw": "永昌路/永昌一路口(南側)",
+			"En": "Yongchang Rd. & Yongchang 1st Rd. Intersection(South)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304092",
+		"StationID": "500304092",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_玖都機構",
+			"En": "YouBike2.0_Jiudu Institution"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20865,
+			"PositionLat": 25.005,
+			"GeoHash": "wsqnq0j2w"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路一段文發路口(土地公廟前)",
+			"En": "Sec. 1, Gongyuan Rd. & Wenfa Rd. Intersection"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304093",
+		"StationID": "500304093",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_天翔社區",
+			"En": "YouBike2.0_Tian Xiang Station"
+		},
+		"StationPosition": {
+			"PositionLon": 121.258832,
+			"PositionLat": 24.946126,
+			"GeoHash": "wsqjzm3cx"
+		},
+		"StationAddress": {
+			"Zh_tw": "華美三路353號前人行道",
+			"En": "No.353, Huamei 3rd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304094",
+		"StationID": "500304094",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢區殯葬服務中心",
+			"En": "YouBike2.0_Office of Funeral Services,Zhongli"
+		},
+		"StationPosition": {
+			"PositionLon": 121.227558,
+			"PositionLat": 24.976932,
+			"GeoHash": "wsqnndgjn"
+		},
+		"StationAddress": {
+			"Zh_tw": "培英路289號前人行道",
+			"En": "No.289, Peiying Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304095",
+		"StationID": "500304095",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_健行科技大學民設學院",
+			"En": "YouBike2.0_College of Human Ecology and Design(UCH)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22901,
+			"PositionLat": 24.94933,
+			"GeoHash": "wsqjytuk2"
+		},
+		"StationAddress": {
+			"Zh_tw": "衡陽街93號對面停車場",
+			"En": "No.93, Hengyang St.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500304096",
+		"StationID": "500304096",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_老街溪河岸廣場",
+			"En": "YouBike2.0_Laojie Creek Riverside Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2191,
+			"PositionLat": 24.96027,
+			"GeoHash": "wsqjyrvh1"
+		},
+		"StationAddress": {
+			"Zh_tw": "中美路二段192號旁廣場",
+			"En": "No.192, Sec. 2, Jhongmei Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304097",
+		"StationID": "500304097",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中壢藝術館",
+			"En": "YouBike2.0_Zhongli Arts Hall"
+		},
+		"StationPosition": {
+			"PositionLon": 121.227,
+			"PositionLat": 24.95823,
+			"GeoHash": "wsqjyxdb1"
+		},
+		"StationAddress": {
+			"Zh_tw": "中美路31號對面人行道",
+			"En": "No.31, Zhongmei Rd. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304098",
+		"StationID": "500304098",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_同心公園",
+			"En": "YouBike2.0_Tongxin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21889,
+			"PositionLat": 25.00485,
+			"GeoHash": "wsqnnruzu"
+		},
+		"StationAddress": {
+			"Zh_tw": "青埔六街/青埔三街口(東南側)",
+			"En": "Qingbu 6th St./Qingbu 3rd St. intersection. (Southeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304099",
+		"StationID": "500304099",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運老街溪站(A22)",
+			"En": "YouBike2.0_MRT Laojie River Station (A22)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2193,
+			"PositionLat": 24.95826,
+			"GeoHash": "wsqjyrt0q"
+		},
+		"StationAddress": {
+			"Zh_tw": "中豐路/中央西路一段西側人行道",
+			"En": "Zhongfeng Rd. & Sec. 1, Zhongyang W. Rd. Intersection"
+		},
+		"BikesCapacity": 21
+	},
+	{
+		"StationUID": "TAO500304100",
+		"StationID": "500304100",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_良茂詠恆",
+			"En": "YouBike2.0_LM Qingbu Station"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21642,
+			"PositionLat": 25.00643,
+			"GeoHash": "wsqnq2715"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航南路二段350~396號前",
+			"En": "No. 350, Sec. 2, Linghang S. Rd."
+		},
+		"BikesCapacity": 13
+	},
+	{
+		"StationUID": "TAO500304101",
+		"StationID": "500304101",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_置地廣場 桃園",
+			"En": "YouBike2.0_Landmark Plaza Taoyuan"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21273,
+			"PositionLat": 25.01696,
+			"GeoHash": "wsqnq60qm"
+		},
+		"StationAddress": {
+			"Zh_tw": "春德路132號對側",
+			"En": "No. 132, Chunde Rd. (opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500304102",
+		"StationID": "500304102",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_領航南青溪路口",
+			"En": "YouBike2.0_Linghang S Rd. & Qingxi Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22416,
+			"PositionLat": 25.01785,
+			"GeoHash": "wsqnqd2ex"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航南路四段與青溪路二段口(東北側)",
+			"En": "Sec. 4, Linghang S Rd. & Sec. 2, Qingxi Rd. Intersection (Northeast)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500304103",
+		"StationID": "500304103",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_櫻花緻",
+			"En": "YouBike2.0_SAKURA ARCH"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2234,
+			"PositionLat": 25.0051,
+			"GeoHash": "wsqnq801m"
+		},
+		"StationAddress": {
+			"Zh_tw": "青溪路一段/青埔六街口東側人行道",
+			"En": "Sec. 1, Qingxi Rd.&Qingpu 6th St. Intersection (East)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500304104",
+		"StationID": "500304104",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青昇公園",
+			"En": "YouBike2.0_Qingsheng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22195,
+			"PositionLat": 25.01471,
+			"GeoHash": "wsqnq3z1h"
+		},
+		"StationAddress": {
+			"Zh_tw": "領航南路四段與青昇路口",
+			"En": "Sec. 4, Linghang S. Rd.&Qingsheng Rd. Intersection"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305001",
+		"StationID": "500305001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館平鎮分館",
+			"En": "YouBike2.0_Taoyuan Public Library Pingzhen Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.218322,
+			"PositionLat": 24.940031,
+			"GeoHash": "wsqjykhqp"
+		},
+		"StationAddress": {
+			"Zh_tw": "環南路三段88號右前方人行道",
+			"En": "No.88, Sec. 3, Huannan Rd."
+		},
+		"BikesCapacity": 22
+	},
+	{
+		"StationUID": "TAO500305002",
+		"StationID": "500305002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新勢公園",
+			"En": "YouBike2.0_Xinshi Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21669,
+			"PositionLat": 24.95069,
+			"GeoHash": "wsqjyq5k3"
+		},
+		"StationAddress": {
+			"Zh_tw": "延平路一段181號對面新勢公園旁人行道",
+			"En": "No.181, Sec. 1, Yanping Rd.(opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500305003",
+		"StationID": "500305003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_復興廣德街口",
+			"En": "YouBike2.0_Fuxing & Guangde St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20504,
+			"PositionLat": 24.95438,
+			"GeoHash": "wsqjynfcf"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興街廣德街口西南側人行道",
+			"En": "Fuxing St./Guangde St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500305004",
+		"StationID": "500305004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_宋屋公園",
+			"En": "YouBike2.0_Songwu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20419,
+			"PositionLat": 24.94528,
+			"GeoHash": "wsqjyj4hy"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣泰路152號對面公園旁人行道",
+			"En": "No.152, Guangtai Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500305005",
+		"StationID": "500305005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_廣仁公園",
+			"En": "YouBike2.0_Guangren Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20641,
+			"PositionLat": 24.93948,
+			"GeoHash": "wsqjyh5g4"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣南路168號對面公園旁人行道",
+			"En": "No.168, Guangnan Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305006",
+		"StationID": "500305006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新寶公園",
+			"En": "YouBike2.0_Xinpao Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21407,
+			"PositionLat": 24.93956,
+			"GeoHash": "wsqjyk17k"
+		},
+		"StationAddress": {
+			"Zh_tw": "新富五街41號(左側公園綠帶)",
+			"En": "No.41, Xinfu 5th St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500305007",
+		"StationID": "500305007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮區婦幼館",
+			"En": "YouBike2.0_Pingzhen Maternity and Child Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20855,
+			"PositionLat": 24.95627,
+			"GeoHash": "wsqjypjkg"
+		},
+		"StationAddress": {
+			"Zh_tw": "廣成街10號對面路側",
+			"En": "No.10, Guangcheng St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500305008",
+		"StationID": "500305008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新榮公園",
+			"En": "YouBike2.0_Xinrong Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21498,
+			"PositionLat": 24.94599,
+			"GeoHash": "wsqjym60c"
+		},
+		"StationAddress": {
+			"Zh_tw": "振興西路新德街口西北側公園旁人行道",
+			"En": "Zhenxing W. Rd./Xinde St."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500305009",
+		"StationID": "500305009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東安國中",
+			"En": "YouBike2.0_Dong An Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24976,
+			"PositionLat": 24.9165,
+			"GeoHash": "wsqjxpgmh"
+		},
+		"StationAddress": {
+			"Zh_tw": "平東路168號(面東安國中右側人行道)",
+			"En": "No.168, Pingdong Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500305010",
+		"StationID": "500305010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮和平公園",
+			"En": "YouBike2.0_Pingzhen Heping Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22114,
+			"PositionLat": 24.94753,
+			"GeoHash": "wsqjymw9c"
+		},
+		"StationAddress": {
+			"Zh_tw": "莒光路39號對面路側",
+			"En": "No.39, Juguang Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500305011",
+		"StationID": "500305011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_莊敬里民集會所",
+			"En": "YouBike2.0_Zhuangjing Civil Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21482,
+			"PositionLat": 24.90408,
+			"GeoHash": "wsqjwm9uy"
+		},
+		"StationAddress": {
+			"Zh_tw": "自強街莊福路口東北側人行道",
+			"En": "Ziqiang St.,/Zhuangfu Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305012",
+		"StationID": "500305012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中豐坤慶路口",
+			"En": "YouBike2.0_Zhongfeng & Kunqing Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.211817,
+			"PositionLat": 24.90262,
+			"GeoHash": "wsqjwjru2"
+		},
+		"StationAddress": {
+			"Zh_tw": "坤慶路1號前方人行道",
+			"En": "No.1, Kunqing Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500305013",
+		"StationID": "500305013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_廣南停車場",
+			"En": "YouBike2.0_Guangnan Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20863,
+			"PositionLat": 24.94491,
+			"GeoHash": "wsqjyjj6t"
+		},
+		"StationAddress": {
+			"Zh_tw": "環南路二段11號旁人行道",
+			"En": "No.11, Sec. 2, Huannan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305014",
+		"StationID": "500305014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_獅子林社區活動中心",
+			"En": "YouBike2.0_Shizilin Community Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22529,
+			"PositionLat": 24.92834,
+			"GeoHash": "wsqjyd1d1"
+		},
+		"StationAddress": {
+			"Zh_tw": "大智街88號對面",
+			"En": "No.88, Dazhi St.(opposite)"
+		},
+		"BikesCapacity": 13
+	},
+	{
+		"StationUID": "TAO500305015",
+		"StationID": "500305015",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_民俗文化公園",
+			"En": "YouBike2.0_Folk Cultural Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20635,
+			"PositionLat": 24.91191,
+			"GeoHash": "wsqjwp5f2"
+		},
+		"StationAddress": {
+			"Zh_tw": "上海路115號東北側",
+			"En": "No. 115, Shanghai Rd.(Northeast)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500305016",
+		"StationID": "500305016",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_上海南京路口",
+			"En": "YouBike2.0_Shanghai & Nanjing Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20613,
+			"PositionLat": 24.91582,
+			"GeoHash": "wsqjwpg95"
+		},
+		"StationAddress": {
+			"Zh_tw": "上海路227號旁人行道",
+			"En": "No.227, Shanghai Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500305017",
+		"StationID": "500305017",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠愛公園",
+			"En": "YouBike2.0_Zhong'ai Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22493,
+			"PositionLat": 24.93306,
+			"GeoHash": "wsqjydcm9"
+		},
+		"StationAddress": {
+			"Zh_tw": "金陵路二段454巷18號旁公園",
+			"En": "No.18, Ln. 454, Sec. 2, Jinling Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305018",
+		"StationID": "500305018",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮魚形公園",
+			"En": "YouBike2.0_Pingzhen Yusing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.19022,
+			"PositionLat": 24.95796,
+			"GeoHash": "wsqjvz2n8"
+		},
+		"StationAddress": {
+			"Zh_tw": "清泉街49-53號旁公園內",
+			"En": "No.49-53, Qingquan St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305019",
+		"StationID": "500305019",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_山仔頂公園",
+			"En": "YouBike2.0_Shanzaiding Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20433,
+			"PositionLat": 24.89218,
+			"GeoHash": "wsqjw56r3"
+		},
+		"StationAddress": {
+			"Zh_tw": "自由街57號對面公園",
+			"En": "No.57, Ziyou St.. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305020",
+		"StationID": "500305020",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_義興公園",
+			"En": "YouBike2.0_Yixing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.209494,
+			"PositionLat": 24.949106,
+			"GeoHash": "wsqjyjy51"
+		},
+		"StationAddress": {
+			"Zh_tw": "義興街55號對面公園人行道",
+			"En": "No.55, Yixing St.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500305021",
+		"StationID": "500305021",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮市廿公園",
+			"En": "YouBike2.0_Pingzhen No.20 Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21896,
+			"PositionLat": 24.9428,
+			"GeoHash": "wsqjyksyq"
+		},
+		"StationAddress": {
+			"Zh_tw": "德育路二段104號對向人行道上",
+			"En": "No.104, Sec. 2, Deyu Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500305022",
+		"StationID": "500305022",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮國民運動中心",
+			"En": "YouBike2.0_Pingzhen Civil Sports Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2097,
+			"PositionLat": 24.91396,
+			"GeoHash": "wsqjwpqnq"
+		},
+		"StationAddress": {
+			"Zh_tw": "興安路20號對面空地",
+			"En": "No.20, Xing'an Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500305023",
+		"StationID": "500305023",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館東勢分館",
+			"En": "YouBike2.0_Taoyuan City Library Dongshi Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.231206,
+			"PositionLat": 24.9105,
+			"GeoHash": "wsqjwwvf5"
+		},
+		"StationAddress": {
+			"Zh_tw": "金陵路五段55號前方空地",
+			"En": "No.55, Sec. 5, Jinling Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305024",
+		"StationID": "500305024",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮平興國中",
+			"En": "YouBike2.0_Pingzhen Ping Hsing Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.20644,
+			"PositionLat": 24.95094,
+			"GeoHash": "wsqjyn5vf"
+		},
+		"StationAddress": {
+			"Zh_tw": "環南路與育達路二段路口",
+			"En": "Huannan Rd. & Sec. 2, Yuda Rd. Intersection."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500305025",
+		"StationID": "500305025",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮棒球場",
+			"En": "YouBike2.0_Baseball Field of Pingzhen Dist."
+		},
+		"StationPosition": {
+			"PositionLon": 121.21907,
+			"PositionLat": 24.9461,
+			"GeoHash": "wsqjymm19"
+		},
+		"StationAddress": {
+			"Zh_tw": "德育路240號旁人行道",
+			"En": "No.240, Deyu Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500305026",
+		"StationID": "500305026",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_環南金陵路口",
+			"En": "YouBike2.0_Huannan Rd. & Jinling Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22288,
+			"PositionLat": 24.94073,
+			"GeoHash": "wsqjykrf3"
+		},
+		"StationAddress": {
+			"Zh_tw": "環南路三段243號前方人行道",
+			"En": "No.243, Sec. 3, Huannan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305027",
+		"StationID": "500305027",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺北商業大學桃園校區",
+			"En": "YouBike2.0_Taoyuan Campus of NTUB"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23063,
+			"PositionLat": 24.90275,
+			"GeoHash": "wsqjwtmmn"
+		},
+		"StationAddress": {
+			"Zh_tw": "福龍路一段100號前方綠地",
+			"En": "No.100, Sec. 1, Fulong Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305028",
+		"StationID": "500305028",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_雲南文化公園",
+			"En": "YouBike2.0_Yunnan Culture Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.254634,
+			"PositionLat": 24.928798,
+			"GeoHash": "wsqjz4nuv"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍平路251號西南側",
+			"En": "No. 251, Longping Rd. (Southwest)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500305029",
+		"StationID": "500305029",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍慈游泳路口",
+			"En": "YouBike2.0_Longci Rd. & Youyong Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23511,
+			"PositionLat": 24.92824,
+			"GeoHash": "wsqjyf09w"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍慈路/游泳路口東側",
+			"En": "Longci Rd. & Youyong Rd. Intersection (East)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305030",
+		"StationID": "500305030",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新富橋",
+			"En": "YouBike2.0_Xinfu Bridge"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2074,
+			"PositionLat": 24.9319,
+			"GeoHash": "wsqjy4swc"
+		},
+		"StationAddress": {
+			"Zh_tw": "新光路二段87巷口(新富橋西北側)",
+			"En": "Ln. 87, Sec. 2, Xinguang Rd. intersection (Xinfu Bridge Northwest)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305031",
+		"StationID": "500305031",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_安平鎮綠映公園",
+			"En": "YouBike2.0_Anpingzhen Green Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.19045,
+			"PositionLat": 24.90599,
+			"GeoHash": "wsqjtvbpy"
+		},
+		"StationAddress": {
+			"Zh_tw": "平鎮區鎮興段1416、1419地號",
+			"En": "No.1419, No.1416 of Zhenxing Section, Pingzhen Dist."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500305032",
+		"StationID": "500305032",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_平鎮第一市民活動中心",
+			"En": "YouBike2.0_Pingzhen First Civil Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25293,
+			"PositionLat": 24.92763,
+			"GeoHash": "wsqjz1vty"
+		},
+		"StationAddress": {
+			"Zh_tw": "貿五路26號對側",
+			"En": "No. 26, Mao 5th Rd. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306001",
+		"StationID": "500306001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館桃園分館",
+			"En": "YouBike2.0_Taoyuan City Library Taoyuan Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31086,
+			"PositionLat": 24.99304,
+			"GeoHash": "wsqq0mzg5"
+		},
+		"StationAddress": {
+			"Zh_tw": "民權路32號前方人行道",
+			"En": "No.32, Minquan Rd."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500306002",
+		"StationID": "500306002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_民族公園",
+			"En": "YouBike2.0_Minzu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.306636,
+			"PositionLat": 24.995946,
+			"GeoHash": "wsqq0qkgc"
+		},
+		"StationAddress": {
+			"Zh_tw": "汕頭街15號對面民族公園旁人行道",
+			"En": "No.15, Shantou St. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306003",
+		"StationID": "500306003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_朝陽森林公園",
+			"En": "YouBike2.0_Chaoyang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31282,
+			"PositionLat": 24.999107,
+			"GeoHash": "wsqq0wcq3"
+		},
+		"StationAddress": {
+			"Zh_tw": "朝陽街104-108號對面機車停車場",
+			"En": "No.104 to No.108, Chaoyang St."
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500306004",
+		"StationID": "500306004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園延平公園",
+			"En": "YouBike2.0_Taoyuan Yenping Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.314998,
+			"PositionLat": 24.980482,
+			"GeoHash": "wsqq0edcu"
+		},
+		"StationAddress": {
+			"Zh_tw": "大豐路187號對面延平公園旁人行道",
+			"En": "No.187, Dafeng Rd. (opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500306005",
+		"StationID": "500306005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_福豐公園",
+			"En": "YouBike2.0_Fufeng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.311513,
+			"PositionLat": 24.985652,
+			"GeoHash": "wsqq0s2rg"
+		},
+		"StationAddress": {
+			"Zh_tw": "建國路昆明路口(西北側)",
+			"En": "Jianguo Rd./Kunming Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306006",
+		"StationID": "500306006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園火車站(後站)",
+			"En": "YouBike2.0_TRA Taoyuan Station (Rear)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31428,
+			"PositionLat": 24.9878,
+			"GeoHash": "wsqq0sfk7"
+		},
+		"StationAddress": {
+			"Zh_tw": "延平路26號對面人行道",
+			"En": "No.26, Yanping Rd. (opposite)"
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "TAO500306007",
+		"StationID": "500306007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園建國公園",
+			"En": "YouBike2.0_Taoyuan Jianguo Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.317759,
+			"PositionLat": 24.987418,
+			"GeoHash": "wsqq0sufk"
+		},
+		"StationAddress": {
+			"Zh_tw": "桃鶯路93號對面建國公園旁人行道",
+			"En": "No.93, Taoying Rd. (opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306008",
+		"StationID": "500306008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園陽明高中",
+			"En": "YouBike2.0_Taoyuan Municipal Yang Ming High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.303296,
+			"PositionLat": 24.980404,
+			"GeoHash": "wsqq07d37"
+		},
+		"StationAddress": {
+			"Zh_tw": "德壽街8號前方人行道",
+			"En": "No.8, Deshou St."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500306009",
+		"StationID": "500306009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_同德國中",
+			"En": "YouBike2.0_Tongde Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29391,
+			"PositionLat": 25.01613,
+			"GeoHash": "wsqq24598"
+		},
+		"StationAddress": {
+			"Zh_tw": "南平路479號對面同德國中旁人行道",
+			"En": "No.479, Nanping Rd. (opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500306010",
+		"StationID": "500306010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園展演中心(同德六街)",
+			"En": "YouBike2.0_Taoyuan Arts Center(Tongde 6th St.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29997,
+			"PositionLat": 25.016551,
+			"GeoHash": "wsqq24pgy"
+		},
+		"StationAddress": {
+			"Zh_tw": "同德六街藝文二街口東南側廣場",
+			"En": "Tongde 6th St./Yiwen 2nd St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306011",
+		"StationID": "500306011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東溪綠園",
+			"En": "YouBike2.0_Dongxi Greens"
+		},
+		"StationPosition": {
+			"PositionLon": 121.313558,
+			"PositionLat": 24.993122,
+			"GeoHash": "wsqq0tcg6"
+		},
+		"StationAddress": {
+			"Zh_tw": "成功路二段1號旁小公園",
+			"En": "No.1, Sec. 2, Chenggong Rd."
+		},
+		"BikesCapacity": 22
+	},
+	{
+		"StationUID": "TAO500306012",
+		"StationID": "500306012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_三民運動公園",
+			"En": "YouBike2.0_Sanmin Sports Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.319691,
+			"PositionLat": 25.000577,
+			"GeoHash": "wsqq0xnqc"
+		},
+		"StationAddress": {
+			"Zh_tw": "三民路一段200號前方人行道",
+			"En": "No.200, Sec. 1, Sanmin Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306013",
+		"StationID": "500306013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園展演中心(南平路)",
+			"En": "YouBike2.0_Taoyuan Arts Center (Nanping Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.298235,
+			"PositionLat": 25.018038,
+			"GeoHash": "wsqq24qst"
+		},
+		"StationAddress": {
+			"Zh_tw": "南平路336號對面人行道",
+			"En": "No.336, Nanping Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306014",
+		"StationID": "500306014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國強公園",
+			"En": "YouBike2.0_Guochiang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.289327,
+			"PositionLat": 24.993077,
+			"GeoHash": "wsqq0jb5n"
+		},
+		"StationAddress": {
+			"Zh_tw": "國強一街益壽一街口(東北側人行道)",
+			"En": "Guociang 1st St./Yishou 1st St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306015",
+		"StationID": "500306015",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新埔公園",
+			"En": "YouBike2.0_Xinpu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.303725,
+			"PositionLat": 25.015195,
+			"GeoHash": "wsqq23fsj"
+		},
+		"StationAddress": {
+			"Zh_tw": "同安街203號對面人行道",
+			"En": "No.203, Tong'an St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306016",
+		"StationID": "500306016",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館大林分館",
+			"En": "YouBike2.0_Taoyuan Public Library Dalin Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.321076,
+			"PositionLat": 24.977812,
+			"GeoHash": "wsqq0ep63"
+		},
+		"StationAddress": {
+			"Zh_tw": "樹仁二街37號後方人行道",
+			"En": "No.37, Shuren 2nd St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306017",
+		"StationID": "500306017",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園火車站(前站)",
+			"En": "YouBike2.0_TRA Taoyuan Station (Front)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31302,
+			"PositionLat": 24.98962,
+			"GeoHash": "wsqq0t1rn"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路1號面火車站右方人行道",
+			"En": "No.1, Zhongzheng Rd."
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "TAO500306018",
+		"StationID": "500306018",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_瑞慶公園",
+			"En": "YouBike2.0_Ruiching Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29295,
+			"PositionLat": 25.01913,
+			"GeoHash": "wsqq24dff"
+		},
+		"StationAddress": {
+			"Zh_tw": "中埔一街362號對面瑞慶公園旁人行道",
+			"En": "No.362, Zhongpu 1st St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306019",
+		"StationID": "500306019",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中寧公園",
+			"En": "YouBike2.0_Zhongning Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29956,
+			"PositionLat": 25.009993,
+			"GeoHash": "wsqq20ztu"
+		},
+		"StationAddress": {
+			"Zh_tw": "同德二街177號對面中寧公園旁人行道",
+			"En": "No.177, Tongde 2nd St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306020",
+		"StationID": "500306020",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大業國小",
+			"En": "YouBike2.0_Da Yie Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31476,
+			"PositionLat": 25.0069,
+			"GeoHash": "wsqq286ey"
+		},
+		"StationAddress": {
+			"Zh_tw": "民光東路280號對面人行道",
+			"En": "No.280, Minguang E. Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306021",
+		"StationID": "500306021",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大有國中",
+			"En": "YouBike2.0_Da You Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.319869,
+			"PositionLat": 25.008585,
+			"GeoHash": "wsqq28wmt"
+		},
+		"StationAddress": {
+			"Zh_tw": "大有路民光東路口西北側人行道",
+			"En": "Dayou Rd./Minguang E. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306022",
+		"StationID": "500306022",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園龍岡公園",
+			"En": "YouBike2.0_Taoyuan Longgang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.281064,
+			"PositionLat": 24.99039,
+			"GeoHash": "wsqnpv65t"
+		},
+		"StationAddress": {
+			"Zh_tw": "國豐一街101號對面龍岡公園旁人行道",
+			"En": "No.101, Guofeng 1st St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306023",
+		"StationID": "500306023",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園龍鳳公園",
+			"En": "YouBike2.0_Taoyuan Longfeng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.278943,
+			"PositionLat": 24.989688,
+			"GeoHash": "wsqnpv0xk"
+		},
+		"StationAddress": {
+			"Zh_tw": "國豐五街51號對面龍鳳公園旁人行道",
+			"En": "No.51, Guofeng 5rd St.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306024",
+		"StationID": "500306024",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市政府文化局",
+			"En": "YouBike2.0_Departmaent of Cultural Affairs, Taoyuan"
+		},
+		"StationPosition": {
+			"PositionLon": 121.300537,
+			"PositionLat": 24.994184,
+			"GeoHash": "wsqq0q03e"
+		},
+		"StationAddress": {
+			"Zh_tw": "縣府路21號面文化局左側路側",
+			"En": "No.21, Xianfu Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306025",
+		"StationID": "500306025",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_成功春日路口",
+			"En": "YouBike2.0_Chenggong & Chunri Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31713,
+			"PositionLat": 24.994177,
+			"GeoHash": "wsqq0wh3w"
+		},
+		"StationAddress": {
+			"Zh_tw": "成功路二段春日路口東南側人行道",
+			"En": "Chenggong Rd./Chunri Rd."
+		},
+		"BikesCapacity": 32
+	},
+	{
+		"StationUID": "TAO500306026",
+		"StationID": "500306026",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中德里休閒廣場",
+			"En": "YouBike2.0_Zhongde Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.293209,
+			"PositionLat": 24.962275,
+			"GeoHash": "wsqq005pb"
+		},
+		"StationAddress": {
+			"Zh_tw": "國際一路國際二路口西南側停車場",
+			"En": "Guoji 1st Rd./Guoji 2nd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306027",
+		"StationID": "500306027",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園巨蛋",
+			"En": "YouBike2.0_Taoyuan Arena"
+		},
+		"StationPosition": {
+			"PositionLon": 121.323924,
+			"PositionLat": 24.995393,
+			"GeoHash": "wsqq0y32s"
+		},
+		"StationAddress": {
+			"Zh_tw": "三民路1號對面人行道",
+			"En": "No. 1, Sanmin Rd.(Opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500306028",
+		"StationID": "500306028",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_西門綠園",
+			"En": "YouBike2.0_Ximen Greens"
+		},
+		"StationPosition": {
+			"PositionLon": 121.303884,
+			"PositionLat": 24.993968,
+			"GeoHash": "wsqq0q4b3"
+		},
+		"StationAddress": {
+			"Zh_tw": "文康街61號對面人行道",
+			"En": "No.61, Wenkang St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306029",
+		"StationID": "500306029",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_衛福部桃園醫院",
+			"En": "YouBike2.0_Taoyuan General Hospital, Ministry of Health and Welfare"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26898,
+			"PositionLat": 24.97939,
+			"GeoHash": "wsqnpe37k"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍壽街60號對面人行道",
+			"En": "No.60, Longshou St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306030",
+		"StationID": "500306030",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_忠孝兒童遊樂場",
+			"En": "YouBike2.0_Zhongxiao Children's Playground"
+		},
+		"StationPosition": {
+			"PositionLon": 121.294739,
+			"PositionLat": 24.986849,
+			"GeoHash": "wsqq0hsnu"
+		},
+		"StationAddress": {
+			"Zh_tw": "宏昌七街泰昌三街西南側廣場",
+			"En": "Hongchang 7th St./Taichang 3rd St."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500306031",
+		"StationID": "500306031",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市政府",
+			"En": "YouBike2.0_Taoyuan City Government"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30168,
+			"PositionLat": 24.9928,
+			"GeoHash": "wsqq0mc1w"
+		},
+		"StationAddress": {
+			"Zh_tw": "縣府路1號對面廣場",
+			"En": "No. 1, Xianfu Rd.(Opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306032",
+		"StationID": "500306032",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市政府警察局桃園分局",
+			"En": "YouBike2.0_Taoyuan Police Department Taoyuan Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.299434,
+			"PositionLat": 25.000418,
+			"GeoHash": "wsqq0pptc"
+		},
+		"StationAddress": {
+			"Zh_tw": "永安路375號旁人行道",
+			"En": "No.375, Yong'an Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306033",
+		"StationID": "500306033",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_慈文國中",
+			"En": "YouBike2.0_Tzu Wen Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.301842,
+			"PositionLat": 25.008916,
+			"GeoHash": "wsqq229r3"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路835號前方人行道",
+			"En": "No.835, Zhongzheng Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306034",
+		"StationID": "500306034",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_同新公園",
+			"En": "YouBike2.0_Tongxin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.305633,
+			"PositionLat": 25.012389,
+			"GeoHash": "wsqq23k5d"
+		},
+		"StationAddress": {
+			"Zh_tw": "同安街經國路251巷口(東南側人行道)",
+			"En": "Tong'an St./Ln. 251, Jingguo Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306035",
+		"StationID": "500306035",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園永康公園",
+			"En": "YouBike2.0_Taoyuan Yongkang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.302925,
+			"PositionLat": 25.00189,
+			"GeoHash": "wsqq0r6ne"
+		},
+		"StationAddress": {
+			"Zh_tw": "力行路中正五街口東南側人行道",
+			"En": "Lixing Rd./Zhongzheng 5th St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306036",
+		"StationID": "500306036",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立游泳池",
+			"En": "YouBike2.0_Taoyuan City Swimming Pool"
+		},
+		"StationPosition": {
+			"PositionLon": 121.292088,
+			"PositionLat": 24.989458,
+			"GeoHash": "wsqq0j4nn"
+		},
+		"StationAddress": {
+			"Zh_tw": "吉昌街86號(對面人行道)",
+			"En": "No.86, Jichang St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306037",
+		"StationID": "500306037",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_寶山公園",
+			"En": "YouBike2.0_Baoshan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3139,
+			"PositionLat": 25.01313,
+			"GeoHash": "wsqq29d04"
+		},
+		"StationAddress": {
+			"Zh_tw": "民有三街517號對面公園旁人行道",
+			"En": "No.517, Minyou 3rd St.(opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500306038",
+		"StationID": "500306038",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國強一街上海路口",
+			"En": "YouBike2.0_Guochiang 1st St. & Shanghai Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.282126,
+			"PositionLat": 24.992059,
+			"GeoHash": "wsqnpvdvq"
+		},
+		"StationAddress": {
+			"Zh_tw": "國強一街上海路口西北側高架橋下廣場",
+			"En": "Guoqiang 1st St./Shanghai Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306039",
+		"StationID": "500306039",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青溪公園",
+			"En": "YouBike2.0_Qingxi Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.317024,
+			"PositionLat": 25.000959,
+			"GeoHash": "wsqq0xk35"
+		},
+		"StationAddress": {
+			"Zh_tw": "自強路217號前方人行道",
+			"En": "No.217, Ziqiang Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306040",
+		"StationID": "500306040",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園龍山國小",
+			"En": "YouBike2.0_Taoyuan Long Shan Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.271035,
+			"PositionLat": 24.981988,
+			"GeoHash": "wsqnpeffe"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍祥街94號對面人行道",
+			"En": "No.94, Longxiang St.(opposite)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500306041",
+		"StationID": "500306041",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園中正公園(同安街)",
+			"En": "YouBike2.0_Taoyuan Zhongzheng Park (Tung'an St.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.297919,
+			"PositionLat": 25.023701,
+			"GeoHash": "wsqq25qmw"
+		},
+		"StationAddress": {
+			"Zh_tw": "同安街601號旁公園人行道",
+			"En": "No.601, Tong'an St."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500306042",
+		"StationID": "500306042",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_建新公園",
+			"En": "YouBike2.0_Jianxin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.310324,
+			"PositionLat": 24.979206,
+			"GeoHash": "wsqq07r6r"
+		},
+		"StationAddress": {
+			"Zh_tw": "陽明十二街25號對面公園旁人行道",
+			"En": "No.25, Yangming 12th St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306043",
+		"StationID": "500306043",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大同西路簡易公園",
+			"En": "YouBike2.0_Datong W. Rd. Simple Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.304047,
+			"PositionLat": 24.988164,
+			"GeoHash": "wsqq0kfyt"
+		},
+		"StationAddress": {
+			"Zh_tw": "大同西路7巷4號對面公園",
+			"En": "No.4, Ln. 7, Datong W. Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306044",
+		"StationID": "500306044",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_霖園兒童公園",
+			"En": "YouBike2.0_Linyuan Children's Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.287879,
+			"PositionLat": 24.986079,
+			"GeoHash": "wsqnpux4k"
+		},
+		"StationAddress": {
+			"Zh_tw": "國鼎二街132號(對面公園東側人行道)",
+			"En": "No.132, Guoding 2nd St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306045",
+		"StationID": "500306045",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_家樂福經國店",
+			"En": "YouBike2.0_Carrefour Jingguo Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30502,
+			"PositionLat": 25.01638,
+			"GeoHash": "wsqq265dg"
+		},
+		"StationAddress": {
+			"Zh_tw": "天祥三街10號對面人行道",
+			"En": "No.10, Tianxiang 3rd St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306046",
+		"StationID": "500306046",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_玉山公園",
+			"En": "YouBike2.0_Yushan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.301174,
+			"PositionLat": 24.982621,
+			"GeoHash": "wsqq07by6"
+		},
+		"StationAddress": {
+			"Zh_tw": "南豐二街120號斜前方公園側",
+			"En": "No.120, Nanfeng 2nd St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306047",
+		"StationID": "500306047",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_會稽國中",
+			"En": "YouBike2.0_Kuai Ji Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31344,
+			"PositionLat": 25.01612,
+			"GeoHash": "wsqq2d1c2"
+		},
+		"StationAddress": {
+			"Zh_tw": "大興路222號(面會稽國中校門左側人行道)",
+			"En": "No.222, Daxing Rd."
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500306048",
+		"StationID": "500306048",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_經國國中",
+			"En": "YouBike2.0_Jingguo Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.303596,
+			"PositionLat": 25.0217,
+			"GeoHash": "wsqq2749f"
+		},
+		"StationAddress": {
+			"Zh_tw": "經國路276號(面經國國中校門左側人行道)",
+			"En": "No.276, Jingguo Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306049",
+		"StationID": "500306049",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_風禾公園",
+			"En": "YouBike2.0_Fenghe Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.289893,
+			"PositionLat": 25.000991,
+			"GeoHash": "wsqq0p297"
+		},
+		"StationAddress": {
+			"Zh_tw": "文中二路慈文路口東北側人行道",
+			"En": "Wenzhong 2nd Rd./Ciwen Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306050",
+		"StationID": "500306050",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_財政部北區國稅局桃園分局",
+			"En": "YouBike2.0_National Taxation Bureau of the Nothern Area, Ministry of Finance (Taoyuan Branch)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.32073,
+			"PositionLat": 25.00378,
+			"GeoHash": "wsqq0xz19"
+		},
+		"StationAddress": {
+			"Zh_tw": "三元街150號前方人行道",
+			"En": "No.150, Sanyuan St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306051",
+		"StationID": "500306051",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園觀光夜市旅客服務中心",
+			"En": "YouBike2.0_Taoyuan Tourist Night Market Service Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.308517,
+			"PositionLat": 25.004089,
+			"GeoHash": "wsqq0ry5m"
+		},
+		"StationAddress": {
+			"Zh_tw": "正康三街8號旁停車場",
+			"En": "No.8, Zhengkang 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306052",
+		"StationID": "500306052",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大檜溪公園",
+			"En": "YouBike2.0_Dakuaixi Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31682,
+			"PositionLat": 25.013781,
+			"GeoHash": "wsqq29s5y"
+		},
+		"StationAddress": {
+			"Zh_tw": "興一街65巷71號(地下停車場出入口旁公園)",
+			"En": "No.71 Ln. 65, Xing 1st St."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306053",
+		"StationID": "500306053",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_溫州公園",
+			"En": "YouBike2.0_Wenzhou Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29825,
+			"PositionLat": 25.008,
+			"GeoHash": "wsqq20wdn"
+		},
+		"StationAddress": {
+			"Zh_tw": "溫州街65號",
+			"En": "No. 65, Wenzhou St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306054",
+		"StationID": "500306054",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍安公園",
+			"En": "YouBike2.0_Longan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27619,
+			"PositionLat": 24.99153,
+			"GeoHash": "wsqnptwdh"
+		},
+		"StationAddress": {
+			"Zh_tw": "國豐七街122號對面公園",
+			"En": "No.122, Guofeng 7th St.(oppsite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306055",
+		"StationID": "500306055",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_永定二保定三街89巷口",
+			"En": "YouBike2.0_Yongding 2nd & Ln. 89, Baoding 3rd St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.298213,
+			"PositionLat": 24.99746,
+			"GeoHash": "wsqq0nwsv"
+		},
+		"StationAddress": {
+			"Zh_tw": "永定二街保定三街89巷口公園內",
+			"En": "Yongding 2nd St./Ln. 89, Baoding 3rd St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306056",
+		"StationID": "500306056",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_成功國小",
+			"En": "YouBike2.0_Chenggong Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.306346,
+			"PositionLat": 24.999511,
+			"GeoHash": "wsqq0rh8d"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正三街與長春路口",
+			"En": "Zhongzheng 3rd St./ Changchun Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306057",
+		"StationID": "500306057",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園區南平運動中心",
+			"En": "YouBike2.0_Taoyuan District Naiping Sports Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.306156,
+			"PositionLat": 25.021357,
+			"GeoHash": "wsqq26ury"
+		},
+		"StationAddress": {
+			"Zh_tw": "南平路23號對面人行道",
+			"En": "No.23, Nanping Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306058",
+		"StationID": "500306058",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中德里市民活動中心",
+			"En": "YouBike2.0_Zhongde Civil Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2889595,
+			"PositionLat": 24.97723667,
+			"GeoHash": "wsqnpfzyv"
+		},
+		"StationAddress": {
+			"Zh_tw": "國際路一段與國際路一段678巷口",
+			"En": "Sec. 1, Guoji Rd/Ln. 678, Sec. 1, Guoji Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306059",
+		"StationID": "500306059",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_向陽公園",
+			"En": "YouBike2.0_Xiangyang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29609,
+			"PositionLat": 24.997013,
+			"GeoHash": "wsqq0nt45"
+		},
+		"StationAddress": {
+			"Zh_tw": "正光路186巷50號對面人行道",
+			"En": "No.50, Ln. 186, Zhengguang Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306060",
+		"StationID": "500306060",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國豐公園",
+			"En": "YouBike2.0_Guofeng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.279348,
+			"PositionLat": 24.987028,
+			"GeoHash": "wsqnpu8zv"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍鳳三街65巷2號對面公園",
+			"En": "No.2, Ln. 65, Longfeng 3rd St.,"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306061",
+		"StationID": "500306061",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_北門國小",
+			"En": "YouBike2.0_Bei Men Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.306712,
+			"PositionLat": 25.007437,
+			"GeoHash": "wsqq22kyg"
+		},
+		"StationAddress": {
+			"Zh_tw": "大連一街103號對面人行道",
+			"En": "No.103, Aly. 825, Dalian 1st St"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306062",
+		"StationID": "500306062",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大魯閣(中正路)",
+			"En": "YouBike2.0_TAROKO SPORTS (Zhongzheng Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.293195,
+			"PositionLat": 25.030046,
+			"GeoHash": "wsqq2he48"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正北路2巷16號對面廣場",
+			"En": "No.16, Ln. 2, Jhongjheng N. Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306063",
+		"StationID": "500306063",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_同安國小",
+			"En": "YouBike2.0_Tong An Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29779,
+			"PositionLat": 25.02126,
+			"GeoHash": "wsqq24yr7"
+		},
+		"StationAddress": {
+			"Zh_tw": "同德十一街33號對面人行道",
+			"En": "No.33, Tongde 11th St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306064",
+		"StationID": "500306064",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文昌國中",
+			"En": "YouBike2.0_Wen Chang Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30794,
+			"PositionLat": 25.0094,
+			"GeoHash": "wsqq22vdr"
+		},
+		"StationAddress": {
+			"Zh_tw": "民生路729號前方人行道",
+			"En": "No.729, Minsheng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306065",
+		"StationID": "500306065",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國信公園",
+			"En": "YouBike2.0_Guosin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28674,
+			"PositionLat": 24.99439,
+			"GeoHash": "wsqnpyn6c"
+		},
+		"StationAddress": {
+			"Zh_tw": "國信街1號對面公園",
+			"En": "No.1, Guoxin St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306066",
+		"StationID": "500306066",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_經國轉運站",
+			"En": "YouBike2.0_JingGuo Bus Station"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3008,
+			"PositionLat": 25.02986,
+			"GeoHash": "wsqq2k899"
+		},
+		"StationAddress": {
+			"Zh_tw": "經國路818號旁空地",
+			"En": "No. 818, Jingguo Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306067",
+		"StationID": "500306067",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_台北榮民總醫院桃園分院",
+			"En": "YouBike2.0_Taipei Veterans General Hospital Taoyuan Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.323988,
+			"PositionLat": 25.002531,
+			"GeoHash": "wsqq0z96m"
+		},
+		"StationAddress": {
+			"Zh_tw": "成功路三段/成功路三段115巷口旁人行道",
+			"En": "Sec. 3, Chenggong Rd. & Ln. 115, Sec. 3, Chenggong Rd. Intersection"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306068",
+		"StationID": "500306068",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_水汴頭音樂廣場",
+			"En": "YouBike2.0_Shuibiantou Music Square"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30532,
+			"PositionLat": 25.02332,
+			"GeoHash": "wsqq277g6"
+		},
+		"StationAddress": {
+			"Zh_tw": "鹽庫西街68號對面",
+			"En": "No. 68, Yanku W. St.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306069",
+		"StationID": "500306069",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃智路廣豐三街口",
+			"En": "YouBike2.0_Taozhi Rd. & Guangfeng 3rd St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29547,
+			"PositionLat": 24.9648,
+			"GeoHash": "wsqq00swt"
+		},
+		"StationAddress": {
+			"Zh_tw": "桃智路31號前側人行道",
+			"En": "No. 31, Taozhi Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306070",
+		"StationID": "500306070",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_復興三民路口",
+			"En": "YouBike2.0_Fuxing Rd. & Sanmin Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3067,
+			"PositionLat": 24.98926,
+			"GeoHash": "wsqq0mhuf"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興路308號旁停車場",
+			"En": "No.308, Fusing Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306071",
+		"StationID": "500306071",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中山路裕和街口",
+			"En": "YouBike2.0_Zhongshan Rd. & Yuhe St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.274497,
+			"PositionLat": 24.980741,
+			"GeoHash": "wsqnpet7k"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路1306號旁人行道",
+			"En": "No.1306, Zhongshan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306072",
+		"StationID": "500306072",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中路兒2公園",
+			"En": "YouBike2.0_Zhonglu Second Children's Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.290432,
+			"PositionLat": 25.007402,
+			"GeoHash": "wsqq202yx"
+		},
+		"StationAddress": {
+			"Zh_tw": "永安路765巷8號對面公園",
+			"En": "No.8, Ln. 765, Yong’an Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306073",
+		"StationID": "500306073",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_春日路民富九街口",
+			"En": "YouBike2.0_Chunri Rd. & Minfu 9th St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31169,
+			"PositionLat": 25.00797,
+			"GeoHash": "wsqq2883z"
+		},
+		"StationAddress": {
+			"Zh_tw": "春日路612號前方人行道",
+			"En": "No. 612, Chunri Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306074",
+		"StationID": "500306074",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_藝文一街大興西路口",
+			"En": "YouBike2.0_Yiwen 1st St. & Daxing W. Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30156,
+			"PositionLat": 25.01329,
+			"GeoHash": "wsqq2390g"
+		},
+		"StationAddress": {
+			"Zh_tw": "藝文一街/大興西路一段",
+			"En": "Yiwen 1st St. & Sec. 1, Daxing W. Rd. Intersection"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500306075",
+		"StationID": "500306075",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中正莊敬路口",
+			"En": "YouBike2.0_Jhongjheng Rd. &  Zhuangjing Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29492,
+			"PositionLat": 25.02359,
+			"GeoHash": "wsqq25kkb"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路1379號前方人行道",
+			"En": "No.1379, Jhongjheng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306076",
+		"StationID": "500306076",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南門公園",
+			"En": "YouBike2.0_Nanmen Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30625,
+			"PositionLat": 24.99135,
+			"GeoHash": "wsqq0ms90"
+		},
+		"StationAddress": {
+			"Zh_tw": "三民路三段321號對側",
+			"En": "No. 321, Sec. 3, Sanmin Rd.(Opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306077",
+		"StationID": "500306077",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_介壽公園",
+			"En": "YouBike2.0_Jieshou Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30601,
+			"PositionLat": 24.97902,
+			"GeoHash": "wsqq07k36"
+		},
+		"StationAddress": {
+			"Zh_tw": "介壽段16地號公園",
+			"En": "No.16  of  Jieshou Section"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306078",
+		"StationID": "500306078",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園高中",
+			"En": "YouBike2.0_Taoyuan Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.32486,
+			"PositionLat": 24.9972,
+			"GeoHash": "wsqq0yd54"
+		},
+		"StationAddress": {
+			"Zh_tw": "成功路三段8號旁",
+			"En": "No. 3, Sec. 3, Chenggong Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500306079",
+		"StationID": "500306079",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_陽明運動公園(建新街)",
+			"En": "YouBike2.0_Yangming Sports Park(Jianxin St.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.311016,
+			"PositionLat": 24.980992,
+			"GeoHash": "wsqq07xuz"
+		},
+		"StationAddress": {
+			"Zh_tw": "建新街163號對面公園籃球場旁",
+			"En": "No.163, Jiansin St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306080",
+		"StationID": "500306080",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_同安親子公園",
+			"En": "YouBike2.0_Tong An Parent-child Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30229,
+			"PositionLat": 25.01736,
+			"GeoHash": "wsqq2638s"
+		},
+		"StationAddress": {
+			"Zh_tw": "同安街358號對面公園",
+			"En": "No.358, Tong'an St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306081",
+		"StationID": "500306081",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中信公園",
+			"En": "YouBike2.0_Zhong Xin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.286262,
+			"PositionLat": 24.990791,
+			"GeoHash": "wsqnpvmvy"
+		},
+		"StationAddress": {
+			"Zh_tw": "德華街92號對面路側",
+			"En": "No.92, Dehua St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306082",
+		"StationID": "500306082",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園建國國小",
+			"En": "YouBike2.0_Taoyuan Jian-Guo Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31578,
+			"PositionLat": 24.98362,
+			"GeoHash": "wsqq0s5kn"
+		},
+		"StationAddress": {
+			"Zh_tw": "昆明路92號對面",
+			"En": "No. 92, Kunming Rd.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306083",
+		"StationID": "500306083",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_下埔子溪綠地(天祥七街)",
+			"En": "YouBike2.0_Green space of Xiapuzi river(Tiansiang 7th St.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30076,
+			"PositionLat": 25.02351,
+			"GeoHash": "wsqq272s8"
+		},
+		"StationAddress": {
+			"Zh_tw": "天祥七街72號旁公園",
+			"En": "No.72, Tiansiang 7th St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306084",
+		"StationID": "500306084",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_仁愛兒童公園",
+			"En": "YouBike2.0_Renai Children's Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.291219,
+			"PositionLat": 24.985429,
+			"GeoHash": "wsqq0h3wd"
+		},
+		"StationAddress": {
+			"Zh_tw": "宏昌九街19號對面公園",
+			"En": "No. 19, Hongchang 9th St.(Opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306085",
+		"StationID": "500306085",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_昭揚建築(水秀公園)",
+			"En": "YouBike2.0_Sound Rise Construction (Shueisiou Park)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.291143,
+			"PositionLat": 24.99845,
+			"GeoHash": "wsqq0ncd8"
+		},
+		"StationAddress": {
+			"Zh_tw": "力行路698號",
+			"En": "No. 698, Lixing Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306086",
+		"StationID": "500306086",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_復興路朝陽街口",
+			"En": "YouBike2.0_Fuxing Rd. & Zhaoyang St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31611,
+			"PositionLat": 24.99084,
+			"GeoHash": "wsqq0t7wn"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興路51號旁停車場",
+			"En": "No.51, Fusing Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306087",
+		"StationID": "500306087",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍園公園",
+			"En": "YouBike2.0_Ryuen Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.274887,
+			"PositionLat": 24.986313,
+			"GeoHash": "wsqnpstev"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路1216巷龍園公園",
+			"En": "Ln. 1216, Zhongshan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306088",
+		"StationID": "500306088",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_東埔公園",
+			"En": "YouBike2.0_Dongbu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30688,
+			"PositionLat": 25.00545,
+			"GeoHash": "wsqq22hgr"
+		},
+		"StationAddress": {
+			"Zh_tw": "正康二街/美光街口東北側",
+			"En": "Zhengkang 2nd St. & Meiguang St. Intersection(Northeast)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306089",
+		"StationID": "500306089",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_青溪國中",
+			"En": "YouBike2.0_Ching-Hsi Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.32015,
+			"PositionLat": 24.99752,
+			"GeoHash": "wsqq0wwth"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山東路/中山東路126巷口(西南側)",
+			"En": "Zhongshan E Rd./Ln. 126, Zhongshan E Rd. (Southwest)"
+		},
+		"BikesCapacity": 13
+	},
+	{
+		"StationUID": "TAO500306090",
+		"StationID": "500306090",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大業路二段235巷口",
+			"En": "YouBike2.0_Ln. 235, Sec. 2, Daye Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3103,
+			"PositionLat": 25.0211,
+			"GeoHash": "wsqq26zqq"
+		},
+		"StationAddress": {
+			"Zh_tw": "大業路二段244號旁",
+			"En": "No. 244, Sec. 2, Daye Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306091",
+		"StationID": "500306091",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園煉油廠南門綠地",
+			"En": "YouBike2.0_CPC Nanmen Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3099,
+			"PositionLat": 25.0263,
+			"GeoHash": "wsqq27zhv"
+		},
+		"StationAddress": {
+			"Zh_tw": "中油煉油廠南門綠地南側(鹽務路)",
+			"En": "CPC Nanmen Park (South) (Yanwu Rd.)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306092",
+		"StationID": "500306092",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_勞工教育大樓",
+			"En": "YouBike2.0_Labor Education Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3096,
+			"PositionLat": 25.0028,
+			"GeoHash": "wsqq0rwgy"
+		},
+		"StationAddress": {
+			"Zh_tw": "民生路650號",
+			"En": "No. 650, Minsheng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306093",
+		"StationID": "500306093",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_廈門立體停車場",
+			"En": "YouBike2.0_Xiamen Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2980585,
+			"PositionLat": 24.99508991,
+			"GeoHash": "wsqq0nnwc"
+		},
+		"StationAddress": {
+			"Zh_tw": "文中東路165號",
+			"En": "No. 165, Wenzhong E. Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500306094",
+		"StationID": "500306094",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_法治守法路口",
+			"En": "YouBike2.0_Fazhi Rd. & Shoufa Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2964609,
+			"PositionLat": 24.99274129,
+			"GeoHash": "wsqq0jv3k"
+		},
+		"StationAddress": {
+			"Zh_tw": "法治路4號對側",
+			"En": "No. 4, Fazhi Rd. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306095",
+		"StationID": "500306095",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中路運動公園",
+			"En": "YouBike2.0_Zhonglu Sports Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2946,
+			"PositionLat": 25.0043,
+			"GeoHash": "wsqq0puh9"
+		},
+		"StationAddress": {
+			"Zh_tw": "溫州一路59號對側",
+			"En": "No. 59, Wenzhou 1st Rd. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306096",
+		"StationID": "500306096",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_幸福路水岸二街口",
+			"En": "YouBike2.0_Xingfu Rd.& Shui'an 2nd St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2966636,
+			"PositionLat": 25.02798487,
+			"GeoHash": "wsqq2hjw9"
+		},
+		"StationAddress": {
+			"Zh_tw": "幸福路318號",
+			"En": "No. 318, Xingfu Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500306098",
+		"StationID": "500306098",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中正一正康一街口",
+			"En": "YouBike2.0_Zhongzheng 1st St. & Zhengkang 1st St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30859,
+			"PositionLat": 25.00054,
+			"GeoHash": "wsqq0rnnx"
+		},
+		"StationAddress": {
+			"Zh_tw": "大華二街9號店面內",
+			"En": "No. 9, Dahua 2nd St."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TAO500308001",
+		"StationID": "500308001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_清華高中",
+			"En": "YouBike2.0_Ching Hua High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.10772,
+			"PositionLat": 24.9817,
+			"GeoHash": "wsqn5ggby"
+		},
+		"StationAddress": {
+			"Zh_tw": "中華路658號前方人行道",
+			"En": "No.658, Zhonghua Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500308002",
+		"StationID": "500308002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新福二路大仁街口",
+			"En": "YouBike2.0_Xinfu 2nd & Daren Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.10591,
+			"PositionLat": 24.97067,
+			"GeoHash": "wsqn5cf8s"
+		},
+		"StationAddress": {
+			"Zh_tw": "新福二路/大仁街路口旁人行道",
+			"En": "Xinfu 2nd Rd./Daren St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500308004",
+		"StationID": "500308004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新屋高中",
+			"En": "YouBike2.0_Xinwu Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.10089,
+			"PositionLat": 24.96949,
+			"GeoHash": "wsqn59wcz"
+		},
+		"StationAddress": {
+			"Zh_tw": "三民路與中興路口",
+			"En": "Sanmin Rd. & Zhongxing Rd. Intersection"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500309001",
+		"StationID": "500309001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_楊梅火車站(前站)",
+			"En": "YouBike2.0_TRA Yangmei Station (Front)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.14625,
+			"PositionLat": 24.91385,
+			"GeoHash": "wsqjsz2j8"
+		},
+		"StationAddress": {
+			"Zh_tw": "大成路256號(火車站前方人行道)",
+			"En": "No.256, Dacheng Rd."
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "TAO500309002",
+		"StationID": "500309002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_楊明國中",
+			"En": "YouBike2.0_Yang-Ming Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.155,
+			"PositionLat": 24.91055,
+			"GeoHash": "wsqjsyy6k"
+		},
+		"StationAddress": {
+			"Zh_tw": "新農街337號(面楊明國中左側人行道)",
+			"En": "No.337, Xinnong St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500309003",
+		"StationID": "500309003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_楊梅國中",
+			"En": "YouBike2.0_Yang Mei Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.14718,
+			"PositionLat": 24.90409,
+			"GeoHash": "wsqjsv8sv"
+		},
+		"StationAddress": {
+			"Zh_tw": "校前路86號對面人行道",
+			"En": "No.86, Xiaoqian Rd.(opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500309004",
+		"StationID": "500309004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中山親水公園",
+			"En": "YouBike2.0_Zhongshan Waterfront Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.14848,
+			"PositionLat": 24.90966,
+			"GeoHash": "wsqjsy9tk"
+		},
+		"StationAddress": {
+			"Zh_tw": "新農街80號旁公園內",
+			"En": "No.80, Xinnong St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500309005",
+		"StationID": "500309005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_伯公岡公園",
+			"En": "YouBike2.0_Bogonggang Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.08465,
+			"PositionLat": 24.93853,
+			"GeoHash": "wsqjg7gjk"
+		},
+		"StationAddress": {
+			"Zh_tw": "民生街101號對面公園",
+			"En": "No.101, Minsheng St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500309006",
+		"StationID": "500309006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_瑞塘公有停車場",
+			"En": "YouBike2.0_Rueytarng Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.17903,
+			"PositionLat": 24.90855,
+			"GeoHash": "wsqjtqryu"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬大路187號對面停車場",
+			"En": "No.187, Wanda Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500309007",
+		"StationID": "500309007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_富岡車站",
+			"En": "YouBike2.0_TRA Fu Gung Station"
+		},
+		"StationPosition": {
+			"PositionLon": 121.08237,
+			"PositionLat": 24.93444,
+			"GeoHash": "wsqjg71mx"
+		},
+		"StationAddress": {
+			"Zh_tw": "成功路58號斜對面廣場",
+			"En": "No.58, Chenggong Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500309008",
+		"StationID": "500309008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_四維兒童公園",
+			"En": "YouBike2.0_Siwei Children's Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.18062,
+			"PositionLat": 24.91279,
+			"GeoHash": "wsqjtx1p9"
+		},
+		"StationAddress": {
+			"Zh_tw": "四維二路95號對面公園",
+			"En": "No.95, Siwei 2nd Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500309009",
+		"StationID": "500309009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_富岡運動公園",
+			"En": "YouBike2.0_Fugang Sports Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.08913,
+			"PositionLat": 24.93788,
+			"GeoHash": "wsqjg7y3t"
+		},
+		"StationAddress": {
+			"Zh_tw": "新富七街180號斜對面",
+			"En": "No.180, Xinfu 7th St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500309010",
+		"StationID": "500309010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_頭重溪公園",
+			"En": "YouBike2.0_Toujhongsi Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.17162,
+			"PositionLat": 24.91112,
+			"GeoHash": "wsqjtqfmz"
+		},
+		"StationAddress": {
+			"Zh_tw": "三元街99號對面公園綠地",
+			"En": "No.99, Sanyuan St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500309011",
+		"StationID": "500309011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_埔心停車場",
+			"En": "YouBike2.0_Puxin Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.18534,
+			"PositionLat": 24.91247,
+			"GeoHash": "wsqjtxhmx"
+		},
+		"StationAddress": {
+			"Zh_tw": "金龍三路95號前停車場",
+			"En": "No.95, Jinlong 3rd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500309012",
+		"StationID": "500309012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_治平中學",
+			"En": "YouBike2.0_Chih Ping Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.18666,
+			"PositionLat": 24.91616,
+			"GeoHash": "wsqjtxv7j"
+		},
+		"StationAddress": {
+			"Zh_tw": "福德街143號斜前方停車場",
+			"En": "No.143, Fude St."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500309013",
+		"StationID": "500309013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_埔心火車站(前站)",
+			"En": "YouBike2.0_TRA Puxin Station"
+		},
+		"StationPosition": {
+			"PositionLon": 121.18389,
+			"PositionLat": 24.91941,
+			"GeoHash": "wsqjv87qj"
+		},
+		"StationAddress": {
+			"Zh_tw": "永美路210號旁廣場",
+			"En": "No.210, Yongmei Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500309014",
+		"StationID": "500309014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_楊梅楊明公園",
+			"En": "YouBike2.0_Yangmei Yangming Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.158658,
+			"PositionLat": 24.910803,
+			"GeoHash": "wsqjtnc5c"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山北路一段390巷46號(南側廣場)",
+			"En": "No. 46, Ln. 390, Sec. 1, Zhongshan N. Rd. (South)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500310001",
+		"StationID": "500310001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍潭大池(龍元路)",
+			"En": "YouBike2.0_Longtan Pond (Longyuan Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21003,
+			"PositionLat": 24.86385,
+			"GeoHash": "wsqjqnq6q"
+		},
+		"StationAddress": {
+			"Zh_tw": "龍元路144號對面龍潭大池旁人行道",
+			"En": "No.144, Longyuan Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500310002",
+		"StationID": "500310002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍潭運動公園(北龍路)",
+			"En": "YouBike2.0_Longtan Sports Park (Beilong Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21852,
+			"PositionLat": 24.86824,
+			"GeoHash": "wsqjqrheu"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路北龍路口東南側公園旁人行道",
+			"En": "Gongyuan Rd./Beilong Rd."
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TAO500310003",
+		"StationID": "500310003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍潭行政園區",
+			"En": "YouBike2.0_Longtan Administrative Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.22176,
+			"PositionLat": 24.86996,
+			"GeoHash": "wsqjqrqyp"
+		},
+		"StationAddress": {
+			"Zh_tw": "中興路681號對面人行道",
+			"En": "No.681, Zhongxing Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310004",
+		"StationID": "500310004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國軍桃園總醫院",
+			"En": "YouBike2.0_Taoyuan Armed Forces General Hospital"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23637,
+			"PositionLat": 24.87498,
+			"GeoHash": "wsqjwb3ek"
+		},
+		"StationAddress": {
+			"Zh_tw": "中興路179號對面人行道",
+			"En": "No.179, Zhongxing Rd. (opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310005",
+		"StationID": "500310005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市客家文化館",
+			"En": "YouBike2.0_Taoyuan Hakka Culture Hall"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23462,
+			"PositionLat": 24.8456,
+			"GeoHash": "wsqjqg025"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路三林段500號前方路側",
+			"En": "No.500, Sec. Sanlin, Zhongzheng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310006",
+		"StationID": "500310006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_百年大鎮社區",
+			"En": "YouBike2.0_Bainian Town"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21176,
+			"PositionLat": 24.87775,
+			"GeoHash": "wsqjw0zeq"
+		},
+		"StationAddress": {
+			"Zh_tw": "中豐路279號前方人行道",
+			"En": "No.279, Zhongfeng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310007",
+		"StationID": "500310007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍潭區衛生所",
+			"En": "YouBike2.0_Public Health Center of Longtan Dist."
+		},
+		"StationPosition": {
+			"PositionLon": 121.21617,
+			"PositionLat": 24.8637,
+			"GeoHash": "wsqjqq6ct"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路210號對面路側",
+			"En": "No.210, Zhongzheng Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500310008",
+		"StationID": "500310008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中正光明路口",
+			"En": "YouBike2.0_Zhongzheng Rd. & Guangming Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.21806,
+			"PositionLat": 24.86062,
+			"GeoHash": "wsqjqmsr9"
+		},
+		"StationAddress": {
+			"Zh_tw": "中正路339號對側高架橋下",
+			"En": "No.339, Jhongjheng Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500310009",
+		"StationID": "500310009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中科院一號門",
+			"En": "YouBike2.0_NCSIST Gate 1"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24607,
+			"PositionLat": 24.84793,
+			"GeoHash": "wsqjr52tw"
+		},
+		"StationAddress": {
+			"Zh_tw": "中科段 1124地號空地",
+			"En": "No.1124 of Jhongke Section"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310010",
+		"StationID": "500310010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中科院石園三村",
+			"En": "YouBike2.0_NCSIST Shihyuan 3rd village"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23472,
+			"PositionLat": 24.87097,
+			"GeoHash": "wsqjqz87v"
+		},
+		"StationAddress": {
+			"Zh_tw": "武漢路100號對面停車格",
+			"En": "No.100, Wuhan Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310011",
+		"StationID": "500310011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中科院石園一村",
+			"En": "YouBike2.0_NCSIST Shihyuan 1st village"
+		},
+		"StationPosition": {
+			"PositionLon": 121.24156,
+			"PositionLat": 24.83682,
+			"GeoHash": "wsqjqcmkv"
+		},
+		"StationAddress": {
+			"Zh_tw": "佳安段712地號",
+			"En": "No.712 of  Jia'an Section"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310012",
+		"StationID": "500310012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中科院石園二村",
+			"En": "YouBike2.0_NCSIST Shihyuan 2nd village"
+		},
+		"StationPosition": {
+			"PositionLon": 121.23748,
+			"PositionLat": 24.83118,
+			"GeoHash": "wsqjqb6kn"
+		},
+		"StationAddress": {
+			"Zh_tw": "八德路1號旁停車場",
+			"En": "No.1, Bade Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500310013",
+		"StationID": "500310013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍潭婦幼館",
+			"En": "YouBike2.0_Women and Children Hall LongTan Dt."
+		},
+		"StationPosition": {
+			"PositionLon": 121.20672,
+			"PositionLat": 24.86853,
+			"GeoHash": "wsqjqphj9"
+		},
+		"StationAddress": {
+			"Zh_tw": "干城路19巷30號南側停車場",
+			"En": "No. 30, Ln. 19, Gancheng Rd. (South)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311001",
+		"StationID": "500311001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運長庚醫院站(A8)",
+			"En": "YouBike2.0_MRT Chang Gung Memorial Hospital Station (A8)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.370974,
+			"PositionLat": 25.060061,
+			"GeoHash": "wsqq9f59k"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化一路10巷旁停車場前人行道",
+			"En": "Ln.10, Wenhua 1st Rd."
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "TAO500311002",
+		"StationID": "500311002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文化三復興一路口",
+			"En": "YouBike2.0_Wenhua 3rd & Fuxing 1st Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.364843,
+			"PositionLat": 25.057653,
+			"GeoHash": "wsqq99x5m"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興一路227-235號前方人行道",
+			"En": "No.227 to No.235, Fuxing 1st Rd."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500311003",
+		"StationID": "500311003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大坪頂公園",
+			"En": "YouBike2.0_Dapingding Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.366915,
+			"PositionLat": 25.054611,
+			"GeoHash": "wsqq9c09w"
+		},
+		"StationAddress": {
+			"Zh_tw": "公園路32號對面大坪頂公園旁人行道",
+			"En": "No.32, Gongyuan Rd. (opposite)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500311004",
+		"StationID": "500311004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中國科技大樓",
+			"En": "YouBike2.0_China Technology Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.361496,
+			"PositionLat": 25.05557,
+			"GeoHash": "wsqq99hxr"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興一路361號前方人行道",
+			"En": "No.361, Fuxing 1st Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500311005",
+		"StationID": "500311005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龜山區公所",
+			"En": "YouBike2.0_Civil Affairs Office of Guishan District"
+		},
+		"StationPosition": {
+			"PositionLon": 121.33766,
+			"PositionLat": 24.992532,
+			"GeoHash": "wsqq1jg2h"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山街26號前方人行道",
+			"En": "No.26, Zhongshan St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311006",
+		"StationID": "500311006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龜山國中",
+			"En": "YouBike2.0_Guishan Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.339485,
+			"PositionLat": 24.997536,
+			"GeoHash": "wsqq1nstn"
+		},
+		"StationAddress": {
+			"Zh_tw": "自強西路66號前方人行道",
+			"En": "No.66, Ziqiang W. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311007",
+		"StationID": "500311007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文化二復興三路口",
+			"En": "YouBike2.0_Wenhua 2rd & Fuxing 3st Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.372325,
+			"PositionLat": 25.051205,
+			"GeoHash": "wsqq9bktu"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化二路復興三路口西南側人行道",
+			"En": "Wenhua 2nd Rd./Fuxing 3rd Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500311008",
+		"StationID": "500311008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大華公園",
+			"En": "YouBike2.0_Dahua Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.366364,
+			"PositionLat": 25.051615,
+			"GeoHash": "wsqq9b821"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化七路142號(右側人行道)",
+			"En": "No.142, Wenhua 7th Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311009",
+		"StationID": "500311009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_璟都江山社區",
+			"En": "YouBike2.0_Jingdu-Jiangshan Community"
+		},
+		"StationPosition": {
+			"PositionLon": 121.342803,
+			"PositionLat": 25.0023,
+			"GeoHash": "wsqq1px0u"
+		},
+		"StationAddress": {
+			"Zh_tw": "光峰路131巷6號前方人行道",
+			"En": "No.6, Ln. 131, Guangfeng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311010",
+		"StationID": "500311010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運體育大學站(A7)",
+			"En": "YouBike2.0_MRT National Taiwan Sport University Station (A7)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.385161,
+			"PositionLat": 25.040707,
+			"GeoHash": "wsqq6ntbx"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化一路688號(捷運站出口前方人行道)",
+			"En": "No.688, Wenhua 1th Rd."
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "TAO500311011",
+		"StationID": "500311011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文青路",
+			"En": "YouBike2.0_Wenqing Rd."
+		},
+		"StationPosition": {
+			"PositionLon": 121.388379,
+			"PositionLat": 25.040189,
+			"GeoHash": "wsqq6q2md"
+		},
+		"StationAddress": {
+			"Zh_tw": "文青路199號前方人行道",
+			"En": "No.199, Wenqing Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311012",
+		"StationID": "500311012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龜山國小",
+			"En": "YouBike2.0_Guishan Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.340557,
+			"PositionLat": 24.994765,
+			"GeoHash": "wsqq1njmp"
+		},
+		"StationAddress": {
+			"Zh_tw": "大同路23號對面人行道",
+			"En": "No.23, Datong Rd.(opposite)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500311013",
+		"StationID": "500311013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文興公園",
+			"En": "YouBike2.0_Wenxing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.371531,
+			"PositionLat": 25.055851,
+			"GeoHash": "wsqq9ck0c"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興南路及復興南路26巷口東南側公園旁人行道",
+			"En": "Fuxing S. Rd./Ln. 26, Fuxing S. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311014",
+		"StationID": "500311014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_迴龍國中小",
+			"En": "YouBike2.0_Hueilong Elementary & Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.404963,
+			"PositionLat": 25.019115,
+			"GeoHash": "wsqq6ds6u"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬壽路一段168號前方人行道",
+			"En": "No.168, Sec. 1, Wanshou Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311015",
+		"StationID": "500311015",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大同公園",
+			"En": "YouBike2.0_Datong Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.342481,
+			"PositionLat": 24.989332,
+			"GeoHash": "wsqq1jnvk"
+		},
+		"StationAddress": {
+			"Zh_tw": "德明路77巷65號對面公園旁人行道",
+			"En": "No.65, Ln. 77, Deming Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311016",
+		"StationID": "500311016",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_樂善公園",
+			"En": "YouBike2.0_Leshan Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.380587,
+			"PositionLat": 25.055461,
+			"GeoHash": "wsqqd14ws"
+		},
+		"StationAddress": {
+			"Zh_tw": "文安街50號(對面公園北側巷道)",
+			"En": "No.50, Wen'an St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311017",
+		"StationID": "500311017",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大湖福德宮",
+			"En": "YouBike2.0_Dahu Fude Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 121.358878,
+			"PositionLat": 25.051424,
+			"GeoHash": "wsqq986z4"
+		},
+		"StationAddress": {
+			"Zh_tw": "忠義路二段483號前方人行道",
+			"En": "No.483, Sec. 2, Zhongyi Rd."
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500311018",
+		"StationID": "500311018",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中央警察大學",
+			"En": "YouBike2.0_Central Police University"
+		},
+		"StationPosition": {
+			"PositionLon": 121.352319,
+			"PositionLat": 25.045564,
+			"GeoHash": "wsqq3rqhc"
+		},
+		"StationAddress": {
+			"Zh_tw": "樹人路56號(面中央警察大學校門左側)",
+			"En": "No.56, Shuren Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311019",
+		"StationID": "500311019",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園酒廠",
+			"En": "YouBike2.0_Taoyuan Sake Brewery"
+		},
+		"StationPosition": {
+			"PositionLon": 121.375319,
+			"PositionLat": 25.056078,
+			"GeoHash": "wsqq9cqf1"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化一路55號前方人行道",
+			"En": "No.55, Wenhua 1st Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311020",
+		"StationID": "500311020",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_萬壽中興路口",
+			"En": "YouBike2.0_Wanshou & Zhongxin Rd. Interstction"
+		},
+		"StationPosition": {
+			"PositionLon": 121.337264,
+			"PositionLat": 24.994938,
+			"GeoHash": "wsqq1n5n5"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬壽路二段981號對面停車場",
+			"En": "No.981, Sec. 2, Wanshou Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311021",
+		"StationID": "500311021",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_國立體育大學綜合體育館",
+			"En": "YouBike2.0_Multipurpose Gymnasium of NTSU"
+		},
+		"StationPosition": {
+			"PositionLon": 121.38504,
+			"PositionLat": 25.035994,
+			"GeoHash": "wsqq6jtvh"
+		},
+		"StationAddress": {
+			"Zh_tw": "龜山區文化一路250號(國立體大體育館前馬路旁人行道)",
+			"En": "No.250, Wenhua 1st Rd."
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TAO500311022",
+		"StationID": "500311022",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_工四工業區(頂湖路)",
+			"En": "YouBike2.0_Gongsi Industrial Park (Dinghu Rd.)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.362294,
+			"PositionLat": 25.042612,
+			"GeoHash": "wsqq3wv7f"
+		},
+		"StationAddress": {
+			"Zh_tw": "頂湖路33號(面工廠大門左側人行道)",
+			"En": "No.33, Dinghu Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311023",
+		"StationID": "500311023",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_陸光河濱公園",
+			"En": "YouBike2.0_Luguang Riverside Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.330472,
+			"PositionLat": 24.99485,
+			"GeoHash": "wsqq0ynjs"
+		},
+		"StationAddress": {
+			"Zh_tw": "同心二路19號對面公園內人行道",
+			"En": "No.19, Tongxin 2nd Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311024",
+		"StationID": "500311024",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_山福里集會所",
+			"En": "YouBike2.0_Shanfu Civil Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.331988,
+			"PositionLat": 24.988965,
+			"GeoHash": "wsqq0vp72"
+		},
+		"StationAddress": {
+			"Zh_tw": "中興路152號旁停車場",
+			"En": "No.152, Zhongxing Rd."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500311025",
+		"StationID": "500311025",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_楓樹公園",
+			"En": "YouBike2.0_Fengshu park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.34496,
+			"PositionLat": 25.00465,
+			"GeoHash": "wsqq1rbww"
+		},
+		"StationAddress": {
+			"Zh_tw": "楓樹一街19號對面公園",
+			"En": "No.19, Fengshu 1st St.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311026",
+		"StationID": "500311026",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中央造幣廠",
+			"En": "YouBike2.0_Central Mint"
+		},
+		"StationPosition": {
+			"PositionLon": 121.36006,
+			"PositionLat": 25.013917,
+			"GeoHash": "wsqq39esw"
+		},
+		"StationAddress": {
+			"Zh_tw": "振興路577號前方人行道",
+			"En": "No.577, Jhensing Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311027",
+		"StationID": "500311027",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龜山文二立體停車場",
+			"En": "YouBike2.0_Guishan Wen Er Parking Tower"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3643,
+			"PositionLat": 25.0611,
+			"GeoHash": "wsqq9dnz3"
+		},
+		"StationAddress": {
+			"Zh_tw": "文二一街與文化二路口",
+			"En": "Wener 1st St. & Wenhua 2nd Rd.  intersection"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500311028",
+		"StationID": "500311028",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_美光晶圓公司",
+			"En": "YouBike2.0_Micron Technology Inc."
+		},
+		"StationPosition": {
+			"PositionLon": 121.374561,
+			"PositionLat": 25.038673,
+			"GeoHash": "wsqq3ynkb"
+		},
+		"StationAddress": {
+			"Zh_tw": "復興三路667號前方人行道",
+			"En": "No.667, Fuxing 3rd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311029",
+		"StationID": "500311029",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南崁溪自行車道(長壽路口)",
+			"En": "YouBike2.0_Nankan River Bikeway ( Changshou Rd. )"
+		},
+		"StationPosition": {
+			"PositionLon": 121.347685,
+			"PositionLat": 25.001722,
+			"GeoHash": "wsqq1r6tw"
+		},
+		"StationAddress": {
+			"Zh_tw": "半嶺段 44地號",
+			"En": "No. 44  of Banling Section"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311030",
+		"StationID": "500311030",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龜山中正公園",
+			"En": "YouBike2.0_Guishan Zhongzheng Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.343598,
+			"PositionLat": 24.999606,
+			"GeoHash": "wsqq1pp9q"
+		},
+		"StationAddress": {
+			"Zh_tw": "自強北路19號對面人行道",
+			"En": "No.19, Ziqiang N. Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311031",
+		"StationID": "500311031",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_山頂里集會所",
+			"En": "YouBike2.0_Shanding Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.33042,
+			"PositionLat": 24.986224,
+			"GeoHash": "wsqq0uw57"
+		},
+		"StationAddress": {
+			"Zh_tw": "明興街36號旁人行道及路側",
+			"En": "No.36, Mingsing St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311032",
+		"StationID": "500311032",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臻愛家社區",
+			"En": "YouBike2.0_ZhenAiJia Community"
+		},
+		"StationPosition": {
+			"PositionLon": 121.324152,
+			"PositionLat": 24.987167,
+			"GeoHash": "wsqq0uc8c"
+		},
+		"StationAddress": {
+			"Zh_tw": "建國東路31號旁人行道",
+			"En": "No.31, Jianguo E. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311033",
+		"StationID": "500311033",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大埔國小",
+			"En": "YouBike2.0_Da Pu Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.375351,
+			"PositionLat": 25.030009,
+			"GeoHash": "wsqq3uwf6"
+		},
+		"StationAddress": {
+			"Zh_tw": "振興路1169號前人行道",
+			"En": "No.1169, Zhenxing Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311034",
+		"StationID": "500311034",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_迴龍商場",
+			"En": "YouBike2.0_Huilong Shopping Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.406675,
+			"PositionLat": 25.018473,
+			"GeoHash": "wsqq6dmxh"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬壽路一段126號前人行道",
+			"En": "No.126, Sec. 1, Wanshou Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311035",
+		"StationID": "500311035",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光榮光峰路口",
+			"En": "YouBike2.0_Guangrong Rd.& Guangfeng Rd.Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.343263,
+			"PositionLat": 25.006866,
+			"GeoHash": "wsqq30r7w"
+		},
+		"StationAddress": {
+			"Zh_tw": "光峰路299號旁公園",
+			"En": "No.299, Guangfeng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311036",
+		"StationID": "500311036",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龜山長樂公園",
+			"En": "YouBike2.0_Guishan Changle Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.383066,
+			"PositionLat": 25.056873,
+			"GeoHash": "wsqqd1kqy"
+		},
+		"StationAddress": {
+			"Zh_tw": "長庚路169號對面公園",
+			"En": "No.169, Changgeng Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311037",
+		"StationID": "500311037",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南美國小",
+			"En": "YouBike2.0_Nan Mei Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.296449,
+			"PositionLat": 25.048012,
+			"GeoHash": "wsqq2pv7h"
+		},
+		"StationAddress": {
+			"Zh_tw": "南上路南美街口東北側人行道",
+			"En": "Nanshang Rd./Nanmei St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311038",
+		"StationID": "500311038",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_貿商社區",
+			"En": "YouBike2.0_Maoshang Community"
+		},
+		"StationPosition": {
+			"PositionLon": 121.334721,
+			"PositionLat": 24.990411,
+			"GeoHash": "wsqq1j35x"
+		},
+		"StationAddress": {
+			"Zh_tw": "自強南路自強南路301巷口",
+			"En": "Zihciang S. Rd./Ln.301 Zihciang S. Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311039",
+		"StationID": "500311039",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文青一文青二路口",
+			"En": "YouBike2.0_Wenqing 1st Rd. & Wenqing 2nd Rd.Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3914,
+			"PositionLat": 25.039422,
+			"GeoHash": "wsqq6q690"
+		},
+		"StationAddress": {
+			"Zh_tw": "文青路文青一路口東北側人行道",
+			"En": "Wenqing 1st Rd./Wenqing 2st Rd."
+		},
+		"BikesCapacity": 13
+	},
+	{
+		"StationUID": "TAO500311040",
+		"StationID": "500311040",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立田徑場",
+			"En": "YouBike2.0_Taoyuan Municipal Stadium"
+		},
+		"StationPosition": {
+			"PositionLon": 121.32457,
+			"PositionLat": 24.99277,
+			"GeoHash": "wsqq0vcc7"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬壽路二段1379號對面人行道",
+			"En": "No.1379, Sec. 2, Wanshou Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311041",
+		"StationID": "500311041",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文化二華亞二路口",
+			"En": "YouBike2.0_Wenhua 2nd Rd. & Huaya 2nd Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.37482,
+			"PositionLat": 25.047446,
+			"GeoHash": "wsqq3zwry"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化二路200號前人行道",
+			"En": "No.200, Wunhua 2nd Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311042",
+		"StationID": "500311042",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_合遠新天地",
+			"En": "YouBike2.0_Happy Town Dream Home"
+		},
+		"StationPosition": {
+			"PositionLon": 121.378891,
+			"PositionLat": 25.047496,
+			"GeoHash": "wsqq6pc2j"
+		},
+		"StationAddress": {
+			"Zh_tw": "華亞三路50號旁綠帶",
+			"En": "No.50, Huaya 3rd Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311043",
+		"StationID": "500311043",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_富宇敦峰",
+			"En": "YouBike2.0_Keep Your Dreams"
+		},
+		"StationPosition": {
+			"PositionLon": 121.384742,
+			"PositionLat": 25.052123,
+			"GeoHash": "wsqqd0tej"
+		},
+		"StationAddress": {
+			"Zh_tw": "樂學路/樂學三路口(東北側)",
+			"En": "Lexue Rd. & Lexue 3rd Rd.(Northeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311044",
+		"StationID": "500311044",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_鴻築金捷市",
+			"En": "YouBike2.0_Hongzhu Golden City"
+		},
+		"StationPosition": {
+			"PositionLon": 121.384683,
+			"PositionLat": 25.046554,
+			"GeoHash": "wsqq6ptdu"
+		},
+		"StationAddress": {
+			"Zh_tw": "樂善二路209號前人行道",
+			"En": "No.209, Leshan 2nd Rd."
+		},
+		"BikesCapacity": 13
+	},
+	{
+		"StationUID": "TAO500311045",
+		"StationID": "500311045",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_華亞二路260巷口",
+			"En": "YouBike2.0_Ln. 260, Huaya 2nd Rd Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.373481,
+			"PositionLat": 25.043413,
+			"GeoHash": "wsqq3zj2r"
+		},
+		"StationAddress": {
+			"Zh_tw": "華亞二路270號前綠地",
+			"En": "No.270, Huaya 2nd Rd."
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "TAO500311046",
+		"StationID": "500311046",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_文化三路文二一街口",
+			"En": "YouBike2.0_Wunhua 3rd Rd. & Wen 21st St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.362284,
+			"PositionLat": 25.060223,
+			"GeoHash": "wsqq9dj66"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化三路7號前人行道",
+			"En": "No.7, Wenhua 3rd Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311047",
+		"StationID": "500311047",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_萬壽德育街口",
+			"En": "YouBike2.0_Wanshou Rd. & Deyu St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3232871,
+			"PositionLat": 24.992,
+			"GeoHash": "wsqq0v8uv"
+		},
+		"StationAddress": {
+			"Zh_tw": "萬壽路二段1427號東側停車場",
+			"En": "No. 1427, Sec. 2, Wanshou Rd. (East)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311048",
+		"StationID": "500311048",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大坑南上路口",
+			"En": "YouBike2.0_Dakeng Rd. & Nanshang Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.31325,
+			"PositionLat": 25.045,
+			"GeoHash": "wsqq2x39e"
+		},
+		"StationAddress": {
+			"Zh_tw": "大坑路一段798號對面人行道",
+			"En": "No.798, Sec. 1, Dakeng Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500311049",
+		"StationID": "500311049",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新潤翡麗",
+			"En": "YouBike2.0_Shinruenn Hotelism"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3829945,
+			"PositionLat": 25.04831803,
+			"GeoHash": "wsqq6pumh"
+		},
+		"StationAddress": {
+			"Zh_tw": "樂善三路106號(東北側人行道)",
+			"En": "No. 106, Leshan 3rd Rd. (Northwest)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500311050",
+		"StationID": "500311050",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_竹城甲子園",
+			"En": "YouBike2.0_Chuchen  Koshien"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3852525,
+			"PositionLat": 25.04761252,
+			"GeoHash": "wsqq6py0c"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化一路/文桃路(西南側)",
+			"En": "Wenhua 1st Rd./Wentao Rd.(Southwest)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312001",
+		"StationID": "500312001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光明國小",
+			"En": "YouBike2.0_Guang Ming Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29023,
+			"PositionLat": 25.04128,
+			"GeoHash": "wsqq2n8u5"
+		},
+		"StationAddress": {
+			"Zh_tw": "南昌路忠孝西路口東北側人行道",
+			"En": "Nanchang Rd./Zhongxiao W. Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312002",
+		"StationID": "500312002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南崁高中",
+			"En": "YouBike2.0_Nankan Senior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29786,
+			"PositionLat": 25.05246,
+			"GeoHash": "wsqq80wmh"
+		},
+		"StationAddress": {
+			"Zh_tw": "仁愛路二段1號(南崁高中旁人行道)",
+			"En": "No.1, Sec. 2, Ren'ai Rd."
+		},
+		"BikesCapacity": 21
+	},
+	{
+		"StationUID": "TAO500312003",
+		"StationID": "500312003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_蘆竹區婦幼館",
+			"En": "YouBike2.0_Luzhu Maternity and Child Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29371,
+			"PositionLat": 25.05073,
+			"GeoHash": "wsqq8077h"
+		},
+		"StationAddress": {
+			"Zh_tw": "五福路88號對面婦幼館人行道",
+			"En": "No.88, Wufu Rd.(opposite)"
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "TAO500312004",
+		"StationID": "500312004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光明河濱公園",
+			"En": "YouBike2.0_Guangming Riverside Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28768,
+			"PositionLat": 25.04681,
+			"GeoHash": "wsqnrzwup"
+		},
+		"StationAddress": {
+			"Zh_tw": "光明路二段100號對面路側",
+			"En": "No.100, Sec. 2, Guangming Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312005",
+		"StationID": "500312005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_開南大學",
+			"En": "YouBike2.0_Kainan University"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26969,
+			"PositionLat": 25.01111,
+			"GeoHash": "wsqnr91uk"
+		},
+		"StationAddress": {
+			"Zh_tw": "開南路1號(行政大樓南棟前停車場)",
+			"En": "No.1, Kainan Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312006",
+		"StationID": "500312006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_蘆竹吉林公園",
+			"En": "YouBike2.0_Luzhu Jilin Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2994,
+			"PositionLat": 25.04956,
+			"GeoHash": "wsqq80ps2"
+		},
+		"StationAddress": {
+			"Zh_tw": "吉林路121-137號對面吉林公園旁人行道",
+			"En": "No.121-137, Jilin Rd.(opposite)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500312007",
+		"StationID": "500312007",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運山鼻站(A10)",
+			"En": "YouBike2.0_MRT Shanbi  Station (A10)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.285489,
+			"PositionLat": 25.080942,
+			"GeoHash": "wsqnxvv7h"
+		},
+		"StationAddress": {
+			"Zh_tw": "南山路三段176號旁自行車停放區",
+			"En": "No.176, Sec. 3, Nanshan Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312008",
+		"StationID": "500312008",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_蘆竹區公所",
+			"En": "YouBike2.0_Civil Affairs District of Luzhu District"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29434,
+			"PositionLat": 25.04733,
+			"GeoHash": "wsqq2pez6"
+		},
+		"StationAddress": {
+			"Zh_tw": "南上路3號對面路側",
+			"En": "No.3, Nanshang Rd.(opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312009",
+		"StationID": "500312009",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_峻德宮",
+			"En": "YouBike2.0_Junde Temple"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29256,
+			"PositionLat": 25.037,
+			"GeoHash": "wsqq2jfe1"
+		},
+		"StationAddress": {
+			"Zh_tw": "奉化路292號旁路側",
+			"En": "No.292, Fenghua Rd."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312010",
+		"StationID": "500312010",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_五福停車場",
+			"En": "YouBike2.0_Wufu Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29458,
+			"PositionLat": 25.05585,
+			"GeoHash": "wsqq81k0b"
+		},
+		"StationAddress": {
+			"Zh_tw": "五福一路120號對面人行道",
+			"En": "No.120, Wufu 1st Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312011",
+		"StationID": "500312011",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大竹國小",
+			"En": "YouBike2.0_Dazhu Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25906,
+			"PositionLat": 25.02448,
+			"GeoHash": "wsqnr7d4h"
+		},
+		"StationAddress": {
+			"Zh_tw": "南竹路五段271號對面人行道",
+			"En": "No.271, Sec. 5, Nanzhu Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312012",
+		"StationID": "500312012",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中興環保公園",
+			"En": "YouBike2.0_Zhongxing Eco-Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26027,
+			"PositionLat": 25.01622,
+			"GeoHash": "wsqnr6541"
+		},
+		"StationAddress": {
+			"Zh_tw": "大興四街61巷及大興四街路口公園內",
+			"En": "Ln. 61, Daxing 4th St./Daxing 4th St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312013",
+		"StationID": "500312013",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南榮公園",
+			"En": "YouBike2.0_Nanrong Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2914,
+			"PositionLat": 25.04517,
+			"GeoHash": "wsqq2p3dw"
+		},
+		"StationAddress": {
+			"Zh_tw": "南平街洛陽街口南側公園旁人行道",
+			"En": "Nanping St./Luoyang St."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312014",
+		"StationID": "500312014",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新福大新一街口",
+			"En": "YouBike2.0_Xinfu & Daxin 1st St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25673,
+			"PositionLat": 25.02428,
+			"GeoHash": "wsqnr782y"
+		},
+		"StationAddress": {
+			"Zh_tw": "新福街125-127號對面",
+			"En": "No.125-No.127, Xinfu St.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312015",
+		"StationID": "500312015",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_龍安國小",
+			"En": "YouBike2.0_Long'an Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.27288,
+			"PositionLat": 24.99242,
+			"GeoHash": "wsqnptspq"
+		},
+		"StationAddress": {
+			"Zh_tw": "文中路一段35號",
+			"En": "No.35, Sec. 1, Wenzhong Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312016",
+		"StationID": "500312016",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_綠九公園",
+			"En": "YouBike2.0_Lujiu Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29726,
+			"PositionLat": 25.06111,
+			"GeoHash": "wsqq84jzx"
+		},
+		"StationAddress": {
+			"Zh_tw": "六福路/六福路247巷路口旁公園",
+			"En": "Liufu Rd./Ln. 247, Liufu Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312017",
+		"StationID": "500312017",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_上興公園",
+			"En": "YouBike2.0_Shangxing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2615,
+			"PositionLat": 25.01874,
+			"GeoHash": "wsqnr6ebt"
+		},
+		"StationAddress": {
+			"Zh_tw": "上興路182號對面路側",
+			"En": "No.182, Shangxing Rd.(opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312018",
+		"StationID": "500312018",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_蘆竹區聯合辦公大樓",
+			"En": "YouBike2.0_Luzhu District Joint Office Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2803,
+			"PositionLat": 25.06296,
+			"GeoHash": "wsqnxf9d7"
+		},
+		"StationAddress": {
+			"Zh_tw": "長安路二段與東溪路口",
+			"En": "Sec. 2, Chang'an Rd./Dongxi Rd."
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500312019",
+		"StationID": "500312019",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館山腳分館",
+			"En": "YouBike2.0_Taoyuan City Library Shanjiau Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28767,
+			"PositionLat": 25.08289,
+			"GeoHash": "wsqnxynyr"
+		},
+		"StationAddress": {
+			"Zh_tw": "山外路117號旁人行道",
+			"En": "No.117, Shanwai Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312020",
+		"StationID": "500312020",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_榮興橋",
+			"En": "YouBike2.0_Rongxing Bridge"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29428,
+			"PositionLat": 25.04076,
+			"GeoHash": "wsqq2nebc"
+		},
+		"StationAddress": {
+			"Zh_tw": "榮興路20號旁",
+			"En": "No. 20, Rongxing Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500312021",
+		"StationID": "500312021",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_海湖農會",
+			"En": "YouBike2.0_Haihu Farmers' Association"
+		},
+		"StationPosition": {
+			"PositionLon": 121.2634,
+			"PositionLat": 25.10107,
+			"GeoHash": "wsqnz3t26"
+		},
+		"StationAddress": {
+			"Zh_tw": "海湖東路77號旁空地",
+			"En": "No.77, Haihu E. Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312022",
+		"StationID": "500312022",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大竹游泳池",
+			"En": "YouBike2.0_Dazhu Swimming Pool"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25762,
+			"PositionLat": 25.02119,
+			"GeoHash": "wsqnr6cng"
+		},
+		"StationAddress": {
+			"Zh_tw": "大新一街115號旁空地",
+			"En": "No.115, Daxin 1st St."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312023",
+		"StationID": "500312023",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_捷運坑口站(A11)",
+			"En": "YouBike2.0_MRT Kengkou Station(A11)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26578,
+			"PositionLat": 25.0869,
+			"GeoHash": "wsqnxqzjc"
+		},
+		"StationAddress": {
+			"Zh_tw": "捷運坑口站(A11)出入口前",
+			"En": "Kengkou Station Exit 1"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312024",
+		"StationID": "500312024",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_蘆竹親子公園",
+			"En": "YouBike2.0_Luzhu Parent-child Park (Yingpan Ecological & Environmental Protection Park)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29541,
+			"PositionLat": 25.059,
+			"GeoHash": "wsqq81ue7"
+		},
+		"StationAddress": {
+			"Zh_tw": "六福路163號對面廣場",
+			"En": "No.163, Liufu Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312025",
+		"StationID": "500312025",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_好市多南崁店",
+			"En": "YouBike2.0_Costco Nankan Branch"
+		},
+		"StationPosition": {
+			"PositionLon": 121.282179,
+			"PositionLat": 25.054957,
+			"GeoHash": "wsqnxc4gx"
+		},
+		"StationAddress": {
+			"Zh_tw": "南崁路一段369號 前方人行道",
+			"En": "No.369, Sec. 1, Nankan Rd."
+		},
+		"BikesCapacity": 17
+	},
+	{
+		"StationUID": "TAO500312026",
+		"StationID": "500312026",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_新南路一段榮興路口",
+			"En": "YouBike2.0_Sec. 1, Sinnan Rd.& Rongsing Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29587,
+			"PositionLat": 25.041056,
+			"GeoHash": "wsqq2nsfw"
+		},
+		"StationAddress": {
+			"Zh_tw": "新南路一段榮興路口旁人行道",
+			"En": "Sec. 1, Xinnan Rd./Rongxing Rd."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500312027",
+		"StationID": "500312027",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_光明國中",
+			"En": "YouBike2.0_Guang Ming Junior High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29018,
+			"PositionLat": 25.04419,
+			"GeoHash": "wsqq2p0uf"
+		},
+		"StationAddress": {
+			"Zh_tw": "洛陽街139號之1對面人行道",
+			"En": "No.139-1, Luoyang St.(opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500312028",
+		"StationID": "500312028",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_台茂購物中心",
+			"En": "YouBike2.0_Tai Mall Shopping Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28779,
+			"PositionLat": 25.05246,
+			"GeoHash": "wsqnxbxj4"
+		},
+		"StationAddress": {
+			"Zh_tw": "南崁路一段112號前方人行道",
+			"En": "No.112, Sec. 1, Nankan Rd."
+		},
+		"BikesCapacity": 24
+	},
+	{
+		"StationUID": "TAO500312029",
+		"StationID": "500312029",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園街堤岸",
+			"En": "YouBike2.0_Embankment nearby Taoyuan St."
+		},
+		"StationPosition": {
+			"PositionLon": 121.29327,
+			"PositionLat": 25.04256,
+			"GeoHash": "wsqq2ng56"
+		},
+		"StationAddress": {
+			"Zh_tw": "桃園街9號斜前方堤岸",
+			"En": "No.9, Taoyuan St."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312030",
+		"StationID": "500312030",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_順興公園",
+			"En": "YouBike2.0_ShunXing Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.28725,
+			"PositionLat": 25.04156,
+			"GeoHash": "wsqnrywtt"
+		},
+		"StationAddress": {
+			"Zh_tw": "南順二街26號旁公園",
+			"En": "No.26, Nanshun 2nd St."
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TAO500312031",
+		"StationID": "500312031",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_桃園市立圖書館蘆竹分館",
+			"En": "YouBike2.0_Luzhu Branch Taoyuan Public Library"
+		},
+		"StationPosition": {
+			"PositionLon": 121.29702,
+			"PositionLat": 25.05348,
+			"GeoHash": "wsqq80vg1"
+		},
+		"StationAddress": {
+			"Zh_tw": "福祿五街4號對面人行道",
+			"En": "No.4, Fulu 5th St. (opposite)"
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312032",
+		"StationID": "500312032",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_南順七街32巷口",
+			"En": "YouBike2.0_Ln. 32, Nanshun 7th St."
+		},
+		"StationPosition": {
+			"PositionLon": 121.29093,
+			"PositionLat": 25.03941,
+			"GeoHash": "wsqq2n335"
+		},
+		"StationAddress": {
+			"Zh_tw": "南順七街35號旁人行道",
+			"En": "No.35, Nanshun 7th St."
+		},
+		"BikesCapacity": 16
+	},
+	{
+		"StationUID": "TAO500312033",
+		"StationID": "500312033",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_興仁市民活動中心",
+			"En": "YouBike2.0_Xingren Civil Activity Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.26213,
+			"PositionLat": 25.01431,
+			"GeoHash": "wsqnr3squ"
+		},
+		"StationAddress": {
+			"Zh_tw": "興仁路330之1號前廣場",
+			"En": "No. 330-1, Xingren Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312034",
+		"StationID": "500312034",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_中山長春路口",
+			"En": "YouBike2.0_Zhongshan Rd. & Changchun Rd. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.30074,
+			"PositionLat": 25.05208,
+			"GeoHash": "wsqq828db"
+		},
+		"StationAddress": {
+			"Zh_tw": "中山路59號東側",
+			"En": "Zhongshan E. Rd. (East)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312035",
+		"StationID": "500312035",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_海湖地景公園",
+			"En": "YouBike2.0_Haihu landscape Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25235,
+			"PositionLat": 25.1133,
+			"GeoHash": "wsqnz5tr8"
+		},
+		"StationAddress": {
+			"Zh_tw": "下海湖公車站東側空地",
+			"En": "Xiahaihu bus station east side space"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312036",
+		"StationID": "500312036",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_機捷路二段外社街口",
+			"En": "YouBike2.0_Sec. 2, Jijie Rd. & Waishe St. Intersection"
+		},
+		"StationPosition": {
+			"PositionLon": 121.3057,
+			"PositionLat": 25.07952,
+			"GeoHash": "wsqq8ms4g"
+		},
+		"StationAddress": {
+			"Zh_tw": "機捷路二段與外社街口東北側人行道",
+			"En": "Sec. 2, Jijie Rd. & Waishe St. Intersection (Northeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500312037",
+		"StationID": "500312037",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_大華籃球場",
+			"En": "YouBike2.0_Dahua Basketball Court"
+		},
+		"StationPosition": {
+			"PositionLon": 121.25342,
+			"PositionLat": 25.03723,
+			"GeoHash": "wsqnrjyh3"
+		},
+		"StationAddress": {
+			"Zh_tw": "大華街65號對側",
+			"En": "No. 65, Ln. 1, Dahua St. (opposite)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TAO500313001",
+		"StationID": "500313001",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_觀音高中",
+			"En": "YouBike2.0_Taoyuan Municipal Guanyin High School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.13388,
+			"PositionLat": 25.01498,
+			"GeoHash": "wsqnk3yfz"
+		},
+		"StationAddress": {
+			"Zh_tw": "文中路46號對面人行道",
+			"En": "No.46, Wenzhong Rd.(opposite)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TAO500313002",
+		"StationID": "500313002",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_觀音中興停車場",
+			"En": "YouBike2.0_Guanyin Zhongxing Parking Lot"
+		},
+		"StationPosition": {
+			"PositionLon": 121.08099,
+			"PositionLat": 25.0382,
+			"GeoHash": "wsqn7q06p"
+		},
+		"StationAddress": {
+			"Zh_tw": "中興路與玉林路口",
+			"En": "Zhongxing Rd./Yulin Rd."
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500313003",
+		"StationID": "500313003",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_觀音國小",
+			"En": "YouBike2.0_Guan-Yin Elementary School"
+		},
+		"StationPosition": {
+			"PositionLon": 121.08359,
+			"PositionLat": 25.03451,
+			"GeoHash": "wsqn7m6ks"
+		},
+		"StationAddress": {
+			"Zh_tw": "文化路61號對面人行道",
+			"En": "No.61, Wenhua Rd.(opposite)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500313004",
+		"StationID": "500313004",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_觀音區棒壘球場",
+			"En": "YouBike2.0_Baseball and Softball Field of Guanyin Dist."
+		},
+		"StationPosition": {
+			"PositionLon": 121.13821,
+			"PositionLat": 25.04467,
+			"GeoHash": "wsqnkx4pu"
+		},
+		"StationAddress": {
+			"Zh_tw": "福興街147之1號對面停車場",
+			"En": "No147-1, Fuxing Street"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TAO500313005",
+		"StationID": "500313005",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_觀音樹林里籃球場",
+			"En": "YouBike2.0_Guanyin Shulin Vil. Basketball Court"
+		},
+		"StationPosition": {
+			"PositionLon": 121.1231,
+			"PositionLat": 25.0517,
+			"GeoHash": "wsqns0x0s"
+		},
+		"StationAddress": {
+			"Zh_tw": "民生路與民生路71巷口",
+			"En": "Ln. 71, Minsheng Rd. & Minsheng Rd.  intersection"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TAO500313006",
+		"StationID": "500313006",
+		"AuthorityID": "TAO",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_觀音行政園區",
+			"En": "YouBike2.0_Guanyin Executive Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.08393,
+			"PositionLat": 25.0277,
+			"GeoHash": "wsqn7k4su"
+		},
+		"StationAddress": {
+			"Zh_tw": "觀新路52號旁",
+			"En": "No. 52, Guanxin Rd."
+		},
+		"BikesCapacity": 10
+	}
+]

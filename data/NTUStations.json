@@ -1,0 +1,1256 @@
+[
+	{
+		"StationUID": "TPE500101029",
+		"StationID": "500101029",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大環研大樓",
+			"En": "YouBike2.0_NTU Environment Research Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54503,
+			"PositionLat": 25.01234,
+			"GeoHash": "wsqqmc67k"
+		},
+		"StationAddress": {
+			"Zh_tw": "芳蘭路/基隆路三段155巷口",
+			"En": "Fanglan Rd & Ln. 155, Sec. 3, Keelung Rd. Intersection"
+		},
+		"BikesCapacity": 15
+	},
+	{
+		"StationUID": "TPE500101030",
+		"StationID": "500101030",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大永齡生醫工程館",
+			"En": "YouBike2.0_NTU Yonglin Biomedical Engineering Hall"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54656,
+			"PositionLat": 25.0136,
+			"GeoHash": "wsqqmcedb"
+		},
+		"StationAddress": {
+			"Zh_tw": "芳蘭路51號西北側",
+			"En": "No. 51, Fanglan Rd.(Northwest)"
+		},
+		"BikesCapacity": 34
+	},
+	{
+		"StationUID": "TPE500101031",
+		"StationID": "500101031",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大男七舍前",
+			"En": "YouBike2.0_NTU 7th Men's Dorm"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54698,
+			"PositionLat": 25.01537,
+			"GeoHash": "wsqqmcgv1"
+		},
+		"StationAddress": {
+			"Zh_tw": "長興街/長興街80巷口西側",
+			"En": "Ln. 80, Changxing St. Intersection(West)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500101032",
+		"StationID": "500101032",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大男一舍前",
+			"En": "YouBike2.0_NTU 1st Men's Dorm"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54535,
+			"PositionLat": 25.01637,
+			"GeoHash": "wsqqmf4dg"
+		},
+		"StationAddress": {
+			"Zh_tw": "長興街50號西北側",
+			"En": "No. 50, Changxing St.(Northwest)"
+		},
+		"BikesCapacity": 61
+	},
+	{
+		"StationUID": "TPE500101033",
+		"StationID": "500101033",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大男六舍前",
+			"En": "YouBike2.0_NTU 6th Men's Dorm"
+		},
+		"StationPosition": {
+			"PositionLon": 121.5452,
+			"PositionLat": 25.01664,
+			"GeoHash": "wsqqmf4s2"
+		},
+		"StationAddress": {
+			"Zh_tw": "大安區長興街31號",
+			"En": "No. 31, Changxing St."
+		},
+		"BikesCapacity": 46
+	},
+	{
+		"StationUID": "TPE500101034",
+		"StationID": "500101034",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大動物醫院前",
+			"En": "YouBike2.0_NTU Veterinary Hospital"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54291,
+			"PositionLat": 25.01576,
+			"GeoHash": "wsqqmcbz7"
+		},
+		"StationAddress": {
+			"Zh_tw": "基隆路三段155巷/基隆路四段口",
+			"En": "Ln. 155, Sec. 3, Keelung Rd. Intersection"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TPE500101035",
+		"StationID": "500101035",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大土木研究大樓前",
+			"En": "YouBike2.0_NTU Civil Engineering Research Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.5476,
+			"PositionLat": 25.01787,
+			"GeoHash": "wsqqmfk78"
+		},
+		"StationAddress": {
+			"Zh_tw": "辛亥路三段188號",
+			"En": "No. 188, Sec. 3, Xinhai Rd."
+		},
+		"BikesCapacity": 24
+	},
+	{
+		"StationUID": "TPE500101036",
+		"StationID": "500101036",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大萬才館前",
+			"En": "YouBike2.0_NTU Wan Tsai Research Hall"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54497,
+			"PositionLat": 25.02032,
+			"GeoHash": "wsqqmff3g"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大萬才館北側",
+			"En": "NTU Wan Tsai Research Hall"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500101037",
+		"StationID": "500101037",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大國青大樓宿舍前",
+			"En": "YouBike2.0_NTU Guo - Ching Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54432,
+			"PositionLat": 25.02076,
+			"GeoHash": "wsqqmfcu7"
+		},
+		"StationAddress": {
+			"Zh_tw": "辛亥路三段30號西北側",
+			"En": "No. 30, Sec. 3, Xinhai Rd.(Northwest)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500101038",
+		"StationID": "500101038",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大社科院圖書館前",
+			"En": "YouBike2.0_NTU College of social Sciences Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54284,
+			"PositionLat": 25.02101,
+			"GeoHash": "wsqqmfbvc"
+		},
+		"StationAddress": {
+			"Zh_tw": "辛亥路與復興南路口西南側",
+			"En": "Xinhai Fuxing Rd. Intersection (Southwest)"
+		},
+		"BikesCapacity": 27
+	},
+	{
+		"StationUID": "TPE500101039",
+		"StationID": "500101039",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大法人語言訓練中心前",
+			"En": "YouBike2.0_NTU Language Training & Testing Center"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54081,
+			"PositionLat": 25.02104,
+			"GeoHash": "wsqqmdzq4"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大法人語言訓練中心北側",
+			"En": "NTU Language Training & Testing Center(North)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "TPE500101040",
+		"StationID": "500101040",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大綜合體育館停車場前",
+			"En": "YouBike2.0_NTU Sports Center Car Park"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53626,
+			"PositionLat": 25.0222,
+			"GeoHash": "wsqqmehhb"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大綜合體育館北側",
+			"En": "NTU Sports Center(North)"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "TPE500101209",
+		"StationID": "500101209",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大資訊大樓",
+			"En": "YouBike2.0_NTU Information Building"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54153,
+			"PositionLat": 25.02101,
+			"GeoHash": "wsqqmdzvf"
+		},
+		"StationAddress": {
+			"Zh_tw": "辛亥路二段(臺大外語學院外)",
+			"En": "Sec. 2, Xinhai Rd.(NTU Language Center)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "TPE500119005",
+		"StationID": "500119005",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大水源舍區A棟",
+			"En": "YouBike2.0_NTU ShuiYuan Dorms(A)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53044,
+			"PositionLat": 25.01493,
+			"GeoHash": "wsqqm3zf8"
+		},
+		"StationAddress": {
+			"Zh_tw": "汀洲路三段60巷2弄路側(A舍北側)",
+			"En": "Aly. 2, Ln. 60, Sec. 3, Tingzhou Rd. Dorms A(North)"
+		},
+		"BikesCapacity": 37
+	},
+	{
+		"StationUID": "TPE500119006",
+		"StationID": "500119006",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大卓越研究大樓",
+			"En": "YouBike2.0_NTU Complex for Research Excellence"
+		},
+		"StationPosition": {
+			"PositionLon": 121.52917,
+			"PositionLat": 25.01466,
+			"GeoHash": "wsqqm3ybf"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大水源舍區C南側",
+			"En": "NTU Prince House Chang Hsing Dorms C(South)"
+		},
+		"BikesCapacity": 32
+	},
+	{
+		"StationUID": "TPE500119007",
+		"StationID": "500119007",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大水源修齊會館",
+			"En": "YouBike2.0_NTU ShuiYuan HsiuChi House"
+		},
+		"StationPosition": {
+			"PositionLon": 121.52997,
+			"PositionLat": 25.01411,
+			"GeoHash": "wsqqm3xmv"
+		},
+		"StationAddress": {
+			"Zh_tw": "思源街16號之1旁",
+			"En": "No.16-1, Siyuan St."
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TPE500119008",
+		"StationID": "500119008",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大檔案展示館",
+			"En": "YouBike2.0_NTU Archives"
+		},
+		"StationPosition": {
+			"PositionLon": 121.52895,
+			"PositionLat": 25.01391,
+			"GeoHash": "wsqqm3wst"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大檔案展示館東北側",
+			"En": "NTU Archives(Northeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119009",
+		"StationID": "500119009",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大水源舍區B棟",
+			"En": "YouBike2.0_NTU ShuiYuan Dorms(B)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53009,
+			"PositionLat": 25.01525,
+			"GeoHash": "wsqqm3zs2"
+		},
+		"StationAddress": {
+			"Zh_tw": "汀洲路三段60巷2弄路側(B舍北側)",
+			"En": "Aly. 2, Ln. 60, Sec. 3, Tingzhou Rd. Dorms B(North)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TPE500119043",
+		"StationID": "500119043",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大男八舍東側",
+			"En": "YouBike2.0_NTU 8th Men's Dorm(East)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54531,
+			"PositionLat": 25.01729,
+			"GeoHash": "wsqqmf686"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大男八舍東側",
+			"En": "NTU 8th Men's Dorm(East)"
+		},
+		"BikesCapacity": 42
+	},
+	{
+		"StationUID": "TPE500119044",
+		"StationID": "500119044",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大禮賢樓東南側",
+			"En": "YouBike2.0_NTU Courtesy House(Southeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53759,
+			"PositionLat": 25.01408,
+			"GeoHash": "wsqqm9svx"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大仰萃樓東南側",
+			"En": "NTU The Apex Building(Southeast)"
+		},
+		"BikesCapacity": 23
+	},
+	{
+		"StationUID": "TPE500119045",
+		"StationID": "500119045",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大農業陳列館北側",
+			"En": "YouBike2.0_NTU Agricultural Exhibition Hall(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53404,
+			"PositionLat": 25.01839,
+			"GeoHash": "wsqqmd6qs"
+		},
+		"StationAddress": {
+			"Zh_tw": "農業陳列館北側",
+			"En": "NTU Agricultural Exhibition Hall(North)"
+		},
+		"BikesCapacity": 45
+	},
+	{
+		"StationUID": "TPE500119046",
+		"StationID": "500119046",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大管理學院二館北側",
+			"En": "YouBike2.0_NTU Building 2, College of Management(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53673,
+			"PositionLat": 25.01355,
+			"GeoHash": "wsqqm9s67"
+		},
+		"StationAddress": {
+			"Zh_tw": "管理學院二號館北側",
+			"En": "NTU Building 2, College of Management(North)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "TPE500119047",
+		"StationID": "500119047",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大土木系館",
+			"En": "YouBike2.0_NTU Dept. of Civil Engineering"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53844,
+			"PositionLat": 25.01761,
+			"GeoHash": "wsqqmdmd4"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大土木工程學系所南側",
+			"En": "NTU Dept. of Civil Engineering(South)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TPE500119048",
+		"StationID": "500119048",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大大一女舍北側",
+			"En": "YouBike2.0_NTU Freshman Women's Dorm(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53436,
+			"PositionLat": 25.01547,
+			"GeoHash": "wsqqm9fte"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大女一舍北側",
+			"En": "NTU Freshman Women's Dorm(North)"
+		},
+		"BikesCapacity": 53
+	},
+	{
+		"StationUID": "TPE500119049",
+		"StationID": "500119049",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大女九舍西南側",
+			"En": "YouBike2.0_NTU 9th Women's Dorm(Southwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53902,
+			"PositionLat": 25.01937,
+			"GeoHash": "wsqqmdwh2"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大女九舍西南側",
+			"En": "NTU 9th Women's Dorm(Southwest)"
+		},
+		"BikesCapacity": 62
+	},
+	{
+		"StationUID": "TPE500119050",
+		"StationID": "500119050",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大小福樓東側",
+			"En": "YouBike2.0_NTU Xiao Fu Commissary(East)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.5376,
+			"PositionLat": 25.01846,
+			"GeoHash": "wsqqmdkzp"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大小福樓東側",
+			"En": "NTU Xiao Fu Commissary(East)"
+		},
+		"BikesCapacity": 31
+	},
+	{
+		"StationUID": "TPE500119051",
+		"StationID": "500119051",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大立體機車停車場",
+			"En": "YouBike2.0_NTU Parking lot(Motorcycle)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54251,
+			"PositionLat": 25.01616,
+			"GeoHash": "wsqqmf099"
+		},
+		"StationAddress": {
+			"Zh_tw": "基隆路三段/基隆路三段156巷口北側",
+			"En": "Ln. 156, Sec. 3, Keelung Rd. Intersection(North)"
+		},
+		"BikesCapacity": 27
+	},
+	{
+		"StationUID": "TPE500119052",
+		"StationID": "500119052",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大工綜館南側",
+			"En": "YouBike2.0_NTU College of Engineering Building(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54059,
+			"PositionLat": 25.01857,
+			"GeoHash": "wsqqmdrpt"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大工學院東南側",
+			"En": "NTU College of Engineering Building(Southeast)"
+		},
+		"BikesCapacity": 26
+	},
+	{
+		"StationUID": "TPE500119053",
+		"StationID": "500119053",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大天文數學館南側",
+			"En": "YouBike2.0_NTU Astronomy - Mathematics Building(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53783,
+			"PositionLat": 25.02108,
+			"GeoHash": "wsqqmdvnk"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大天文數學館西南側",
+			"En": "NTU Astronomy - Mathematics Building(Southwest)"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "TPE500119054",
+		"StationID": "500119054",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大心理系館南側",
+			"En": "YouBike2.0_NTU Dept. of Psychology (South Hall)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.5404,
+			"PositionLat": 25.01941,
+			"GeoHash": "wsqqmdxh8"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大心理學系南側",
+			"En": "NTU Dept. of Psychology (South Hall)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TPE500119055",
+		"StationID": "500119055",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大樂學館東側",
+			"En": "YouBike2.0_NTU Lesyue Building(East)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53585,
+			"PositionLat": 25.01793,
+			"GeoHash": "wsqqmd7sn"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大文學院西側",
+			"En": "Liberal Arts Research Building(West)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "TPE500119056",
+		"StationID": "500119056",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大農化新館西側",
+			"En": "YouBike2.0_NTU New Agricultural Chemistry Building(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53535,
+			"PositionLat": 25.01627,
+			"GeoHash": "wsqqmd566"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大生化科技學系西側",
+			"En": "NTU Department of Biochemical Science and Technology(West)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119057",
+		"StationID": "500119057",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大五號館西側",
+			"En": "YouBike2.0_NTU Building No.5(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53718,
+			"PositionLat": 25.01666,
+			"GeoHash": "wsqqmdhst"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大生物系館西側",
+			"En": "NTU Department of Bioenvironmental Systems Engineering(West)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500119058",
+		"StationID": "500119058",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大舊體育館西側",
+			"En": "YouBike2.0_NTU Gymnasium(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53583,
+			"PositionLat": 25.0198,
+			"GeoHash": "wsqqmdewy"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大田徑場東側",
+			"En": "NTU Sports Field(East)"
+		},
+		"BikesCapacity": 33
+	},
+	{
+		"StationUID": "TPE500119059",
+		"StationID": "500119059",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大共同教室北側",
+			"En": "YouBike2.0_NTU Common Subjects Classroom Building(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53791,
+			"PositionLat": 25.01595,
+			"GeoHash": "wsqqmdj0q"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大共同教學館東北側",
+			"En": "NTU Common Subjects Classroom Building(Northeast)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500119060",
+		"StationID": "500119060",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大共同教室東南側",
+			"En": "YouBike2.0_NTU Common Subjects Classroom Building(Southeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53786,
+			"PositionLat": 25.01566,
+			"GeoHash": "wsqqm9vnv"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大共同教學館東南側",
+			"En": "NTU Common Subjects Classroom Building(Southeast)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TPE500119061",
+		"StationID": "500119061",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大鹿鳴堂東側",
+			"En": "YouBike2.0_NTU LuMing Hall(East)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53786,
+			"PositionLat": 25.01511,
+			"GeoHash": "wsqqm9v5t"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大鹿鳴廣場人行道側",
+			"En": "NTU Lu Ming Square(Sidewalk)"
+		},
+		"BikesCapacity": 27
+	},
+	{
+		"StationUID": "TPE500119062",
+		"StationID": "500119062",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大公館停車場西北側",
+			"En": "YouBike2.0_NTU Gongguan Car Park (Northwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53798,
+			"PositionLat": 25.01345,
+			"GeoHash": "wsqqm9t3b"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大公館停車場西北側",
+			"En": "NTU Gongguan Car Park (Northwest)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TPE500119063",
+		"StationID": "500119063",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大第二行政大樓南側",
+			"En": "YouBike2.0_NTU 2nd Administration Building(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53635,
+			"PositionLat": 25.01603,
+			"GeoHash": "wsqqmdh0f"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大行政大樓西側",
+			"En": "NTU Administration Building(West)"
+		},
+		"BikesCapacity": 27
+	},
+	{
+		"StationUID": "TPE500119064",
+		"StationID": "500119064",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大明達館機車停車場",
+			"En": "YouBike2.0_NTU Ming - Da Hall Parking"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54398,
+			"PositionLat": 25.01754,
+			"GeoHash": "wsqqmf39s"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大明達館西側",
+			"En": "NTU Ming - Da Hall(West)"
+		},
+		"BikesCapacity": 28
+	},
+	{
+		"StationUID": "TPE500119065",
+		"StationID": "500119065",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大二號館",
+			"En": "YouBike2.0_NTU Building No.2"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53574,
+			"PositionLat": 25.01699,
+			"GeoHash": "wsqqmd5ws"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大物理文物廳北側",
+			"En": "NTU Heritage Hall of Physics"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119066",
+		"StationID": "500119066",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大凝態館南側",
+			"En": "YouBike2.0_NTU Center for Condensed Matter Sciences(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53633,
+			"PositionLat": 25.02157,
+			"GeoHash": "wsqqmeh11"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大物理系館南側",
+			"En": "NTU Dept. of Physics Library"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500119067",
+		"StationID": "500119067",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大社科院西側",
+			"En": "YouBike2.0_NTU College of social Sciences Building(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54145,
+			"PositionLat": 25.02053,
+			"GeoHash": "wsqqmdzg1"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大社科院西側",
+			"En": "NTU College of social Sciences Building(West)"
+		},
+		"BikesCapacity": 42
+	},
+	{
+		"StationUID": "TPE500119068",
+		"StationID": "500119068",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大社會系館南側",
+			"En": "YouBike2.0_NTU Department of Sociology(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54175,
+			"PositionLat": 25.01987,
+			"GeoHash": "wsqqmf8p2"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大社會及社工館南側",
+			"En": "NTU Dept. of Sociology / Dept. of Social Work(South)"
+		},
+		"BikesCapacity": 39
+	},
+	{
+		"StationUID": "TPE500119069",
+		"StationID": "500119069",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大思亮館東南側",
+			"En": "YouBike2.0_NTU Shih - Liang Hall(Southeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53906,
+			"PositionLat": 25.02074,
+			"GeoHash": "wsqqmdyh3"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大思亮館東南側",
+			"En": "NTU Shih - Liang Hall(Southeast)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119070",
+		"StationID": "500119070",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大椰林小舖",
+			"En": "YouBike2.0_NTU Green Cabin"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53583,
+			"PositionLat": 25.01561,
+			"GeoHash": "wsqqm9gwq"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大椰林小舖旁",
+			"En": "NTU Green Cabin"
+		},
+		"BikesCapacity": 48
+	},
+	{
+		"StationUID": "TPE500119071",
+		"StationID": "500119071",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大計資中心南側",
+			"En": "YouBike2.0_NTU Computer and Information Networking Center(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53992,
+			"PositionLat": 25.02036,
+			"GeoHash": "wsqqmdydj"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大計算機網路資訊中心南側",
+			"En": "NTU Computer and Information Networking Center(South)"
+		},
+		"BikesCapacity": 34
+	},
+	{
+		"StationUID": "TPE500119072",
+		"StationID": "500119072",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大原分所北側",
+			"En": "YouBike2.0_NTU Institute of Atomic and Molecular Sciences(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53868,
+			"PositionLat": 25.01881,
+			"GeoHash": "wsqqmdtc0"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大原子與分子科學研究所東北側",
+			"En": "NTU Institute of Atomic and Molecular Sciences(Northeast)"
+		},
+		"BikesCapacity": 12
+	},
+	{
+		"StationUID": "TPE500119074",
+		"StationID": "500119074",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大生命科學館西北側",
+			"En": "YouBike2.0_NTU Life Science Building(Northwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53825,
+			"PositionLat": 25.01548,
+			"GeoHash": "wsqqm9vmw"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大動物博物館西側",
+			"En": "Museum of Zoology(West)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TPE500119075",
+		"StationID": "500119075",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大第一活動中心西南側",
+			"En": "YouBike2.0_NTU 1st Student Activity Center(Southwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53995,
+			"PositionLat": 25.01761,
+			"GeoHash": "wsqqmdqdn"
+		},
+		"StationAddress": {
+			"Zh_tw": "第一學生活動中心東南側",
+			"En": "NTU 1st Student Activity Center(Southeast)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "TPE500119076",
+		"StationID": "500119076",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大博理館西側",
+			"En": "YouBike2.0_NTU Barry Lam Hall(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54195,
+			"PositionLat": 25.01922,
+			"GeoHash": "wsqqmf85s"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大博理館西側",
+			"En": "NTU Barry Lam Hall(West)"
+		},
+		"BikesCapacity": 22
+	},
+	{
+		"StationUID": "TPE500119077",
+		"StationID": "500119077",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大博雅館西側",
+			"En": "YouBike2.0_NTU Liberal Education Classroom Building(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.536,
+			"PositionLat": 25.0189,
+			"GeoHash": "wsqqmdecd"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大博雅館西側",
+			"En": "NTU Liberal Education Classroom Building(West)"
+		},
+		"BikesCapacity": 56
+	},
+	{
+		"StationUID": "TPE500119078",
+		"StationID": "500119078",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大森林館北側",
+			"En": "YouBike2.0_NTU Forestry Building(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53888,
+			"PositionLat": 25.01704,
+			"GeoHash": "wsqqmdjyv"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大森林系學系北側",
+			"En": "NTU Forestry Building(North)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119079",
+		"StationID": "500119079",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大一號館",
+			"En": "YouBike2.0_NTU Building No.1"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53455,
+			"PositionLat": 25.01698,
+			"GeoHash": "wsqqmd4y2"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大植物魚類標本館一號館北側",
+			"En": "NTU Building No.1(North)"
+		},
+		"BikesCapacity": 19
+	},
+	{
+		"StationUID": "TPE500119080",
+		"StationID": "500119080",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大小小福西南側",
+			"En": "YouBike2.0_NTU Xiao Xiao Fu Commissary(Southwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53686,
+			"PositionLat": 25.01539,
+			"GeoHash": "wsqqm9umn"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大進修教育大樓",
+			"En": "NTU Omnium Gatherum Building"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119081",
+		"StationID": "500119081",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大教研館北側",
+			"En": "YouBike2.0_NTU Teaching and Research Building(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53909,
+			"PositionLat": 25.01337,
+			"GeoHash": "wsqqm9w16"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大雅頌廣場東南側",
+			"En": "NTU The Odeum Square(Southeast)"
+		},
+		"BikesCapacity": 11
+	},
+	{
+		"StationUID": "TPE500119082",
+		"StationID": "500119082",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大四號館東北側",
+			"En": "YouBike2.0_NTU Building No.4(Northeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53781,
+			"PositionLat": 25.01703,
+			"GeoHash": "wsqqmdjnu"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大園藝暨景觀學系北側",
+			"En": "NTU Department of Horticulture(North)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119083",
+		"StationID": "500119083",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大新生教室南側",
+			"En": "YouBike2.0_NTU Freshman Classroom Building(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53846,
+			"PositionLat": 25.0196,
+			"GeoHash": "wsqqmdtte"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大新生教學館南側",
+			"En": "NTU Freshman Classroom Building(South)"
+		},
+		"BikesCapacity": 18
+	},
+	{
+		"StationUID": "TPE500119084",
+		"StationID": "500119084",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大鄭江樓北側",
+			"En": "YouBike2.0_NTU Tseng Jiang Hall(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54305,
+			"PositionLat": 25.019,
+			"GeoHash": "wsqqmf8fn"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大新聞研究所南側",
+			"En": "NTU Graduate Institute of Journalism(South)"
+		},
+		"BikesCapacity": 10
+	},
+	{
+		"StationUID": "TPE500119085",
+		"StationID": "500119085",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大電機二館東南側",
+			"En": "YouBike2.0_NTU E. E. Building No. 2(Southeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54247,
+			"PositionLat": 25.01857,
+			"GeoHash": "wsqqmf2x8"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大電機二館南側",
+			"En": "NTU E. E. Building No. 2(Southeast)"
+		},
+		"BikesCapacity": 14
+	},
+	{
+		"StationUID": "TPE500119086",
+		"StationID": "500119086",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大圖資系館北側",
+			"En": "YouBike2.0_NTU Dept. of Library and Information Sciences(North)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53928,
+			"PositionLat": 25.01804,
+			"GeoHash": "wsqqmdqhw"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大圖書資訊館北側",
+			"En": "NTU Dept. of Library and Information Sciences(North)"
+		},
+		"BikesCapacity": 25
+	},
+	{
+		"StationUID": "TPE500119087",
+		"StationID": "500119087",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大總圖書館西南側",
+			"En": "YouBike2.0_NTU Main Library(Southwest)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54031,
+			"PositionLat": 25.0169,
+			"GeoHash": "wsqqmdnyn"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大圖書館西南側",
+			"En": "NTU Main Library(Southwest)"
+		},
+		"BikesCapacity": 30
+	},
+	{
+		"StationUID": "TPE500119088",
+		"StationID": "500119088",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大黑森林西側",
+			"En": "YouBike2.0_NTU Black Forest(West)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54347,
+			"PositionLat": 25.01995,
+			"GeoHash": "wsqqmf9rb"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大霖澤館南側",
+			"En": "NTU Tsai Lecture Hall(South)"
+		},
+		"BikesCapacity": 20
+	},
+	{
+		"StationUID": "TPE500119089",
+		"StationID": "500119089",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大獸醫館南側",
+			"En": "YouBike2.0_NTU Dept. of Veterinary Medicine(South)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54242,
+			"PositionLat": 25.01791,
+			"GeoHash": "wsqqmf27z"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大獸醫系館南側",
+			"En": "NTU Dept. of Veterinary Medicine(South)"
+		},
+		"BikesCapacity": 24
+	},
+	{
+		"StationUID": "TPE500119090",
+		"StationID": "500119090",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大新體育館東南側",
+			"En": "YouBike2.0_NTU Sports Center(Southeast)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.53591,
+			"PositionLat": 25.02112,
+			"GeoHash": "wsqqmdgwx"
+		},
+		"StationAddress": {
+			"Zh_tw": "臺大體育館東側",
+			"En": "NTU Sports Center(East)"
+		},
+		"BikesCapacity": 40
+	},
+	{
+		"StationUID": "TPE500119091",
+		"StationID": "500119091",
+		"AuthorityID": "TPE",
+		"StationName": {
+			"Zh_tw": "YouBike2.0_臺大明達館北側(員工宿舍)",
+			"En": "YouBike2.0_NTU Ming - Da Hall (Staff Dormitory)"
+		},
+		"StationPosition": {
+			"PositionLon": 121.54469,
+			"PositionLat": 25.01816,
+			"GeoHash": "wsqqmf6jk"
+		},
+		"StationAddress": {
+			"Zh_tw": "明達館北側前空地",
+			"En": "NTU Ming - Da Hall (North)"
+		},
+		"BikesCapacity": 18
+	}
+]
